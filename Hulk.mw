@@ -24,6 +24,18 @@ Mõndsi hulkõ saa ärq üteldäq sõnnoga, näütüses
 :''C'' = {4, 3, 1, 5, 2},
 :''D'' = {[[Hargla kihlkund]], [[Kanepi kihlkund]], [[Karula kihlkund]], [[Põlva kihlkund]], [[Rõugõ kihlkund]], [[Räpinä kihlkund]], [[Urvastõ kihlkund]], [[Vahtsõliina kihlkund]]}. 
 
+Kats esiq üleskirotamisviisi võivaq piiritellä sama hulga. Näütüses iinpuul tuud hulgaq ''A'' ja ''C'' ommaq tegeligult üts ja sama hulk, ''A = C'', tuuperäst et näil ommaq üteq ja samaq eloniguq. Niisamatõ ''B = D''. 
+
+Hulk muutu-iq tuust, ku timä elonikka järekõrda muuta vai mõnd elonikku lukõq üles mito kõrda. Näütüses  {8, 3} = {3, 8} = {3, 8, 3, 3}.
+
+Tõnõkõrd tarvitõdas hulga elonikka üleslugõmisõl kolmõ punkti. Näütüses saa edimädse naturaalarvo hulga või lühidähe üles kirotaq 
+
+:{1, 2, 3, ..., 100},
+
+kon kolm punkti näütäseq, et nimekiri lätt edesi hindästmõista moodo perrä. Niisama [[paarinarv]]õ hulga või kirjä pandaq 
+
+:{2, 4, 6, 8, ...}.
+
 [[Category:Matõmaatiga]]
 [[Category:Hulgateooria]]
 
