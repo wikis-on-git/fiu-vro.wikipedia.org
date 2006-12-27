@@ -1,3 +1,5 @@
+[[Image:Venn A subset B.svg|150px|thumb|right|''A'' om ''B'' alambhulk]]
+
 Hulk ''A'' om hulga ''B'' '''alambhulk''' (kirotõdas <math>A\subseteq B</math>), ku ''A'' ega elonik om ''B'' elonik kah. Sama as'a kotsilõ võidas viil üteldäq, et "''B om A ülembhulk''", "''A sisaldus hulgan B''", "''B sisaldas hulka A''" vai "''hulk A om hulga B sisen''". Mõnikõrd kirotõdas viil <math>B\supseteq A</math>. Nii tekküs [[katõhaardja köüdüs|köüdüs]] <math>\subseteq</math> hulkõ vaihhõl, midä kutsutas '''sisaldumisköüdüs'''. 
 
 Ku hulk ''A'' olõ-iq hulga ''B'' alambhulk, kirotõdas <math>A\not\subseteq B</math>.
