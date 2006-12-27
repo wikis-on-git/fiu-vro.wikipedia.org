@@ -40,6 +40,27 @@ Keerolidsõmpi hulkõ man tarvitadas hariligult tõistsugust üleskirotust. Nä�
 :''E'' = {<math>n^2</math> | ''n'' om [[terveharv]] ja  0 ≤ ''n'' ≤ 11}.
 Tan märki "|" (mõnikõrd tarvitõdas tuu asõmõl märki ":") tulõ lukõq "nii, et" vai "kon". Säänest kiräpilti loetas: "''E'' om hulk, minka eloniguq ommaq arvoq <math>n^2</math>, kon ''n'' om terveharv, miä olõ-iq vähämb 0-st ei ka suurõmb 11-st."
 
+==Hulgan olõminõ==
+
+Tuud, kas määnegi asi om vai olõ-iq määntsegi hulga elonik, märgitäs vastavalt sümboliga <math>\in</math> vai <math>\notin</math>. Ku <math>k\in L</math>, sõs üteldäs "''k'' om hulgan ''L''" vai "''k'' kuulus hulka ''L''", ja ku <math>k\notin L</math>, sõs üteldäs "''k'' olõ-iq hulgan ''L''" vai "''k'' kuulu-iq hulka ''L''". Nii näütüses iinpuul tuud hulkõ kõrral  
+
+:*<math>2 \in A</math> ja <math>49 = 7^2 \in E</math>, agaq 
+:*<math>6 \notin A</math> ja [[Võnnu kihlkund]] <math>\notin B</math>.
+
+==Esiqerälidseq hulgaq==
+
+Mõnõq hulgaq ommaq matõmaatigan niivõrra tähtsäq ja näid pruugitas niivõrra sakõstõ, et näide jaos ommaq vällä kujonuq umaq kimmäq sümboliq. Mõnõq sääntseq hulgaq ommaq järgmädseq.
+
+*<math>\emptyset</math> - [[tühi hulk]], hulk, kon olõ-iq üttegi elonikku.
+*<math>\mathbb{N}</math> - kõiki [[naturaalarv]]õ hulk, <math>\mathbb{N}</math> = {1, 2, 3, ...}.
+*<math>\mathbb{Z}</math> - kõiki [[terveharv|tervidearvõ]] hulk, <math>\mathbb{Z}</math> = {..., -2, -1, 0, 1, 2, ...}.
+*<math>\mathbb{Q}</math> - kõiki [[jagoarv]]õ hulk, <math>\mathbb{Q}</math> = {<math>\begin{matrix} \frac{a}{b} \end{matrix}</math> : ''a'',''b'' <math>\in \mathbb{Z}</math> ja ''b'' ≠ 0}. 
+*<math>\mathbb{R}</math> - kõiki [[realarv]]õ hulk. 
+*<math>\mathbb{C}</math> - kõiki [[kompleksarv]]õ hulk.
+
+==Hulgaarvangoq==
+
+Om olõman mitmit arvamisõ viise, miä lupassõq olõmanolõvist hulgõst vahtsit tetäq. Sääntsit viise kutsutas [[hulgaarvang]]is. Noist tähtsämbäq ommaq [[kogo]], [[ütine osa]], [[tävvend]] ja [[õkvakõrrus]].
 
 [[Category:Matõmaatiga]]
 [[Category:Hulgateooria]]
