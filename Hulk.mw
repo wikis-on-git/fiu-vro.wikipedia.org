@@ -31,10 +31,15 @@ Hulk muutu-iq tuust, ku timä elonikka järekõrda muuta vai mõnd elonikku luk�
 Tõnõkõrd tarvitõdas hulga elonikka üleslugõmisõl kolmõ punkti. Näütüses saa edimädse naturaalarvo hulga või lühidähe üles kirotaq 
 
 :{1, 2, 3, ..., 100},
-
 kon kolm punkti näütäseq, et nimekiri lätt edesi hindästmõista moodo perrä. Niisama [[paarinarv]]õ hulga või kirjä pandaq 
 
 :{2, 4, 6, 8, ...}.
+
+Keerolidsõmpi hulkõ man tarvitadas hariligult tõistsugust üleskirotust. Näütüses hulga, mink eloniguq ommaq katstõist kõgõ vähämbät [[terveharv|tervearvo]] kruutu, või kirjä pandaq 
+
+:''E'' = {<math>n^2</math> | ''n'' om [[terveharv]] ja  0 ≤ ''n'' ≤ 11}.
+Tan märki "|" (mõnikõrd tarvitõdas tuu asõmõl märki ":") tulõ lukõq "nii, et" vai "kon". Säänest kiräpilti loetas: "''E'' om hulk, minka eloniguq ommaq arvoq <math>n^2</math>, kon ''n'' om terveharv, miä olõ-iq vähämb 0-st ei ka suurõmb 11-st."
+
 
 [[Category:Matõmaatiga]]
 [[Category:Hulgateooria]]
