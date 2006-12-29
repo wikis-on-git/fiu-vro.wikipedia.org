@@ -1,0 +1,39 @@
+[[Hulk|Hulga]] ''X'' '''alamhulkõ hulgas''' kutustas [[matõmaatiga]]n säänest hulka, mink [[hulga elonik|elonikõs]] ommaq kõik hulga ''X'' [[alambhulk|alambhulgaq]]. Hulga ''X'' alamhulkõ hulka tähüstedäs <math>\mathcal{P}(S)</math> vai 2<sup>''X''</sup>. 
+
+Hulga <math>\mathcal{P}(X)</math> eka [[alambhulka]] ''K'' kutustas hulga ''X'' [[alambhulkõ pereh|alambhulkõ perres]].
+
+==Näütüs==
+
+Kui ''X = {a, b, c}'', sõs hulga ''X'' alambhulgaq ommaq 
+
+* <math>\emptyset</math> ([[tühi hulk]]),
+* {a}, 
+* {b},
+* {c},
+* {a, b},
+* {a, c},
+* {b, c},
+* {a, b, c},
+
+ja nii või üteldäq, et hulga ''X'' alambhulkõ hulk om 
+
+:<math>\mathcal{P}(X) = \left\{\{\}, \{a\}, \{b\}, \{c\}, \{a, b\}, \{a, c\}, \{b, c\}, \{a, b, c\}\right\}\,\!</math>
+
+[[Category:Hulgateooria]]
+
+[[ca:Conjunt de les parts]]
+[[cs:Potenční množina]]
+[[de:Potenzmenge]]
+[[es:Conjunto potencia]]
+[[fr:Ensemble des parties d'un ensemble]]
+[[it:Insieme delle parti]]
+[[he:קבוצת החזקה]]
+[[hu:Hatványhalmaz]]
+[[nl:Machtsverzameling]]
+[[ja:冪集合]]
+[[no:Potensmengde]]
+[[pl:Zbiór potęgowy]]
+[[pt:Conjunto de partes]]
+[[ru:Булеан]]
+[[fi:Potenssijoukko]]
+[[zh:冪集]]
