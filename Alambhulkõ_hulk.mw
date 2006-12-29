@@ -1,10 +1,10 @@
 [[Hulk|Hulga]] ''X'' '''alamhulkõ hulgas''' kutustas [[matõmaatiga]]n säänest hulka, mink [[hulga elonik|elonikõs]] ommaq kõik hulga ''X'' [[alambhulk|alambhulgaq]]. Hulga ''X'' alamhulkõ hulka tähüstedäs <math>\mathcal{P}(S)</math> vai 2<sup>''X''</sup>. 
 
-Hulga <math>\mathcal{P}(X)</math> eka [[alambhulka]] ''K'' kutustas hulga ''X'' [[alambhulkõ pereh|alambhulkõ perres]].
+Hulga <math>\mathcal{P}(X)</math> eka [[alambhulk]]a ''K'' kutustas hulga ''X'' [[alambhulkõ pereh|alambhulkõ perres]].
 
 ==Näütüs==
 
-Kui ''X = {a, b, c}'', sõs hulga ''X'' alambhulgaq ommaq 
+Kui ''X'' = {''a, b, c''}, sõs hulga ''X'' alambhulgaq ommaq 
 
 * <math>\emptyset</math> ([[tühi hulk]]),
 * {a}, 
@@ -17,7 +17,7 @@ Kui ''X = {a, b, c}'', sõs hulga ''X'' alambhulgaq ommaq
 
 ja nii või üteldäq, et hulga ''X'' alambhulkõ hulk om 
 
-:<math>\mathcal{P}(X) = \left\{\{\}, \{a\}, \{b\}, \{c\}, \{a, b\}, \{a, c\}, \{b, c\}, \{a, b, c\}\right\}\,\!</math>
+:<math>\mathcal{P}(X) = \left\{ \emptyset, \{a\}, \{b\}, \{c\}, \{a, b\}, \{a, c\}, \{b, c\}, \{a, b, c\}\right\}\,\!</math>
 
 [[Category:Hulgateooria]]
 
