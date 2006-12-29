@@ -1,0 +1,12 @@
+'''Hulkõ kogo''' om [[matõmaatiga]]n sääne [[hulk]], kon ommaq kõik as'aq ([[hulga elonik|eloniguq]]), miä ommaq noidõn hulgõn ja ei midägi muud.
+
+==Definitsiuun==
+
+Hulkõ ''A'' ja ''B'' '''kogo''' om hulk <math>A\cup B</math>, kohe kuulussõ kõik as'aq, miä ommaq kas hulga ''A'' [[hulga elonik|eloniguq]] vai hulga ''B'' eloniguq. Tuu tähendäs, et 
+
+:<math>A\cup B = \{ x\mid x\in A \mathrm{ vai } x\in B\}</math>.
+
+[[Category:hulgateooria]]
+
+[[et:Ühend (matemaatika)]]
+[[en:Union (set theory)]]
