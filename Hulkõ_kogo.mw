@@ -10,7 +10,8 @@ Hulkõ ''A'' ja ''B'' '''kogo''' om hulk <math>A\cup B</math>, kohe kuulussõ k�
 Ületsembält, hulkõ <math>A_i, i\in I</math>, kon ''I'' om määnegi hulk, '''kogo''' om hulk <math>\bigcup_{i\in I}A_i</math>, kohe kuulussõ kõik as'aq, miä kuulussõq vähämbält ütte hulgõst 
 <math>A_i, i\in I</math>. Tuu tähendäs, et 
 
-:<math>\bigcup_{i\in I}A_i = \{ x \mid \mathrm{löüdüs}\; j\in I \;\mathrm{nii, et}\; x\in A_j\}</math>.
+:<math>\bigcup_{i\in I}A_i = \{ x \mid \mathrm{löüdüs}\; j\in I \;\mathrm{nii, et}\; x\in A_j\}
+</math>.
 
 Hulkõ kogo löüdmist nimitedäs näide '''kokkoarvamisõs'''. Katõ hulga kokkoarvamisõ arvang <math>A\cup B</math> üte kimmä hulga ''X'' [[alambhulkõ hulk|alamhulkõ hulga]] <math>\mathcal{A}</math> pääl om tuu hulga <math>\mathcal{A}</math> [[katõhaardja umaarvang]]. 
 
