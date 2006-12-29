@@ -10,7 +10,7 @@ Hulkõ ''A'' ja ''B'' '''kogo''' om hulk <math>A\cup B</math>, kohe kuulusõq k�
 Ületsembält, hulkõ <math>A_i, i\in I</math>, kon ''I'' om määnegi hulk, '''kogo''' om hulk <math>\bigcup_{i\in I}A_i</math>, kohe kuulusõq kõik as'aq, miä kuulusõq vähämbält ütte hulgõst 
 <math>A_i, i\in I</math>. Tuu tähendäs, et 
 
-:<math>\bigcup_{i\in I} A_{i} = \{ \}
+:<math>\bigcup_{i\in I} A_{i} = \{ x \mid \mathrm{löüdüs} \}
 </math>.
 
 <math>= \{ x \mid \mathrm{löüdüs}\; j\in I \;\mathrm{nii, et}\; x\in A_j\}</math>
