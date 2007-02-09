@@ -3,21 +3,23 @@
 ==Haroq==
 ===Arvoteooria alostus===
 
-'''Arvoteooria alostusõn''' uuritas tervitarvõ ilma tõisi matõmaatiga harrõ teknigat tarvitamalda. Tahtõ kuulussõq näütüses tervidearvõ [[jagonõminõ]], [[Eukleidese algoritm]] [[kõgõ suurõmb ütine jagaja|kõgõ suurõmba ütidse jagaja]] löüdmises, [[lihtsäq arvoq]], [[tävvelidseq arvoq]] ja [[kongruents]]iq. Sjoo haro tähtsämbide avastuisi hulgan ommaq [[Fermat' väikene teorem]], [[Euleri teorem]], [[Hiina jäägiteorem]], ja [[ruutvastavussäädüs]]. Viil uuritas arvoteooria alostusõn [[Möbiusõ säädäng]]o, [[Euleri fii-säädängo]], [[tervidearvõ rong]]õ, [[faktoriaal]]õ ja [[Fibonacci arv]]õ umahuisi.
+'''Arvoteooria alostusõn''' uuritas tervitarvõ ilma tõisi matõmaatiga harrõ teknigat tarvitamalda. Tahtõ kuulussõq näütüses tervidearvõ [[jagonõminõ]], [[Eukleidese algoritm]] [[kõgõ suurõmb ütine jagaja|kõgõ suurõmba ütidse jagaja]] löüdmises, [[lihtarvoq]], [[tävvelidseq arvoq]] ja [[kongruents]]iq. Sjoo haro tähtsämbide avastuisi hulgan ommaq [[Fermat' väikene teorem]], [[Euleri teorem]], [[Hiina jäägiteorem]], ja [[ruutvastavussäädüs]]. Viil uuritas arvoteooria alostusõn [[Möbiusõ säädäng]]o, [[Euleri fii-säädängo]], [[tervidearvõ rong]]õ, [[faktoriaal]]õ ja [[Fibonacci arv]]õ umahuisi.
 
 Mitmõq arvoteooria küsümüseq või sõnastaq arvoteooria alostusõ terminiden, agaq näile vastamisõs või vaja minnäq tulõmuisi ja teknigat välästpuult arvoteooria alostust. Sääntseq ommaq näütüses: 
 
-*[[Goldbachi umbarvaminõ]] tuu kotsilõ, et paarinarvoq ommaq katõ lihtsä arvo kogoq.
+*[[Goldbachi umbarvaminõ]] tuu kotsilõ, et paarinarvoq ommaq katõ lihtarvo kogoq.
 *[[Catalani umbarvaminõ]].
-*[[Lihtsidearvõ katsikidõ umbarvaminõ]] tuu kotsilõ, et lihtsidearvõ paarõ om lõpmada pall'o.
+*[[Lihtarvõkatsikidõ umbarvaminõ]] tuu kotsilõ, et lihtarvõ paarõ om lõpmada pall'o.
 *[[Collatzi umbarvaminõ]].
 *[[Fermat' suur teorem]] võrrandi <math>x^n + y^n = z^n</math> lahõndidõ kotsilõ.
 
 ===Analüütiline arvoteooria===
 
-'''Analüütilidsen arvoteoorian''' tarvitadas tervidearvõ uur'misõs [[matõmaatilinõ analüüs|matõmaatilidsõ]] ja [[kompleksmuutuja analüüs]]i massinavärki.
+'''Analüütilidsen arvoteoorian''' tarvitadas tervidearvõ uur'misõs [[matõmaatilinõ analüüs|matõmaatilidsõ]] ja [[kompleksmuutuja analüüs]]i massinavärki. Tuu näütüses ommaq [[lihtarvoteorem]] ja [[Rieanni hüpotees]]. Niisamatõ om analüütiliidsi meetodidega pääle mint [[Waringi probleemile]], [[Lihtarvõkatsikidõ umbarvamisõlõ]] ja [[Goldbachi umbarvamisõlõ]]. Konstantõ <math>\pi</math> ja ''e'' transtsendentsusõ tõõstusõq käüväq kah analüütilidse arvoteooria ala. 
 
 ===Algõbralinõ arvoteooria===
+
+
 
 ===Geomeetriline arvoteooria===
 
