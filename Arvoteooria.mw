@@ -1,1 +1,81 @@
+'''Arvoteooria''' om [[matõmaatiga]] haro, miä uur [[arv]]õ (innekõkkõ [[terveharv|tervidearvõ]]) umahuisi. Matõmaatikit, kiä tegeleseq arvoteooriaga, kutsutas '''arvoteoreetikis'''. Tuu perrä, määntsit meetodit tarvitõdas vai määntsile küsümüisile vastussit otsitas, või arvoteooria jakaq mitmõs haros. 
 
+==Haroq==
+===Arvoteooria alostus===
+
+'''Arvoteooria alostusõn''' uuritas tervitarvõ ilma tõisi matõmaatiga harrõ teknikat tarvitamalda. Tahtõ kuulusõq näütüses tervidearvõ [[jagonõminõ]], [[Eukleidese algoritm]] [[kõgõ suurõmb ütine jagaja|kõgõ suurõmba ütidse jagaja]] löüdmises, [[lihtarvoq]], [[tävvelidseq arvoq]] ja [[kongruents|kongruendsiq]]. Sjoo haro tähtsämbide vällälöüdüisi hulgan ommaq [[Fermat' väikene teorem]], [[Euleri teorem]], [[Hiina jäägiteorem]], ja [[ruutvastavussäädüs]]. Viil uuritas arvoteooria alostusõn [[Möbiusõ säädäng]]u, [[Euleri fii-säädäng]]u, [[tervidearvõ rong]]õ, [[faktoriaal]]õ ja [[Fibonacci arv]]õ umahuisi.
+
+Mitmõq arvoteooria küsümüseq või sõnastaq arvoteooria alostusõ terminiin, a näile vastamisõs või vaia minnäq tulõmuisi ja teknikat välästpuult arvoteooria alostust. Sääntseq ommaq näütüses: 
+
+*[[Goldbachi umbarvaminõ]] tuu kotsilõ, et paarinarvoq ommaq katõ lihtarvo kogoq.
+*[[Catalani umbarvaminõ]].
+*[[Lihtarvõkatsikidõ umbarvaminõ]] tuu kotsilõ, et lihtarvõ paarõ om lõpmada pall'o.
+*[[Collatzi umbarvaminõ]].
+*[[Fermat' suur teorem]] võrrandi <math>x^n + y^n = z^n</math> lahendidõ kotsilõ.
+
+===Analüütiline arvoteooria===
+
+'''Analüütilidsen arvoteoorian''' tarvitõdas tervidearvõ uur'misõs [[matõmaatilinõ analüüs|matõmaatilidsõ]] ja [[kompleksmuutuja analüüs]]i massinavärki. Tuu näütüses ommaq [[lihtarvoteorem]] ja [[Rieanni hüpotees]]. Niisamatõ om analüütiliidsi meetodidõga pääle mint [[Waringi probleem]]ile, [[Lihtarvõkatsikidõ umbarvamisõlõ]] ja [[Goldbachi umbarvamisõlõ]]. Konstantõ <math>\pi</math> ja ''e'' transtsendentsusõ tõõstusõq käüväq kah analüütilidse arvoteooria ala. 
+
+===Algõbralinõ arvoteooria===
+
+'''Algõbralidsõn arvoteoorian''' üldistedäs arvo mõistõt [[algõbralinõ arv|algõbraliidsi arvõ]] pääle, miä ommaq [[murdarv]]oliidsi kõrdajidõga [[hulkliigõq|hulkliikmidõ]] [[juur]]õq. Sääntsin arvovallon ommaq eloniguq, miä ommaq tervidearvõ muudu ja midä kutsutas [[algõbralinõ terveharv|algõbraliidsis tervisarvõs]]. Umõhtõ ei pruugiq noidõ jaos tervidearvõ umahusõq (nt. ütene lihtlahotus) paika pitäq. Kuis tuust hädäst üle saiaq, uuritas sääntside teoorijidõ abil niguq [[Galois' teooria]], [[rühmi kohomoloogia]], [[klassikorpuisi teooria]], [[rühmi esitüisi teooria]] ja [[L-säädängide teooria]]. 
+
+Mitmit arvoteooria küsümüisi om kõgõ parõmb uuriq nii, et kaiaq näid edimält [[moodul]]i ''p'' perrä ega lihtarvo ''p'' kõrral. Tuud kutsutas lokalisiirmises ja tuu veese [[p-aadilinõ arv|p-aadiliidsi arvõ]] konstruiir'miseniq. Säänest uur'misharro kutsutas [[lokaalanalüüs]]is ja tuu kasus vällä algõbralidsõst arvoteooriast. 
+
+===Geomeetriline arvoteooria===
+
+'''Geomeetriline arvoteooria''' (vai arvõ geomeetriä) uur' arvõ ja geomeetriä kokkoputmiskotussit. Tuu nakkas pääle [[Minkowski teorem]]igaq kumõra hulga võrõpunktõ kotsilõ.
+
+===Kombinatuurnõ arvoteooria===
+
+'''Kombinatuurnõ arvoteooria''' uur' arvoteooria küsümiisi, mink sõnastusõn vai lahendusõn tarvitõdas [[kombinatooriga]] ideid. Sjoo arvoteooria põh'andajas om [[Erdösi Paul]]. Tüüpilidseq teemäq ommaq [[kattõsüstem]]iq, egasugudsõq piiredüq [[kogohulgaq]] ja [[aritmeetiline jada|aritmeetilidseq jadaq]] tervidearvõ hulgan. 
+
+===Algoritmilinõ arvoteooria===
+
+'''Algoritmilidsõn arvoteoorian''' uuritas arvõgaq köüdetüid algoritmõ. Kipõq algoritmiq arvo lihtsüse kontrollis ja kõrdlahotamisõs ommaq tähtsäq krüptograafia jaos.
+
+[[Category: Arvoteooria]]
+
+[[ar:نظرية الأعداد]]
+[[bg:Теория на числата]]
+[[ca:Teoria dels nombres]]
+[[cs:Teorie čísel]]
+[[da:Talteori]]
+[[de:Zahlentheorie]]
+[[el:Θεωρία αριθμών]]
+[[en:Number theory]]
+[[eo:Nombroteorio]]
+[[es:Teoría de números]]
+[[et:Arvuteooria]]
+[[fa:نظریه اعداد]]
+[[fi:Lukuteoria]]
+[[fr:Théorie des nombres]]
+[[gl:Teoría dos números]]
+[[he:תורת המספרים]]
+[[hu:Számelmélet]]
+[[id:Teori bilangan]]
+[[it:Teoria dei numeri]]
+[[ja:数論]]
+[[jbo:nacycmaci]]
+[[ka:რიცხვთა თეორია]]
+[[ko:수론]]
+[[lb:Zuelentheorie]]
+[[lt:Skaičių teorija]]
+[[nl:Getaltheorie]]
+[[no:Tallteori]]
+[[pl:Teoria liczb]]
+[[pms:Teorìa dij nùmer]]
+[[pt:Teoria dos números]]
+[[ru:Теория чисел]]
+[[scn:Tiurìa dî nùmmura]]
+[[simple:Number theory]]
+[[sk:Teória čísel]]
+[[sl:Teorija števil]]
+[[sr:Теорија бројева]]
+[[sv:Talteori]]
+[[th:ทฤษฎีจำนวน]]
+[[tr:Sayılar teorisi]]
+[[uk:Теорія чисел]]
+[[vi:Lý thuyết số]]
+[[zh:数论]]
