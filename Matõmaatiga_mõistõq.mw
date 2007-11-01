@@ -10,20 +10,25 @@ __NOTOC__ <center> [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]
 *? (abstsiss)
 *? (aksioom)
 *[[alambhulk]] (alamhulk)
+*? (algarv)
 *? (algebraline tehe)
 *? (algordinaat)
 *[[algoritm]] (algoritm)
 *? (algtegur)
-
+*[[algõbra]] (algebra)
 *? (alus (geomeetria))
 *? (apoteem)
+*? (aritmeetiline jada)
+*[[arv]] (arv)
 *[[arvokunst]] (aritmeetika)
 *[[arvolugu]] (aritmeetikatehe) 
-*[[arv]] (arv)
+*[[arvotäht]] (number)
 *? (arvujada)
 *? (assotsiatiivsus)
 *? (aste)
+*? (astendaja)
 *? (astendamine)
+*? (astendatav)
 *? (avaldis) 
 
 ==B==
@@ -55,6 +60,7 @@ __NOTOC__ <center> [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]
 *? (faktoriaal)
 *[[Fourier' tõsõndus]] (Fourier' teisendus)
 *? (funktsioon)
+*? (funktsiooni graafik)
 
 ==G==
 *? (geomeetria)
@@ -75,7 +81,12 @@ __NOTOC__ <center> [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]
 
 ==J==
 *? (jada)
+*[[jagaja]] (jagaja)
+*? (jagamine)
 *[[jago]] (jagatis)
+*[[juur]] (juur)
+*[[juuritav]] (juuritav)
+*[[juurja]] (juurija)
 *[[juurminõ]] (juurimine)
 *? (juurvõrrand)
 *? [[järjestatud paar]] 
@@ -84,11 +95,13 @@ __NOTOC__ <center> [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]
 *[[jääk]] (jääk)
 
 ==K==
-*[[katsliigõq]] (kaksliige) 
 *? (kahanev funktsioon)
 *? (kasvav funktsioon)
+*[[katsliigõq]] (kaksliige) 
 *[[kerä]] (kera) 
-*[[keskväärtüs]] (keskväärtüs) 
+*[[keräpind]] (sfäär)
+*[[keskväärtüs]] (keskväärtüs)
+*[[kokkoarvaminõ]] (liitmine) 
 *[[kolmnukk]] (kolmnurk) 
 *? (kommutatiivsus)
 *[[kompleksarv]] (kompleksarv)
@@ -99,20 +112,27 @@ __NOTOC__ <center> [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]
 *[[koosinus]] (koosinus)
 *[[koosinusteorem]] (koosinusteoreem)
 *[[kootangens]] (kootangens)
-*[[kõrdarv]] (kordarv)
 *? (korpus)
-*[[kõrraperäne hulknukk]] (korrapärane hulknurk)
 *? (korrapärane hulktahukas)
 *? (korrapärane püramiid)
-*? [[korrutamisreegel]] 
+*? (korrutamine)
+*? (korrutamisreegel)
+*? (korrutis)
+*[[kruut]] (ruut)
+*[[kruutjuur]] (ruutjuur)
+*? (kujund)
 *[[kummõr hulk]] (kummõr hulk)
 *[[kummõr hulknukk]] (kumer hulknurk)
 *? (kumer murdjoon) 
 *[[kuusnukk]] (kuusnukk)
+*[[kõrdarv]] (kordarv)
+*[[kõrraperäne hulknukk]] (korrapärane hulknurk)
+*[[köüdüs]] (seos)
 
 ==L==
+*? (lahend)
+*? (liidetav)
 *? (liitfunktsioon)
-*[[kokkoarvaminõ]] (liitmine)
 *? (liitmisreegel)
 *? (lineaarne järjestus)
 *? (lineaarvõrrand)
@@ -121,7 +141,9 @@ __NOTOC__ <center> [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]
 *[[lõpmatus]] (lõpmatus)
 
 ==M==
+*[[Maahaarvaminõ]] (lahutamine)
 *[[maatriks]] (maatriks)
+*? [[matõmaatilinõ analüüs]]
 *[[meetriline ruum]] (meetriline ruum)
 *[[Mersenne'i arv]] (Mersenne'i arv)
 *[[monoid]] (monoid)
@@ -129,9 +151,11 @@ __NOTOC__ <center> [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]
 *[[muutuja]] (muutuja)
 *? (mõõde)
 *? (määramata integraal) 
+*? (määramispiirkond)
 
 ==N==
 *? (naturaalarv)
+*? (negatiivne arv)
 *[[nelinukk]] (nelinurk) 
 *? (Newtoni binoomvalem)
 *? (n-korteež)
@@ -147,9 +171,13 @@ __NOTOC__ <center> [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]
 
 ==P==
 *[[parabol]] (parabool)
+*? (pidev funktsioon)
 *[[pii]] (pii)
+*? (piirväärtus)
+*[[pikkus]] (pikkus)
 *? (pindala)
 *? [[polünom]] (polünoom)
+*? (positiivne arv)
 *? (positsiooniline arvusüsteem)
 *[[protsent]] (protsent)
 *[[punkt (matõmaatiga)|punkt]] (punkt)
@@ -163,7 +191,6 @@ __NOTOC__ <center> [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]
 *? (ratsionaalarv)
 *? (reaalarv)
 *? (rida)
-*[[tsõõr]] (ring)
 *? (ring (algebra))
 *? (ringi kvadratuur)
 *[[tsõõrjuun]] (ringjoon)
@@ -174,24 +201,20 @@ __NOTOC__ <center> [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]
 *[[Russelli vastaossus]] (Russelli paradoks) 
 *? (ruumala) 
 *? (ruumiline kujund)
-*[[kruut]] (ruut)
-*[[kruutjuur]] (ruutjuur)
 *? (ruutvõrrand) 
-*[[rüüpkülik]] (rööpkülik)
 *? (rööptahukas)
 *[[rühm (matemaatika)|rühm]] (rühm)
+*[[rüüpkülik]] (rööpkülik)
 
 ==S==
 *[[samasus (matemaatika)|samasus]] (samasus) 
-*[[köüdüs]] (seos)
-*[[keräpind]] (sfäär)
 *[[siinus]] (siinus)
 *[[siinusteorem]] (siinusteoreem) 
 *[[sinusoid]] (sinusoid)
-*[[õkõvjuun]] (sirge) 
 *? (skalaar)
 *? (standardhälve)
 *[[statistiga]] (statistiga)
+*? (summa)
 *? (suurim ühistegur)
 *? (suurring)
 *? (suurringjoon)
@@ -199,11 +222,14 @@ __NOTOC__ <center> [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]
 ==T==
 *[[tangens]] (tangens)
 *[[tasapind]] (tasand)
+*? (tegur)
 *? (tehe)
 *[[teorem]] 
 *? (trapets)
 *? (trigonomeetria)
+*[[tsõõr]] (ring)
 *? (tuletis)
+*? (tundmatu)
 *? (tõenäosus)
 *? (tõenäosusteooria)
 *[[tõõstus]] (tõestus)
@@ -218,6 +244,8 @@ __NOTOC__ <center> [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]
 *? (universaalalgebra)
 
 ==V==
+*? (vahe)
+*? (valem)
 *? (vastavus)
 *[[vektor]] (vektor)
 *? (vektorkorrutis)
@@ -226,8 +254,15 @@ __NOTOC__ <center> [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]
 *? (Venni diagramm)
 *[[viisnukk]] (viisnurk)
 *? (võimsus)
-*[[võrõ]] (võre)
+*? (võrdus)
 *? (võrrand)
+*? (võrratus)
+*[[võrõ]] (võre)
+*? (vähendaja)
+*? (vähendatav)
+
+==Õ==
+*[[õkõvjuun]] (sirge)
 
 ==Ü==
 *[[üte muutuja polünom]] (ühe muutuja polünom)
