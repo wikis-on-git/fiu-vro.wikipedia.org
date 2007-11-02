@@ -1,29 +1,29 @@
 '''Matõmaatiga''' ([[kriika kiil'|kriikakeelitsest]] sõnast ''mathēma'' 'opit, tiidüs') om [[tiidüsharo]], miä uur abstraktsit struktuurõ, miä ommaq vällä kujonuq reaalsusõ kvantitatiivsidõ vaihõkõrdo ja ruumiliidsi vormõ uurmisõga. Suurõst luust või üteldä, et matõmaatiga uur sääntsit mõistit niguq [[arv]], [[Algõbralinõ struktuur|struktuur]], [[ruum]] ja [[muutuminõ]]. Matõmaatiga sisus ommaq tiidmiseq ([[teoreem]]iq), mink õigsust om põhjõndõt deduktiivsõ [[tõõstus]]õ abiga naatõn pääle [[aksioom]]õst ja [[ärqseletüs|ärqseletüisist]]. 
 
-Praktilist matõmaatikat om pia egän ütiskunnan vaia lännüq näütüses arvõpidämises, maamõõtmisõs, astronoomiliidsi sündmüisi ettearvamisõs vai ehitämise man. Teoreetililidsõn matõmaatikan uuritas tihtipääle sõski abstraktsit säädüsperäsüisi huul'maldaq tuust, kupall'o vai kuna näid and reaalsõh eloh rakõndaq. Seo ilma aigo lätt matõmaatiliidsi tiidmiisi vaia pall'odõn tiidüsharõn, nigu näütüses luudus- ja inseneritiidüisin, majandus- ja arstitiidüsen. 
+Praktilist matõmaatikat om pia egän ütiskunnan vaia lännüq näütüses arvõpidämises, maamõõtmisõs, astronoomiliidsi sündmüisi ettearvamisõs vai ehitämise man. Teoreetililidsõn matõmaatikan uuritas tihtipääle sõski abstraktsit säädüsperäsüisi huul'maldaq tuust, kupall'o vai kuna näid periselon rakõndaq and. S'oo ilma aigu lätt matõmaatiliidsi tiidmiisi vaia pall'odõn tiidüsharõn, nigu näütüses luudus- ja inseneritiidüisin, majandus- ja arstitiidüsen. 
 
 ==Aolugu==
 
 Matõmaatiga om üts vanõmbit tiidüisi. Sääntseq mõistõq niguq "[[arv]]" vai "[[geomeetriline kujond]]" tekküväq tuust, et oll' vaia asjo üle lukõq vai mõõtaq. Edimädseq arvosüstemiq tekküväq Egüptüsen u. 3000-2500, Hiinan ja Babüloonian u. 2000 aastakka i.m.a. Matõmaatikast sai tiidüs Vanan-Kriikan u. [[5. aastagasada i.m.a.|5. aastagasaal i.m.a.]] Matõmaatigatiidüse arõngu või jakaq kolmõs suurõmbas perioodis.
 
-*'''Elementaarmatõmaatiga periuud''' ([[5. aastagasada i.m.a.|5. aastagasada i.m.a.]] kuni [[17. aastagasada|17. aastagasaa]] kolmas veeränd). Taa algust märk tõõstamisõ tarvitusõlõvõtminõ. Muuhulgan luudi deduktiivnõ, aksiuumõ pääle tuginõja elementaargeomeetriä, mink võtt' kokko Eukleides uman teossõn "Elemendiq" ([[3. aastagasada i.m.a.|3. aastagasada i.m.a.]]). Indian tekkü u. [[5. aastagasada|5. aastagasaal]] posits'oonilinõ kümnendsüstem. 
+*'''Elementaarmatõmaatiga periuud''' ([[5. aastagasada i.m.a.|5. aastagasada i.m.a.]] kuni [[17. aastagasada|17. aastagasaa]] kolmas veeränd). Taa naas' pääle tõõstamisõ tarvitusõlõvõtmisõga. Muuhulgan luudi deduktiivnõ, aksiuumõ pääle tuginõja elementaargeomeetriä, mink võtt' kokko Eukleides uman teossõn "Elemendiq" ([[3. aastagasada i.m.a.|3. aastagasada i.m.a.]]). Indian tekkü u. [[5. aastagasada|5. aastagasaal]] posits'oonilinõ kümnendsüstem. 
 *'''Korgõmba matõmaatiga periuud''' ([[17. aastagasada|17. aastagasaa]] kolmas veeränd kuni [[19. aastagasada|19. aastagasaa]] tõnõ veeränd). Taa alost' analüütilidse geomeetriä luumisõga Descartes'i ja Fermat' puult. [[17. aastagasada|17. aastagasaa]] lõpun tüütiväq Newton ja Leibniz vällä diferentsiaal- ja integraalrehkendüse, miä sai alossõs matõmaatilidsõlõ analüüsile. 
-*'''Seo ilma aigsõ matõmaatiga periuud''' ([[19. aastagasada|19. aastagasaa]] tõsõst veerändist alatõn). Luudi vahtsõq matõmaatiga alossõq. Matõmaatiga naas' põhinõma aksiomaatilidsõ hulgateooria pääl.
+*'''S'oo ilma aigsõ matõmaatiga periuud''' ([[19. aastagasada|19. aastagasaa]] tõsõst veerändist alatõn). Luudi vahtsõq matõmaatiga alossõq. Matõmaatiga naas' põhinõma aksiomaatilidsõ hulgateooria pääl.
 
 ==Matõmaatilidseq põhistruktuuriq==
 
-Matõmaatilinõ struktuur tähendäs hulka (vai hulkõ süstemit), mink pääl om annõt relats'uun (vai relats'ooniq), miä rahuldasõq tuud struktuuri definiirvit aksiuumõ. Tuu perrä, määntseq nuuq relats'ooniq ommaq, või kõnõldaq kolmõ tüüpi põhistruktuurõst.
-*'''Algõbralidsõq struktuuriq'''. Näütüses rühmäq, korpusõq, vektorruumiq. Naidõ puhul andasõq relats'uunõ abiga algõbralidsõq opõrats'ooniq määntsegi hulga pääl.
-*'''Topoloogilidsõq struktuuriq'''. Näütüses topoloogilidsõq vai miitrilidseq ruumiq. Nail saa relats'uunõ abiga definiiriq piirprotsesse.
-*'''Järestüsstruktuuriq'''. Näütüses võrõq. Naidõ puhul om relats'oonis hulga elemente järestüsrelats'uun', miä näütäs, määne element om tõsõst suurõmp vai vähämb.  
+Matõmaatilinõ struktuur tähendäs [[hulk]]a (vai hulkõ süstemit), mink pääl om annõt [[köüdüs]] (vai köüdüseq), miä rahuldasõq tuud struktuuri definiirvit aksiuumõ. Tuu perrä, määntseq nuuq köüdüseq ommaq, või kõnõldaq kolmõ muudu põhistruktuurõst.
+*'''Algõbralidsõq struktuuriq'''. Näütüses rühmäq, korpusõq, vektorruumiq. Naidõ puhul andasõq köüdüsside abiga algõbralidsõq opõrats'ooniq määntsegi hulga pääl.
+*'''Topoloogilidsõq struktuuriq'''. Näütüses topoloogilidsõq vai miitrilidseq ruumiq. Nail saa köüdüsside abiga definiiriq piirprotsesse.
+*'''Järestüsstruktuuriq'''. Näütüses võrõq. Naidõ puhul om köüdüses [[hulga elonik]]kõ järestüsköüdüs, miä näütäs, määne elonik om tõsõst suurõmp vai vähämb.  
 
 ==Matõmaatiga haroq==
 
-Ku lukõq, et matõmaatiga uurmisobjektes ommaq päämidselt arv, struktuur, ruum ja muutuminõ, sõs noilõ vastasõ neli suurt matõmaatiga harro: [[arvoteooria]] (vai arvooppus; tuu ala käüväs või lukõq kah [[arvokunst]]i), [[algõbra]] (vai arvamisoppus), [[geomeetriä]] (vai ruumioppus) ja [[Matõmaatilinõ analüüs|matõmaatilidsõ analüüsi]]. Pääle tuu loetas matõmaatiga harodõs tihti viil [[loogiga]], [[hulgateooria]] ja [[diskreetne matõmaatiga]]. Periselo probleeme lahõndamisega putussõq kõgõ ligembält kokko [[rakõndusmatõmaatiga]] ja [[matõmaatilinõ statistiga]].
+Ku lukõq, et matõmaatiga uurmisobjektes ommaq päämädselt arv, struktuur, ruum ja muutuminõ, sõs noilõ vastasõq neli suurt matõmaatiga harro: [[arvoteooria]] (vai arvooppus; tuu ala käüjäs või lukõq ka  [[arvokunst]]i), [[algõbra]] (vai arvamisoppus), [[geomeetriä]] (vai ruumioppus) ja [[matõmaatilinõ analüüs]]. Pääle tuu loetas matõmaatiga harodõs tihti viil [[loogiga]], [[hulgateooria]] ja [[diskreetne matõmaatiga]]. Periselo probleeme lahõndamisega putussõq kõgõ ligembält kokko [[rakõndusmatõmaatiga]] ja [[matõmaatilinõ statistiga]].
 
 ==Võro- ja Setomaalt perit matõmaatiguq==
 
-Tunnõtumbaq [[Võromaa]]lt perit matõmaatiguq ommaq [[Sarvõ Jaan]] (sündünü [[Leeguste külä]]n [[Saru vald|Saru vallan]] [[Hargla kihlkund|Hargla kihlkunnan]]) ja [[Rägo Gerhard]] (sündünü [[Pindi mõisa]]n [[Rõugõ kihlkund|Rõugõ kihlkunnan]]). Kummagi nimme näist kand üts auditoorium [[Tarto Ülikuul|Tarto Ülikooli]] Matõmaatiga-informaatigatiidüskunna opihuunõn. Viil ommaq Võromaalt perit Tarto Ülikooli matõmaatiguq [[Pedassõ Arvet]], [[Saarniidü Ivar-Igor]], [[Parringu Aivo]] ja [[Loonõ Leiki]] ni [[Talliina Ülikuul|Talliina Ülikooli]] matõmaatik [[Redi Ellen]] ja [[Maaülikuul|Maaülikooli]] matõmaatik [[Sika Jaak]].
+Tunnõtumbaq [[Võromaa]]lt perit matõmaatiguq ommaq [[Sarvõ Jaan]] (sündünü [[Leeguste külä]]n [[Saru vald|Saru vallan]] [[Hargla kihlkund|Hargla kihlkunnan]]) ja [[Rägo Gerhard]] (sündünü [[Pindi mõisa]]n [[Rõugõ kihlkund|Rõugõ kihlkunnan]]). Kummagi nimme näist kand üts auditoorium [[Tarto Ülikuul|Tarto Ülikooli]] Matõmaatiga-informaatigatiidüskunna opihuunõn. Viil ommaq Võromaalt perit Tarto Ülikooli matõmaatiguq [[Pedassõ Arvet]], [[Saarniidü Ivar-Igor]], [[Parringu Aivo]] ja [[Loonõ Leiki]] nink  [[Talliina Ülikuul|Talliina Ülikooli]] matõmaatik [[Redi Ellen]] ja [[Maaülikuul|Maaülikooli]] matõmaatik [[Sika Jaak]].
 
 ==Kaeq viil==
 
