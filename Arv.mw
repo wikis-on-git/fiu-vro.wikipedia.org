@@ -9,7 +9,10 @@ Arvõ või jakaq [[hulk]]õhõ, midä kutsutas arvovaldos vai arvosüstemes.
 Kõgõ tutvambaq arvoq ommaq '''tüküarvoq''' vai '''naturaalarvoq''' (ladinakeelitsest sõnast ''numerus naturalis'' - loomulik arv). Inämbüste peetäs noidõs arvõ 1,2,3,..., a mõnõq pidäväq arvõ 0,1,2,3,....  Tüküarvõ abiga saa ärq näüdätä vai üteldä, kupall'o määntsitki asjo tükü perrä om. [[Kümnendüstem]]in kirotõdas tüküarvõ üles [[arvotäht]]i 0 kooni 9 abil. Kõiki tüküarvõ hulka tähüstedäs tähega <math>\mathbb{N}</math>. 
 
 ===Terveq arvoq===
-'''Kur'aq (negatiivsõq) arvoq''' ommaq arvoq, miä ommaq nullist vähämbäq. Nääq tuvvas sisse tuujaos, et vastaval '''hääl (positiivsõl) arvol''' olnuq olõman [[vastandarv]]. 
+'''Kur'aq (negatiivsõq) arvoq''' ommaq arvoq, miä ommaq nullist vähämbäq. Nääq tuvvas sisse tuujaos, et vastaval '''hääl (positiivsõl) arvol''' olnuq olõman [[vastandarv]]. Näütüses ku horisontaalsõl [[õkõvjuun|õgvaljoonõl]] fikseerit punktist hääle poolõ jäävät kaugust märgitäs hää arvoga, sõs tuust punktist tõsõlõ poolõ jäävät kaugust märgitäs kur'a arvoga. Niisamatõ, ku hää arvoga märgitäs [[raha]] pangakontolõ kandmist, sõs kuri arv näütäs raha vällävõtmist. Kur'aq arvoq, hääq arvoq ja [[null]] kokko moodustasõq tervidearvõ hulga <math>\mathbb{Z}</math> ([[s'aksa kiil|s'aksakeelitsest]] sõnast ''Zahl'').
+
+===Jagoarvoq===
+'''Jagoarvoq''' vai '''ratsionaalarvoq''' ommaq tervidearvõ ja tüküarvõ [[jago|jaoq]]. Jagoarv ''m/n'', koh ''m'' ja ''n'' ommaq tüküarvoq, näütäs kogust, miä saias, ku terveh jaetas ärq ''n'' ütesuurõs osas ja noist ossist võetas ''m'' tükkü. Ütte jagoarvo või kirja pandaq mitmõl moel, näütüses 1/2, 2/4 ja 19/38 ommaq kõik üts ja sama jagoarv. Ku ''m'' [[absoluutväärtüs]] om suurõmb ku ''n'', sõs jagoarvo ''m/n'' absoluutväärtüs om suurõmb ku 1. Jagoarv või ollaq hää, kuri vai null. Jagoarvõ hulk sisaldas tervitarvõ, tuuperäst et ega terveharv om jago, kon [[jagaja]] om 1. Jagoarvõ hulka tähüstedäs <math>\mathbb{Q}</math> (sõnast ''quotient'').    
 
 [[Katõgooria:Arvoteooria]]
 
