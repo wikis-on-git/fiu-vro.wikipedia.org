@@ -14,6 +14,13 @@ Kõgõ tutvambaq arvoq ommaq '''tüküarvoq''' vai '''naturaalarvoq''' (ladinake
 ===Jagoarvoq===
 '''Jagoarvoq''' vai '''ratsionaalarvoq''' ommaq tervidearvõ ja tüküarvõ [[jago|jaoq]]. Jagoarv ''m/n'', koh ''m'' ja ''n'' ommaq tüküarvoq, näütäs kogust, miä saias, ku terveh jaetas ärq ''n'' ütesuurõs osas ja noist ossist võetas ''m'' tükkü. Ütte jagoarvo või kirja pandaq mitmõl moel, näütüses 1/2, 2/4 ja 19/38 ommaq kõik üts ja sama jagoarv. Ku ''m'' [[absoluutväärtüs]] om suurõmb ku ''n'', sõs jagoarvo ''m/n'' absoluutväärtüs om suurõmb ku 1. Jagoarv või ollaq hää, kuri vai null. Jagoarvõ hulk sisaldas tervitarvõ, tuuperäst et ega terveharv om jago, kon [[jagaja]] om 1. Jagoarvõ hulka tähüstedäs <math>\mathbb{Q}</math> (sõnast ''quotient'').    
 
+===Reaalarvoq===
+Arvõ saa üles kirotaq viil komaarvo kujol. Kümnendsüstemin kirotõdas näid üles arvotäherongi abil, kon üteliidsi tähest hääl puul om koma. Ku jagoarv kirotaq üles koma abil piät arvotäherong ärq lõppõma vai kõrduma nakkama. Näütüses 1,25 lõpõs ärq, 0,333... (lõpmalda pall'o kolmi) kõrdus, mõlõmbaq ommaq jagoarvoq. Kõik kõrdujaq ja ärqlõppõjaq komaarvoq ommaq ütsvõrratsõq määntsegi jagoarvoga, nt. 1,25=5/4, 0,333...=1/3. Komaarvoq, miä kõrdu-iq ja lõpõ-iq ärq, olõ-iq jagoarvoq, noid kutsutas '''irratsionaalarvõs'''. Sääntseq ommaq näütüses 0,1010010001..., <math>\pi</math> (pii) ja <math>\sqrt{2}</math> ([[kruutjuur]] katõst). 
+
+Reealarvoq ommaq kõik arvoq, midä saa pandaq kirja ku komaarvõ, nii ratsionaalarvoq ku irratsionaalarvoq. Reaalarvõ hulga tähüs om <math>\mathbb{R}</math>. Reaalarvõga saa andaq mõõtmiisi tulõmuisi ja nääq vastasõq ütsütele [[arvõkõvjuun|arvõgvajoonõ]] [[punkt]]õlõ. Et mõõta saa õnnõ määntsegi kimmä täpsüsega, sõs mõõtmistulõmuisi andmisõl reaalarvõga ommaq nuuq õigõq määntsegi via piirini. Tuu piiri ärqnäütämises andas reaalarvo puhul tihti timä [[tüvitäht|tüvitäheq]]. 
+
+Reaalarvõ hulk om ütetselt ärq määrät ummi matõmaatiliidsi umahuisiga: taa om ainugõnõ tävveline [[võrdõlõmisõga kund]]. Reaalarvõ [[kund]] olõ-iq sõski [[algõbralidsõlt kinnine]]. 
+
 [[Katõgooria:Arvoteooria]]
 
 [[et:Arv]]
