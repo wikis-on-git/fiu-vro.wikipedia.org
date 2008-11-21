@@ -2,7 +2,7 @@
 Nimi=Canada|
 Genitiiv=Kanada|
 Lipp=Image:Flag of Canada.svg|
-Vapp'=Image:Coat of arms of Canada.svg|
+Vapp'=|
 Tunnuslausõq=''A Mari Usque Ad Mare'' ([[Ladina kiil|Ladina keelen]]) <br /> "Merest mereni"|
 Kaart=Image:Canada (orthographic projection).svg|
 Riigikiil'=[[inglüse kiil]], [[prantsusõ kiil]]|
@@ -16,12 +16,14 @@ Vett=8,92%|
 Rahva hulk= 33 435 000|
 Rahva hulga perrä=36|
 Tihehüs=3,2|
-Hindäperi-1=[[1. hainakuu päiv]] [[1867]]|
-Hindäperi-2=|
+Hindäperi-1=|
+Hindäperi-2=[[1. hainakuu päiv]] [[1867]]|
 Raha=[[Kanada dollar]]|
+<!--
 Aig=|
 Suvõaig=|
-Riigihümn'=[[O Canada]]|
+-->
+Riigihümn'="[[O Canada]]"|
 Internetitunnus=[[.ca]]|
 Telefonikuud'=1|
 Tunnustsirk=|
