@@ -2,6 +2,30 @@
 
 Vikipeediä sais kuun rohkõmb ku 250 umaette välläandõst, egä üts esiq keelen. Vikipeediät tukõ ütisüs [[Wikimedia|Wikimedia Tsihtasotus]].
 
+[[Pilt:Www.wikipedia.org_screenshot.png|thumb|[http://www.wikipedia.org www.wikipedia.org]]]
+
+== Raud- ja tarkvara ==
+[[Pilt:Wikimedia-servers-2006-05-09.svg|right|400px|thumb|Wikimedia serveride plaan]]
+Vikipeediä tsaukpuutri-serveriq ommaq:
+* Florida osariigin Ameeriga Ütisiigen;
+* Matalmain;
+* Lõuna-Korean;
+* Prantsusmaal.
+
+Tarkvaras pruugitas:
+* OS – Linux;
+* Moodor – UseModWiki kirõtõt Perlin;
+* WWW – Apache HTTP Server ja Squid cache serveriq, näide kuurmust jaga Perlbal;
+* DB – MySQL;
+* Skriptiq – PHP.
+
+== Kaeq viil ==
+* [[Wikipedia:Tutvustus|Vikipeediä tutvustus]]
+
+== Välislingiq ==
+* [http://www.wikipedia.org Vikipeediä kodoleht]
+* [http://stats.grok.se/ Vikipeediä statistiga]
+
 [[af:Wikipedia]]
 [[ak:Wikipedia]]
 [[als:Wikipedia]]
