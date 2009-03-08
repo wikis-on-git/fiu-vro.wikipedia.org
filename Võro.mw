@@ -2,10 +2,16 @@
 |  nimi = Võro
 |  pilt = [[Pilt:Võro_liin_1.jpg|250px|Võro liin Tamula päält kaiaq]] 
 |  pildiallkiri = Võro liin Tamula päält kaiaq
+<!--
 |  lipu_pilt = [[Pilt:Flag of et-Võru.svg|100px|Võro liina lipp]]
 |  lipu_link = [[Võro liina lipp]]
 |  vapi_pilt = [[Image:150px_Võro_liina_vapp.png|70px|Võro liina vapp]]
 |  vapi_link = [[Võro liina vapp]]
+-->
+|  lipu_pilt = Pilt:Flag of et-Võru.svg
+|  lipu_link = Võro liina lipp
+|  vapi_pilt = Pilt:150px_Võro_liina_vapp.png
+|  vapi_link = Võro liina vapp
 |  kihlkund = Põlva ja Rõugõ
 |  suurus = 13,2 
 |  elänikke = 14 356 (31.12.2006)
