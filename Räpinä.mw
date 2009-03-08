@@ -1,6 +1,23 @@
-<table border="0" align="right" width="240px" colspan="1">
-<tr><td align="center">
-[[Image:Räpinä_lipp.jpg|150px|Räpinä lipp]]<br>'''[[Räpinä lipp]]'''<br><br>[[Image:Räpinä_vapp.jpg|150px|Räpinä vapp]]<br>'''[[Räpinä vapp]]'''</td></tr></table>
+{{VõromaaLiin
+|  nimi = Räpinä
+<!--
+|  pilt = [[Pilt:Võro_liin_1.jpg|250px|Võro liin Tamula päält kaiaq]] 
+|  pildiallkiri = Võro liin Tamula päält kaiaq
+-->
+|  lipu_pilt = Räpinä_lipp.jpg
+|  lipu_link = Räpinä liina lipp
+|  vapi_pilt = Räpinä_vapp.jpg
+|  vapi_link = Räpinä liina vapp
+|  kihlkund = Räpinä
+<!--|  suurus = -->
+|  elänikke = 2751 (1.12.2007)
+|  lat_deg = 58
+|  lat_min = 6
+|  lat_ik = N
+|  lon_deg = 27
+|  lon_min = 28
+|  lon_ik = E
+}}
 
 '''Räpinä''' om liin Põh'ahummogu-[[Võromaa]]l [[Võhandu jõgi|Võhandu jõõ]] alambjoosul. Räpinä liin om [[Räpinä kihlkund|Räpinä kihlkunna]] keskus. Räpinält om [[Võro]]lõ 44 km ja [[Tarto]]he 64 km.
 
