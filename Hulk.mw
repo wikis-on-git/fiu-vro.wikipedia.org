@@ -4,13 +4,13 @@
 
 Taan artiklin om juttu niinimitet "intuitiivsõst" vai "[[Naiivnõ hulgateooria|naiivsõst]]" hulgateooriast. Rangõt ja aksiomaatilist oppust hulkõ kotsilõ kutsutas [[Aksiomaatilinõ hulgateooria|aksiomaatilidsõs hulgateoorias]].
 
-==Ärqseletüs==
+== Ärqseletüs ==
 
 '''Hulk''' om asjo kogo, midä kaias ku ütte terveht. Noid asjo kutsutas hulga '''[[hulga elonik|eloniguq]]''' vai '''elemendiq'''. Või mõtõldaq nii, et hulga elonikuq "elässeq" hulgan, tuu om näide elopaik. Hulga eloniguq võivaq ollaq miä taht: [[arv]]oq, [[inemine|inemiseq]], [[kirätäht|kirätäheq]], tõsõq hulgaq vai nii edesi. Kokkoleppelidselt tähüstedäs hulkõ suuri tähtiga: ''A, B, C'' jne. nink hulkõ elonikka väikside tähtiga: ''a, b, c,''... . Kats hulka ''A'' ja ''B'' ommaq '''võrdsõq''' vai '''samaq''' (tuud kirotõdas ''A = B''), ku näil ommaq samaq eloniguq.
 
 Hulgan või-iq ollaq kattõ ütesugust elonikku. Mitund ütesugust elonikku lubatas [[Multihulk|multihulgan]]. Elonikka järekõrd hulgan olõ-iq tähtsä.
 
-==Hulkõ kirjäpandminõ==
+== Hulkõ kirjäpandminõ ==
 
 Hulk või ollaq tävveste suvaliidsi elonikkõ kogo ja hulga jaos pruugi-iq olõman ollaq ütte (lihtsät) riiglit, miä ütelnüq, määntseq eloniguq ommaq hulgan sisen ja määntseq välän.
 
@@ -26,7 +26,7 @@ Mõndsi hulkõ saa ärq üteldäq sõnnoga, näütüses
 
 Kats esiq üleskirotamisviisi võivaq piiritellä sama hulga. Näütüses iinpuul tuud hulgaq ''A'' ja ''C'' ommaq tegeligult üts ja sama hulk, ''A = C'', tuuperäst et näil ommaq üteq ja samaq eloniguq. Niisamatõ ''B = D''. 
 
-Hulk muutu-iq tuust, ku timä elonikka järekõrda muuta vai mõnd elonikku lukõq üles mito kõrda. Näütüses  {8, 3} = {3, 8} = {3, 8, 3, 3}.
+Hulk muutu-iq tuust, ku timä elonikka järekõrda muuta vai mõnd elonikku lukõq üles mito kõrda. Näütüses {8, 3} = {3, 8} = {3, 8, 3, 3}.
 
 Tõnõkõrd tarvitõdas hulga elonikka üleslugõmisõl kolmõ punkti. Näütüses saa edimädse naturaalarvo hulga või lühidähe üles kirotaq 
 
@@ -37,17 +37,17 @@ kon kolm punkti näütäseq, et nimekiri lätt edesi hindästmõista moodo perr�
 
 Keerolidsõmpi hulkõ man tarvitadas hariligult tõistsugust üleskirotust. Näütüses hulga, mink eloniguq ommaq katstõist kõgõ vähämbät [[terveharv|tervearvo]] kruutu, või kirjä pandaq 
 
-:''E'' = {<math>n^2</math> | ''n'' om [[terveharv]] ja  0 ≤ ''n'' ≤ 11}.
+:''E'' = {<math>n^2</math> | ''n'' om [[terveharv]] ja 0 ≤ ''n'' ≤ 11}.
 Tan märki "|" (mõnikõrd tarvitõdas tuu asõmõl märki ":") tulõ lukõq "nii, et" vai "kon". Säänest kiräpilti loetas: "''E'' om hulk, minka eloniguq ommaq arvoq <math>n^2</math>, kon ''n'' om terveharv, miä olõ-iq vähämb 0-st ei ka suurõmb 11-st."
 
-==Hulgan olõminõ==
+== Hulgan olõminõ ==
 
-Tuud, kas määnegi asi om vai olõ-iq määntsegi hulga elonik, märgitäs vastavalt sümboliga <math>\in</math> vai <math>\notin</math>. Ku <math>k\in L</math>, sõs üteldäs "''k'' om hulgan ''L''" vai "''k'' kuulus hulka ''L''", ja ku <math>k\notin L</math>, sõs üteldäs "''k'' olõ-iq hulgan ''L''" vai "''k'' kuulu-iq hulka ''L''". Nii näütüses iinpuul tuud hulkõ kõrral  
+Tuud, kas määnegi asi om vai olõ-iq määntsegi hulga elonik, märgitäs vastavalt sümboliga <math>\in</math> vai <math>\notin</math>. Ku <math>k\in L</math>, sõs üteldäs "''k'' om hulgan ''L''" vai "''k'' kuulus hulka ''L''", ja ku <math>k\notin L</math>, sõs üteldäs "''k'' olõ-iq hulgan ''L''" vai "''k'' kuulu-iq hulka ''L''". Nii näütüses iinpuul tuud hulkõ kõrral 
 
 :*<math>2 \in A</math> ja <math>49 = 7^2 \in E</math>, agaq 
 :*<math>6 \notin A</math> ja [[Võnnu kihlkund]] <math>\notin B</math>.
 
-==Esiqerälidseq hulgaq==
+== Esiqerälidseq hulgaq ==
 
 Mõnõq hulgaq ommaq matõmaatigan niivõrra tähtsäq ja näid pruugitas niivõrra sakõstõ, et näide jaos ommaq vällä kujonuq umaq kimmäq sümboliq. Mõnõq sääntseq hulgaq ommaq järgmädseq.
 
@@ -58,17 +58,17 @@ Mõnõq hulgaq ommaq matõmaatigan niivõrra tähtsäq ja näid pruugitas niivõ
 *<math>\mathbb{R}</math> - kõiki [[realarv]]õ hulk. 
 *<math>\mathbb{C}</math> - kõiki [[kompleksarv]]õ hulk.
 
-==Hulgaarvangoq==
+== Hulgaarvangoq ==
 
 Om olõman mitmit arvamisõ viise, miä lupassõq olõmanolõvist hulgõst vahtsit tetäq. Sääntsit viise kutsutas [[hulgaarvang]]is. Noist tähtsämbäq ommaq [[hulkõ kogo|kokkoarvaminõ]], [[ütine osa|ütidse osa löüdmine]], [[hulga tävvend|tävvendi võtminõ]] ja [[õkvakõrrus|õkvaiskmine]].
 
-==Kaeq viil==
+== Kaeq viil ==
 
 *[[Alambhulk]]
 *[[Hulga suurus]]
 
-[[Category:Matõmaatiga]]
-[[Category:Hulgateooria]]
+[[Katõgooria:Matõmaatiga]]
+[[Katõgooria:Hulgateooria]]
 
 [[als:Menge (Mathematik)]]
 [[ar:مجموعة (رياضيات)]]
@@ -94,6 +94,7 @@ Om olõman mitmit arvamisõ viise, miä lupassõq olõmanolõvist hulgõst vahts
 [[fur:Insiemi]]
 [[gd:Àlach]]
 [[gl:Conxunto]]
+[[xal:Олн]]
 [[ko:집합]]
 [[hr:Skup]]
 [[io:Ensemblo]]
