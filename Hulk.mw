@@ -51,12 +51,12 @@ Tuud, kas määnegi asi om vai olõ-iq määntsegi hulga elonik, märgitäs vast
 
 Mõnõq hulgaq ommaq matõmaatigan niivõrra tähtsäq ja näid pruugitas niivõrra sakõstõ, et näide jaos ommaq vällä kujonuq umaq kimmäq sümboliq. Mõnõq sääntseq hulgaq ommaq järgmädseq.
 
-*<math>\emptyset</math> - [[tühi hulk]], hulk, kon olõ-iq üttegi elonikku.
-*<math>\mathbb{N}</math> - kõiki [[naturaalarv]]õ hulk, <math>\mathbb{N}</math> = {1, 2, 3, ...}.
-*<math>\mathbb{Z}</math> - kõiki [[terveharv|tervidearvõ]] hulk, <math>\mathbb{Z}</math> = {..., -2, -1, 0, 1, 2, ...}.
-*<math>\mathbb{Q}</math> - kõiki [[jagoarv]]õ hulk, <math>\mathbb{Q}</math> = {<math>\begin{matrix} \frac{a}{b} \end{matrix}</math> : ''a'',''b'' <math>\in \mathbb{Z}</math> ja ''b'' ≠ 0}. 
-*<math>\mathbb{R}</math> - kõiki [[realarv]]õ hulk. 
-*<math>\mathbb{C}</math> - kõiki [[kompleksarv]]õ hulk.
+* <math>\emptyset</math> - [[tühi hulk]], hulk, kon olõ-iq üttegi elonikku.
+* <math>\mathbb{N}</math> - kõiki [[naturaalarv]]õ hulk, <math>\mathbb{N}</math> = {1, 2, 3, ...}.
+* <math>\mathbb{Z}</math> - kõiki [[terveharv|tervidearvõ]] hulk, <math>\mathbb{Z}</math> = {..., -2, -1, 0, 1, 2, ...}.
+* <math>\mathbb{Q}</math> - kõiki [[jagoarv]]õ hulk, <math>\mathbb{Q}</math> = {<math>\begin{matrix} \frac{a}{b} \end{matrix}</math> : ''a'',''b'' <math>\in \mathbb{Z}</math> ja ''b'' ≠ 0}. 
+* <math>\mathbb{R}</math> - kõiki [[realarv]]õ hulk. 
+* <math>\mathbb{C}</math> - kõiki [[kompleksarv]]õ hulk.
 
 == Hulgaarvangoq ==
 
@@ -64,15 +64,15 @@ Om olõman mitmit arvamisõ viise, miä lupassõq olõmanolõvist hulgõst vahts
 
 == Kaeq viil ==
 
-*[[Alambhulk]]
-*[[Hulga suurus]]
+* [[Alambhulk]]
+* [[Hulga suurus]]
 
 [[Katõgooria:Matõmaatiga]]
 [[Katõgooria:Hulgateooria]]
 
 [[als:Menge (Mathematik)]]
 [[ar:مجموعة (رياضيات)]]
-[[id:Himpunan]]
+[[id:Himpunan (matematika)]]
 [[ms:Set]]
 [[bn:সেট]]
 [[be:Мноства]]
@@ -104,6 +104,7 @@ Om olõman mitmit arvamisõ viise, miä lupassõq olõmanolõvist hulgõst vahts
 [[he:קבוצה (מתמטיקה)]]
 [[kn:ಗಣ]]
 [[ka:სიმრავლე]]
+[[ku:Kom]]
 [[la:Copia]]
 [[lv:Kopa]]
 [[lt:Aibė]]
