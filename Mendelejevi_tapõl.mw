@@ -4,51 +4,51 @@
 <table style="width: 80%;">
 <tr align="center">
 <td>[[Rühm (keemiä)|'''Rühm'''&nbsp;&rarr;]]</td>
-<td width="40">[[I rühma peaalarühm|'''1''']]</td>
-<td width="40">[[II rühma peaalarühm|'''2''']]</td>
+<td width="40">[[I rühmä pääalarühm|'''1''']]</td>
+<td width="40">[[II rühmä pääalarühm|'''2''']]</td>
 <td width="40" style="vertical-align: top;"><br> </td>
-<td width="40">[[III rühma kõrvalalarühm|'''3''']]</td>
-<td width="40">[[IV rühma kõrvalalarühm|'''4''']]</td>
-<td width="40">[[V rühma kõrvalalarühm|'''5''']]</td>
-<td width="40">[[VI rühma kõrvalalarühm|'''6''']]</td>
-<td width="40">[[VII rühma kõrvalalarühm|'''7''']]</td>
-<td width="40">[[VIII rühma kõrvalalarühm|'''8''']]</td>
-<td width="40">[[VIII rühma kõrvalalarühm|'''9''']]</td>
-<td width="40">[[VIII rühma kõrvalalarühm|'''10''']]</td>
-<td width="40">[[I rühma kõrvalalarühm|'''11''']]</td>
-<td width="40">[[II rühma kõrvalalarühm|'''12''']]</td>
-<td width="40">[[III rühma peaalarühm|'''13''']]</td>
-<td width="40">[[IV rühma peaalarühm|'''14''']]</td>
-<td width="40">[[V rühma peaalarühm|'''15''']]</td>
-<td width="40">[[VI rühma peaalarühm|'''16''']]</td>
-<td width="40">[[VII rühma peaalarühm|'''17''']]</td>
-<td width="40">[[VIII rühma peaalarühm|'''18''']]</td>
+<td width="40">[[III rühmä kõrvalalarühm|'''3''']]</td>
+<td width="40">[[IV rühmä kõrvalalarühm|'''4''']]</td>
+<td width="40">[[V rühmä kõrvalalarühm|'''5''']]</td>
+<td width="40">[[VI rühmä kõrvalalarühm|'''6''']]</td>
+<td width="40">[[VII rühmä kõrvalalarühm|'''7''']]</td>
+<td width="40">[[VIII rühmä kõrvalalarühm|'''8''']]</td>
+<td width="40">[[VIII rühmä kõrvalalarühm|'''9''']]</td>
+<td width="40">[[VIII rühmä kõrvalalarühm|'''10''']]</td>
+<td width="40">[[I rühmä kõrvalalarühm|'''11''']]</td>
+<td width="40">[[II rühmä kõrvalalarühm|'''12''']]</td>
+<td width="40">[[III rühmä pääalarühm|'''13''']]</td>
+<td width="40">[[IV rühmä pääalarühm|'''14''']]</td>
+<td width="40">[[V rühmä pääalarühm|'''15''']]</td>
+<td width="40">[[VI rühmä pääalarühm|'''16''']]</td>
+<td width="40">[[VII rühmä pääalarühm|'''17''']]</td>
+<td width="40">[[VIII rühmä pääalarühm|'''18''']]</td>
 </tr>
 <tr align="center">
-<td>[[Periood (keemia)|'''Periood'''&nbsp;&darr;]]</td>
+<td>[[Periuud (keemiä)|'''Periuud'''&nbsp;&darr;]]</td>
 <td colspan="20"><br> </td>
 </tr>
 <tr align="center">
-<td>[[Periood 1 element|'''1''']]</td>
+<td>[[Periuud 1 element|'''1''']]</td>
 <td bgcolor="Khaki"><font color="green">1</font><br>[[Vesinik|H]]</td>
 <td colspan="17"><br> </td>
 <td bgcolor="Lightpink"><font color="green">2</font><br>[[Heelium|He]]</td>
 </tr>
 <tr align="center">
-<td>[[Periood 2 element|'''2''']]</td>
+<td>[[Periuud 2 element|'''2''']]</td>
 <td bgcolor="Salmon"><font color="black">3</font><br>[[Liitium|Li]]</td>
 <td bgcolor="Darkseagreen"><font color="black">4</font><br>[[Berüllium|Be]]</td>
 <td style="vertical-align: top;"><br> </td>
 <td colspan="10"><br> </td>
-<td bgcolor="Antiquewhite"><font color="black">5</font><br>[[Boor|B]]</td>
-<td bgcolor="Khaki"><font color="black">6</font><br>[[Süsinik|C]]</td>
-<td bgcolor="Khaki"><font color="green">7</font><br>[[Lämmastik|N]]</td>
-<td bgcolor="Khaki"><font color="green">8</font><br>[[Hapnik|O]]</td>
+<td bgcolor="Antiquewhite"><font color="black">5</font><br>[[Buur|B]]</td>
+<td bgcolor="Khaki"><font color="black">6</font><br>[[Hüdsäsnik|C]]</td>
+<td bgcolor="Khaki"><font color="green">7</font><br>[[Lämmästik|N]]</td>
+<td bgcolor="Khaki"><font color="green">8</font><br>[[Hapasnik|O]]</td>
 <td bgcolor="Khaki"><font color="green">9</font><br>[[Fluor|F]]</td>
 <td bgcolor="Lightpink"><font color="green">10</font><br>[[Neoon|Ne]]</td>
 </tr>
 <tr align="center">
-<td>[[Periood 3 element|'''3''']]</td>
+<td>[[Periuud 3 element|'''3''']]</td>
 <td bgcolor="Salmon"><font color="black">11</font><br>[[Naatrium|Na]]</td>
 <td bgcolor="Darkseagreen"><font color="black">12</font><br>[[Magneesium|Mg]]</td>
 <td style="vertical-align: top;"><br> </td>
@@ -56,34 +56,34 @@
 <td bgcolor="Lavender"><font color="black">13</font><br>[[Alumiinium|Al]]</td>
 <td bgcolor="Antiquewhite"><font color="black">14</font><br>[[Räni|Si]]</td>
 <td bgcolor="Khaki"><font color="black">15</font><br>[[Fosfor|P]]</td>
-<td bgcolor="Khaki"><font color="black">16</font><br>[[Väävel|S]]</td>
-<td bgcolor="Khaki"><font color="green">17</font><br>[[Kloor|Cl]]</td>
-<td bgcolor="Lightpink"><font color="green">18</font><br>[[Argoon|Ar]]</td>
+<td bgcolor="Khaki"><font color="black">16</font><br>[[Väävli|S]]</td>
+<td bgcolor="Khaki"><font color="green">17</font><br>[[Kluur|Cl]]</td>
+<td bgcolor="Lightpink"><font color="green">18</font><br>[[Arguun|Ar]]</td>
 </tr>
 <tr align="center">
-<td>[[Periood 4 element|'''4''']]</td>
+<td>[[Periuud 4 element|'''4''']]</td>
 <td bgcolor="Salmon"><font color="black">19</font><br>[[Kaalium|K]]</td>
 <td bgcolor="Darkseagreen"><font color="black">20</font><br>[[Kaltsium|Ca]]</td>
 <td style="vertical-align: top;"><br> </td>
 <td bgcolor="Lavender"><font color="black">21</font><br>[[Skandium|Sc]]</td>
 <td bgcolor="Lavender"><font color="black">22</font><br>[[Titaan|Ti]]</td>
 <td bgcolor="Lavender"><font color="black">23</font><br>[[Vanaadium|V]]</td>
-<td bgcolor="Lavender"><font color="black">24</font><br>[[Kroom|Cr]]</td>
+<td bgcolor="Lavender"><font color="black">24</font><br>[[Kruum|Cr]]</td>
 <td bgcolor="Lavender"><font color="black">25</font><br>[[Mangaan|Mn]]</td>
 <td width="40" bgcolor="Lavender"><font color="black">26</font><br>[[Raud|Fe]]</td>
 <td width="40" bgcolor="Lavender"><font color="black">27</font><br>[[Koobalt|Co]]</td>
-<td width="40" bgcolor="Lavender"><font color="black">28</font><br>[[Nikkel|Ni]]</td>
+<td width="40" bgcolor="Lavender"><font color="black">28</font><br>[[Nikli|Ni]]</td>
 <td bgcolor="Lavender"><font color="black">29</font><br>[[Vask|Cu]]</td>
 <td bgcolor="Lavender"><font color="black">30</font><br>[[Tsink|Zn]]</td>
 <td bgcolor="Lavender"><font color="black">31</font><br>[[Gallium|Ga]]</td>
 <td bgcolor="Antiquewhite"><font color="black">32</font><br>[[Germaanium|Ge]]</td>
 <td bgcolor="Antiquewhite"><font color="black">33</font><br>[[Arseen|As]]</td>
 <td bgcolor="Khaki"><font color="black">34</font><br>[[Seleen|Se]]</td>
-<td bgcolor="Khaki"><font color="blue">35</font><br>[[Broom|Br]]</td>
+<td bgcolor="Khaki"><font color="blue">35</font><br>[[Bruum|Br]]</td>
 <td bgcolor="Lightpink"><font color="green">36</font><br>[[Krüptoon|Kr]]</td>
 </tr>
 <tr align="center">
-<td>[[Periood 5 element|'''5''']]</td>
+<td>[[Periuud 5 element|'''5''']]</td>
 <td bgcolor="Salmon"><font color="black">37</font><br>[[Rubiidium|Rb]]</td>
 <td bgcolor="Darkseagreen"><font color="black">38</font><br>[[Strontsium|Sr]]</td>
 <td style="vertical-align: top;"><br> </td>
@@ -95,17 +95,17 @@
 <td bgcolor="Lavender"><font color="black">44</font><br>[[Ruteenium|Ru]]</td>
 <td bgcolor="Lavender"><font color="black">45</font><br>[[Roodium|Rh]]</td>
 <td bgcolor="Lavender"><font color="black">46</font><br>[[Pallaadium|Pd]]</td>
-<td bgcolor="Lavender"><font color="black">47</font><br>[[Hõbe|Ag]]</td>
+<td bgcolor="Lavender"><font color="black">47</font><br>[[Hõpõ|Ag]]</td>
 <td bgcolor="Lavender"><font color="black">48</font><br>[[Kaadmium|Cd]]</td>
 <td bgcolor="Lavender"><font color="black">49</font><br>[[Indium|In]]</td>
 <td bgcolor="Lavender"><font color="black">50</font><br>[[Tina|Sn]]</td>
 <td bgcolor="Antiquewhite"><font color="black">51</font><br>[[Antimon|Sb]]</td>
 <td bgcolor="Antiquewhite"><font color="black">52</font><br>[[Telluur|Te]]</td>
-<td bgcolor="Khaki"><font color="black">53</font><br>[[Jood|I]]</td>
+<td bgcolor="Khaki"><font color="black">53</font><br>[[Juut|I]]</td>
 <td bgcolor="Lightpink"><font color="green">54</font><br>[[Ksenoon|Xe]]</td>
 </tr>
 <tr align="center">
-<td>[[Periood 6 element|'''6''']]</td>
+<td>[[Periuud 6 element|'''6''']]</td>
 <td bgcolor="Salmon"><font color="black">55</font><br>[[Tseesium|Cs]]</td>
 <td bgcolor="Darkseagreen"><font color="black">56</font><br>[[Baarium|Ba]]</td>
 <td style="vertical-align: top; background-color:Gainsboro;"><font size="-1">*<br></font></td>
@@ -118,7 +118,7 @@
 <td bgcolor="Lavender"><font color="black">77</font><br>[[Iriidium|Ir]]</td>
 <td bgcolor="Lavender"><font color="black">78</font><br>[[Plaatina|Pt]]</td>
 <td bgcolor="Lavender"><font color="black">79</font><br>[[Kuld|Au]]</td>
-<td bgcolor="Lavender"><font color="blue">80</font><br>[[Elavhõbe|Hg]]</td>
+<td bgcolor="Lavender"><font color="blue">80</font><br>[[Ellävhõpõ|Hg]]</td>
 <td bgcolor="Lavender"><font color="black">81</font><br>[[Tallium|Tl]]</td>
 <td bgcolor="Lavender"><font color="black">82</font><br>[[Plii|Pb]]</td>
 <td bgcolor="Lavender"><font color="black">83</font><br>[[Vismut|Bi]]</td>
@@ -127,7 +127,7 @@
 <td bgcolor="Lightpink"><font color="green">86</font><br>[[Radoon|Rn]]</td>
 </tr>
 <tr align="center">
-<td>[[Periood 7 element|'''7''']]</td>
+<td>[[Periuud 7 element|'''7''']]</td>
 <td bgcolor="Salmon"><font color="black">87</font><br>&nbsp;[[Frantsium|Fr]]&nbsp;</td>
 <td bgcolor="Darkseagreen"><font color="black">88</font><br>[[Raadium|Ra]]</td>
 <td style="vertical-align: top; background-color:Thistle;"><font size="-1">**<br></font></td>
@@ -152,7 +152,7 @@
 <td colspan="21"><br> </td>
 </tr>
 <tr align="center">
-<td colspan="4" align="right">* '''[[Lantanoidid]]'''</td>
+<td colspan="4" align="right">* '''[[Lantanoidiq]]'''</td>
 <td bgcolor="Gainsboro"><font color="black">57</font><br>[[Lantaan|La]]</td>
 <td bgcolor="Gainsboro"><font color="black">58</font><br>[[Tseerium|Ce]]</td>
 <td bgcolor="Gainsboro"><font color="black">59</font><br>[[Praseodüüm|Pr]]</td>
@@ -170,7 +170,7 @@
 <td bgcolor="Gainsboro"><font color="black">71</font><br>[[Luteetsium|Lu]]</td>
 </tr>
 <tr align="center">
-<td colspan="4" align="right">** '''[[Aktinoidid]]'''</td>
+<td colspan="4" align="right">** '''[[Aktinoidiq]]'''</td>
 <td bgcolor="Thistle"><font color="black">89</font><br>[[Aktiinium|Ac]]</td>
 <td bgcolor="Thistle"><font color="black">90</font><br>[[Toorium|Th]]</td>
 <td bgcolor="Thistle"><font color="black">91</font><br>[[Protaktiinium|Pa]]</td>
@@ -190,18 +190,18 @@
 </table>
 <br/><br/>
 <table align="center" cellpadding="3">
-<caption>[[Elementide grupid|Perioodilisustabeli elementide grupid]]</caption>
+<caption>[[Elemente grupiq|Mendelejevi tabõli elemente grupiq]]</caption>
 <tr>
-<td bgcolor="Salmon">[[Leelismetallid]]</td>
-<td bgcolor="Darkseagreen">[[Leelismuldmetallid]]</td>
-<td bgcolor="Gainsboro">[[Lantanoidid]]</td>
-<td bgcolor="Thistle">[[Aktinoidid]]</td>
-<td bgcolor="Lavender">[[Metallid]]</td>
-<td bgcolor="AntiqueWhite">[[Poolmetallid]]</td>
-<!--<td bgcolor="#cccc99">[[Pooljuht|Pooljuhid]]</td>-->
-<td bgcolor="Khaki">[[Mittemetallid]]</td>
-<!--<td bgcolor="#ffff99">[[Halogeenid]]</td>-->
-<td bgcolor="Lightpink">[[Väärisgaasid]]</td>
+<td bgcolor="Salmon">[[Lipõsmetaliq]]</td>
+<td bgcolor="Darkseagreen">[[Lipõmuldmetaliq]]</td>
+<td bgcolor="Gainsboro">[[Lantanoidiq]]</td>
+<td bgcolor="Thistle">[[Aktinoidiq]]</td>
+<td bgcolor="Lavender">[[Metaliq]]</td>
+<td bgcolor="AntiqueWhite">[[Puulmetalliq]]</td>
+<!--<td bgcolor="#cccc99">[[Puuljuht|Puuljuhiq]]</td>-->
+<td bgcolor="Khaki">[[Mittemetaliq]]</td>
+<!--<td bgcolor="#ffff99">[[Halogeeniq]]</td>-->
+<td bgcolor="Lightpink">[[Väärisgaasiq]]</td>
 </tr>
 </table>
 
