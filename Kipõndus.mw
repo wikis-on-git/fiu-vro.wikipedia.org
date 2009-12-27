@@ -1,11 +1,14 @@
-'''Kipõndus''' vai '''virgõndus''' vai '''kibõhuskasv''' om [[füüsigalinõ suurus]], miä näütäs [[kibõhus]]õ muutumist [[aig|aon]]. Kuna kibõhus om vektoriaalnõ suurus, sõs om tuud ka kipõndus, tuu tähendäs, et kipõndusõl om nii arvolinõ suurus ku suund. 
+'''Kipõndus''' vai '''virgõndus''' vai '''kibõhuskasv''' om [[füüsigalinõ suurus]], miä näütäs [[kibõhus]]õ muutumist [[aig|aon]]. Kuna kibõhus om vektoriaalnõ suurus, sõs om tuud ka kipõndus, tuu tähendäs, et kipõndusõl om nii arvolinõ väärtüs ku suund. 
 
 SI-süstemin om kipõndusõ mõõdis ''miitret sekondi kruudu kotsilõ'' (m/s&sup2;).
 
 Klassigalidsõn mekaanigan, om kihä kipõndus võrdõlinõ tälle mõovidõ joudõ summaga: 
 :<math>\mathbf{F} = m\mathbf{a} \quad \mbox{ vai } \quad \mathbf{a} = \mathbf{F}/m,</math>
 
-kon '''F''' kihäle mõovidõ joudõ summa, ''m'' om kihä mass ja '''a''' timä kipõndus.
+kon '''F''' kihäle mõovidõ joudõ kogo, ''m'' om kihä mass ja '''a''' timä kipõndus.
+
+==Näütüs==
+*Kihä liigus õkvajuuntpite kipõndusõga 3 m/s&sup2;. Tuu tähendäs, et timä kibõhus kasus ega sekondiga 3 miitre võrra sekondin. Ku näütüses prõlla om timä kibõhus 5 m/s, sõs üte sekondi peräst om timä kibõhus 8 m/s, katõ sekondi peräst 11 m/s, komõ sekondi peräst 14 m/s jne.
 
 [[Katõgooria:Füüsiga]]
 
