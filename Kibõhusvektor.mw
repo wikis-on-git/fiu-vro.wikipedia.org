@@ -1,6 +1,7 @@
 '''Kibõhusvektor''' om [[füüsigalinõ suurus]], miä näütäs, kuis liikja kihä kotus ruumin muutus. Kibõhusvektoril om nii suund ku arvolinõ väärtüs (vektori pikkus, tuud kutsutas kihä [[kibõhus]]õs). 
 
 Ku kihä liigus ao Δ''t'' joosul punktist A punkti B, sõs timä keskmäne kibõhus om vektori <math>\Delta x = \overrightarrow{AB}</math> ja ao Δ''t'' jago: 
+
 <math>\vec v = \frac{\Delta x}{\Delta t} = \frac{1}{\Delta t}\cdot \Delta x. </math>
 
 [[Katõgooria:Füüsiga]]
