@@ -13,12 +13,12 @@
 | style="background:white; color:black" | must
 |} 
 {| 
-| style="background:#004; color:#004" | abc
+| style="background:#003; color:#003" | abc
 | style="background:white; color:black" | mustjanõ, mustjas
 |} 
 {| 
-| style="background:white; color:white" | abc
-| style="background:white; color:black" | 
+| style="background:#F00; color:F00" | abc
+| style="background:white; color:black" | verrev, vereväne
 |} 
 {| 
 | style="background:white; color:white" | abc
