@@ -97,16 +97,16 @@
 | style="background:white; color:black" | pümmepruun, tummõpruun
 |} 
 {| 
-| style="background:#CCC; color:#CCC" | abc
+| style="background:#EEE; color:#EEE" | abc
 | style="background:white; color:black" | hahkjanõ, hahkjas
 |} 
 {| 
-| style="background:white; color:white" | abc
-| style="background:white; color:black" | 
+| style="background:#CCC; color:#CCC" | abc
+| style="background:white; color:black" | hahk, hiir
 |} 
 {| 
-| style="background:white; color:white" | abc
-| style="background:white; color:black" | 
+| style="background:#666; color:#666" | abc
+| style="background:white; color:black" | hahk, hall, harm
 |} 
 {| 
 | style="background:white; color:white" | abc
