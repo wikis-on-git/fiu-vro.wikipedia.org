@@ -44,8 +44,8 @@ Tan märki "|" (mõnikõrd tarvitõdas tuu asõmõl märki ":") tulõ lukõq "ni
 
 Tuud, kas määnegi asi om vai olõ-iq määntsegi hulga elonik, märgitäs vastavalt sümboliga <math>\in</math> vai <math>\notin</math>. Ku <math>k\in L</math>, sõs üteldäs "''k'' om hulgan ''L''" vai "''k'' kuulus hulka ''L''", ja ku <math>k\notin L</math>, sõs üteldäs "''k'' olõ-iq hulgan ''L''" vai "''k'' kuulu-iq hulka ''L''". Nii näütüses iinpuul tuud hulkõ kõrral 
 
-:*<math>2 \in A</math> ja <math>49 = 7^2 \in E</math>, agaq 
-:*<math>6 \notin A</math> ja [[Võnnu kihlkund]] <math>\notin B</math>.
+:* <math>2 \in A</math> ja <math>49 = 7^2 \in E</math>, agaq 
+:* <math>6 \notin A</math> ja [[Võnnu kihlkund]] <math>\notin B</math>.
 
 == Esiqerälidseq hulgaq ==
 
@@ -94,6 +94,7 @@ Om olõman mitmit arvamisõ viise, miä lupassõq olõmanolõvist hulgõst vahts
 [[fur:Insiemi]]
 [[gd:Àlach]]
 [[gl:Conxunto]]
+[[gan:集合]]
 [[xal:Олн]]
 [[ko:집합]]
 [[hr:Skup]]
