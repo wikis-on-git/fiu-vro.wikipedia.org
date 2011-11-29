@@ -12,6 +12,93 @@
 
 '''Abasiini keel''' (om pruugit ka nimetüst ''abaasi kiil'') om [[abhaasi-adõge keeleq|abhaasi-adõge]] kiili abhaasi-abasiini allrühmä kuuluv kiil. Abasiini keele kõgõ lähkümb sugukiil om [[abhaasi kiil]]. 
 
+==Abasiini keele tähistü==
+
+== Orthography ==
+
+{| style="font-family:Arial Unicode MS; font-size:1.4em; border-color:#000000; border-width:1px; border-style:solid; border-collapse:collapse; background-color:#F8F8EF"
+| style="width:4em; text-align:center; padding: 4px;" | А а
+| style="width:4em; text-align:center; padding: 4px;" | Б б
+| style="width:4em; text-align:center; padding: 4px;" | В в
+| style="width:4em; text-align:center; padding: 4px;" | Г г
+| style="width:4em; text-align:center; padding: 4px;" | Гв гв
+| style="width:4em; text-align:center; padding: 4px;" | Гъ гъ
+| style="width:4em; text-align:center; padding: 4px;" | Гъв гъв
+| style="width:4em; text-align:center; padding: 4px;" | Гъь гъь
+|-
+| style="width:4em; text-align:center; padding: 4px;" | Гь гь
+| style="width:4em; text-align:center; padding: 4px;" | {{unicode|ГӀ гӀ}}
+| style="width:4em; text-align:center; padding: 4px;" | {{unicode|ГӀв гӀв}}
+| style="width:4em; text-align:center; padding: 4px;" | Д д
+| style="width:4em; text-align:center; padding: 4px;" | Дж дж
+| style="width:4em; text-align:center; padding: 4px;" | Джв джв
+| style="width:4em; text-align:center; padding: 4px;" | Джь джь
+| style="width:4em; text-align:center; padding: 4px;" | Дз дз
+|-
+| style="width:4em; text-align:center; padding: 4px;" | Е е
+| style="width:4em; text-align:center; padding: 4px;" | Ё ё
+| style="width:4em; text-align:center; padding: 4px;" | Ж ж
+| style="width:4em; text-align:center; padding: 4px;" | Жв жв
+| style="width:4em; text-align:center; padding: 4px;" | Жь жь
+| style="width:4em; text-align:center; padding: 4px;" | З з
+| style="width:4em; text-align:center; padding: 4px;" | И и
+| style="width:4em; text-align:center; padding: 4px;" | Й й
+|-
+| style="width:4em; text-align:center; padding: 4px;" | К к
+| style="width:4em; text-align:center; padding: 4px;" | Кв кв
+| style="width:4em; text-align:center; padding: 4px;" | Къ къ
+| style="width:4em; text-align:center; padding: 4px;" | Къв къв
+| style="width:4em; text-align:center; padding: 4px;" | Къь къь
+| style="width:4em; text-align:center; padding: 4px;" | Кь кь
+| style="width:4em; text-align:center; padding: 4px;" | {{unicode|КӀ кӀ}}
+| style="width:4em; text-align:center; padding: 4px;" | {{unicode|КӀв кӀв}}
+|-
+| style="width:4em; text-align:center; padding: 4px;" | {{unicode|КӀь кӀь}}
+| style="width:4em; text-align:center; padding: 4px;" | Л л
+| style="width:4em; text-align:center; padding: 4px;" | Ль ль
+| style="width:4em; text-align:center; padding: 4px;" | М м
+| style="width:4em; text-align:center; padding: 4px;" | Н н
+| style="width:4em; text-align:center; padding: 4px;" | О о
+| style="width:4em; text-align:center; padding: 4px;" | П п
+| style="width:4em; text-align:center; padding: 4px;" | {{unicode|ПӀ пӀ}}
+|-
+| style="width:4em; text-align:center; padding: 4px;" | Р р
+| style="width:4em; text-align:center; padding: 4px;" | С с
+| style="width:4em; text-align:center; padding: 4px;" | Т т
+| style="width:4em; text-align:center; padding: 4px;" | Тл тл
+| style="width:4em; text-align:center; padding: 4px;" | Тш тш
+| style="width:4em; text-align:center; padding: 4px;" | {{unicode|ТӀ тӀ}}
+| style="width:4em; text-align:center; padding: 4px;" | У у
+| style="width:4em; text-align:center; padding: 4px;" | Ф ф
+|-
+| style="width:4em; text-align:center; padding: 4px;" | Х х
+| style="width:4em; text-align:center; padding: 4px;" | Хв хв
+| style="width:4em; text-align:center; padding: 4px;" | Хь хь
+| style="width:4em; text-align:center; padding: 4px;" | {{unicode|ХӀ хӀ}}
+| style="width:4em; text-align:center; padding: 4px;" | {{unicode|ХӀв хӀв}}
+| style="width:4em; text-align:center; padding: 4px;" | Ц ц
+| style="width:4em; text-align:center; padding: 4px;" | {{unicode|ЦӀ цӀ}}
+| style="width:4em; text-align:center; padding: 4px;" | Ч ч
+|-
+| style="width:4em; text-align:center; padding: 4px;" | Чв чв
+| style="width:4em; text-align:center; padding: 4px;" | {{unicode|ЧӀ чӀ}}
+| style="width:4em; text-align:center; padding: 4px;" | {{unicode|ЧӀв чӀв}}
+| style="width:4em; text-align:center; padding: 4px;" | Ш ш
+| style="width:4em; text-align:center; padding: 4px;" | {{unicode|ШӀ шӀ}}
+| style="width:4em; text-align:center; padding: 4px;" | Шв шв
+| style="width:4em; text-align:center; padding: 4px;" | Щ щ
+| style="width:4em; text-align:center; padding: 4px;" | Ъ ъ
+|-
+| style="width:4em; text-align:center; padding: 4px;" | Ы ы
+| style="width:4em; text-align:center; padding: 4px;" | Ь ь 
+| style="width:4em; text-align:center; padding: 4px;" | Э э
+| style="width:4em; text-align:center; padding: 4px;" | Ю ю
+| style="width:4em; text-align:center; padding: 4px;" | Я я
+| 
+| 
+| 
+|}
+
 [[katõgooria:keeleq]]
 
 [[en:Abaza language]]
