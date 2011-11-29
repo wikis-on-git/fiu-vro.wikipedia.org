@@ -14,90 +14,61 @@
 
 ==Abasiini keele tähistü==
 
-== Orthography ==
+Abasiini tähestü, midä pruugitas [[1938]]. aastagast pääle, om luud vinne tähistü põh'a pääle, kuiki kiräkeele luumist alostõdi [[1932]]–[[1933]] [[ladina kiri|ladina kirä]] perrä.
 
-{| style="font-family:Arial Unicode MS; font-size:1.4em; border-color:#000000; border-width:1px; border-style:solid; border-collapse:collapse; background-color:#F8F8EF"
-| style="width:4em; text-align:center; padding: 4px;" | А а
-| style="width:4em; text-align:center; padding: 4px;" | Б б
-| style="width:4em; text-align:center; padding: 4px;" | В в
-| style="width:4em; text-align:center; padding: 4px;" | Г г
-| style="width:4em; text-align:center; padding: 4px;" | Гв гв
-| style="width:4em; text-align:center; padding: 4px;" | Гъ гъ
-| style="width:4em; text-align:center; padding: 4px;" | Гъв гъв
-| style="width:4em; text-align:center; padding: 4px;" | Гъь гъь
-|-
-| style="width:4em; text-align:center; padding: 4px;" | Гь гь
-| style="width:4em; text-align:center; padding: 4px;" | {{unicode|ГӀ гӀ}}
-| style="width:4em; text-align:center; padding: 4px;" | {{unicode|ГӀв гӀв}}
-| style="width:4em; text-align:center; padding: 4px;" | Д д
-| style="width:4em; text-align:center; padding: 4px;" | Дж дж
-| style="width:4em; text-align:center; padding: 4px;" | Джв джв
-| style="width:4em; text-align:center; padding: 4px;" | Джь джь
-| style="width:4em; text-align:center; padding: 4px;" | Дз дз
-|-
-| style="width:4em; text-align:center; padding: 4px;" | Е е
-| style="width:4em; text-align:center; padding: 4px;" | Ё ё
-| style="width:4em; text-align:center; padding: 4px;" | Ж ж
-| style="width:4em; text-align:center; padding: 4px;" | Жв жв
-| style="width:4em; text-align:center; padding: 4px;" | Жь жь
-| style="width:4em; text-align:center; padding: 4px;" | З з
-| style="width:4em; text-align:center; padding: 4px;" | И и
-| style="width:4em; text-align:center; padding: 4px;" | Й й
-|-
-| style="width:4em; text-align:center; padding: 4px;" | К к
-| style="width:4em; text-align:center; padding: 4px;" | Кв кв
-| style="width:4em; text-align:center; padding: 4px;" | Къ къ
-| style="width:4em; text-align:center; padding: 4px;" | Къв къв
-| style="width:4em; text-align:center; padding: 4px;" | Къь къь
-| style="width:4em; text-align:center; padding: 4px;" | Кь кь
-| style="width:4em; text-align:center; padding: 4px;" | {{unicode|КӀ кӀ}}
-| style="width:4em; text-align:center; padding: 4px;" | {{unicode|КӀв кӀв}}
-|-
-| style="width:4em; text-align:center; padding: 4px;" | {{unicode|КӀь кӀь}}
-| style="width:4em; text-align:center; padding: 4px;" | Л л
-| style="width:4em; text-align:center; padding: 4px;" | Ль ль
-| style="width:4em; text-align:center; padding: 4px;" | М м
-| style="width:4em; text-align:center; padding: 4px;" | Н н
-| style="width:4em; text-align:center; padding: 4px;" | О о
-| style="width:4em; text-align:center; padding: 4px;" | П п
-| style="width:4em; text-align:center; padding: 4px;" | {{unicode|ПӀ пӀ}}
-|-
-| style="width:4em; text-align:center; padding: 4px;" | Р р
-| style="width:4em; text-align:center; padding: 4px;" | С с
-| style="width:4em; text-align:center; padding: 4px;" | Т т
-| style="width:4em; text-align:center; padding: 4px;" | Тл тл
-| style="width:4em; text-align:center; padding: 4px;" | Тш тш
-| style="width:4em; text-align:center; padding: 4px;" | {{unicode|ТӀ тӀ}}
-| style="width:4em; text-align:center; padding: 4px;" | У у
-| style="width:4em; text-align:center; padding: 4px;" | Ф ф
-|-
-| style="width:4em; text-align:center; padding: 4px;" | Х х
-| style="width:4em; text-align:center; padding: 4px;" | Хв хв
-| style="width:4em; text-align:center; padding: 4px;" | Хь хь
-| style="width:4em; text-align:center; padding: 4px;" | {{unicode|ХӀ хӀ}}
-| style="width:4em; text-align:center; padding: 4px;" | {{unicode|ХӀв хӀв}}
-| style="width:4em; text-align:center; padding: 4px;" | Ц ц
-| style="width:4em; text-align:center; padding: 4px;" | {{unicode|ЦӀ цӀ}}
-| style="width:4em; text-align:center; padding: 4px;" | Ч ч
-|-
-| style="width:4em; text-align:center; padding: 4px;" | Чв чв
-| style="width:4em; text-align:center; padding: 4px;" | {{unicode|ЧӀ чӀ}}
-| style="width:4em; text-align:center; padding: 4px;" | {{unicode|ЧӀв чӀв}}
-| style="width:4em; text-align:center; padding: 4px;" | Ш ш
-| style="width:4em; text-align:center; padding: 4px;" | {{unicode|ШӀ шӀ}}
-| style="width:4em; text-align:center; padding: 4px;" | Шв шв
-| style="width:4em; text-align:center; padding: 4px;" | Щ щ
-| style="width:4em; text-align:center; padding: 4px;" | Ъ ъ
-|-
-| style="width:4em; text-align:center; padding: 4px;" | Ы ы
-| style="width:4em; text-align:center; padding: 4px;" | Ь ь 
-| style="width:4em; text-align:center; padding: 4px;" | Э э
-| style="width:4em; text-align:center; padding: 4px;" | Ю ю
-| style="width:4em; text-align:center; padding: 4px;" | Я я
-| 
-| 
-| 
-|}
+<table width="100%" border=0 color=#ffffff><tr bgcolor=#ffffcc align=center class=unicode>
+<td width="2%" height="35px">А</td><td width="2%">Б</td><td width="2%">В</td><td width="2%">Г</td>
+<td width="2%">ГВ</td><td width="2%">ГЪ</td><td width="2%">ГЪВ</td>
+<td width="2%">ГЪЬ</td><td width="2%">ГЬ</td><td width="2%">ГӀ</td>
+<td width="2%">ГӀВ</td><td width="2%">Д</td><td width="2%">ДЖ</td>
+<td width="2%">ДЖВ</td><td width="2%">ДЖЬ</td><td width="2%">ДЗ</td>
+<td width="2%">Е</td><td width="2%">Ё</td><td width="2%">Ж</td><td width="2%">ЖВ</td>
+<td width="2%">ЖЬ</td><td width="2%">З</td><td width="2%">И</td><td width="2%">Й</td>
+<td width="2%">К</td><td width="2%">КВ</td><td width="2%">КЪ</td><td width="2%">КЪВ</td>
+<td width="2%">КЪЬ</td><td width="2%">КЬ</td><td width="2%">КӀ</td>
+<td width="2%">КӀВ</td><td width="2%">КӀЬ</td>
+</tr>
+<tr bgcolor=#ffffcc align=center class=unicode>
+<td dir="ltr" width="2%" height="35px">а</td><td width="2%">б</td><td width="2%">в</td><td width="2%">г</td>
+<td width="2%">гв</td><td width="2%">гъ</td><td width="2%">гъв</td>
+<td width="2%">гъь</td><td width="2%">гь</td><td width="2%">гӀ</td>
+<td width="2%">гӀв</td><td width="2%">д</td><td width="2%">дж</td>
+<td width="2%">джв</td><td width="2%">джь</td><td width="2%">дз</td>
+<td width="2%">е</td><td width="2%">ё</td><td width="2%">ж</td><td width="2%">жв</td>
+<td width="2%">жь</td><td width="2%">з</td><td width="2%">и</td><td width="2%">й</td>
+<td width="2%">к</td><td width="2%">кв</td><td width="2%">къ</td><td width="2%">къв</td>
+<td width="2%">къь</td><td width="2%">кь</td><td width="2%">кӀ</td>
+<td width="2%">кӀв</td><td width="2%">кӀь</td>
+</tr>
+<tr bgcolor=#ffffff align=center class=unicode>
+<td dir="ltr" width="2%" height="35px">a</td><td width="2%">b</td><td width="2%">v</td><td width="2%">g</td>
+<td width="2%">g°</td><td width="2%">ġ</td><td width="2%">ġ°</td><td width="2%">ġ&#39;</td>
+<td width="2%">g&#39;</td><td width="2%">ʿ</td><td width="2%">ʿ°</td>
+<td width="2%">d</td><td width="2%">dž</td><td width="2%">dž°</td>
+<td width="2%">dž&#39;</td><td width="2%">dz</td><td width="2%">e</td>
+<td width="2%">jo</td><td width="2%">ž</td><td width="2%">ž°</td><td width="2%">ž&#39;</td>
+<td width="2%">z</td><td width="2%">i</td><td width="2%">j</td><td width="2%">k</td>
+<td width="2%">k°</td><td width="2%">q̣</td><td width="2%">q̣°</td>
+<td width="2%">q̣&#39;</td><td width="2%">k&#39;</td><td width="2%">ḳ</td>
+<td width="2%">ḳ°</td><td width="2%">k̄</td>
+</tr>
+<tr bgcolor=#f5f5f5 align=center class=unicode>
+<td dir="ltr" width="2%" height="35px"> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
+</tr></table>
+<br>
+<table width="100%" border=0 color=#ffffff><tr bgcolor=#ffffcc align=center class=unicode>
+<td width="2%" height="35px">Л</td><td>ЛЬ</td><td>ЛӀ</td><td>М</td><td>Н</td><td>О</td><td>П</td><td>ПӀ</td><td>Р</td><td>С</td><td>Т</td><td>ТЛ</td><td>ТШ</td><td>ТӀ</td><td>У</td><td>Ф</td><td>ФӀ</td><td>Х</td><td>ХВ</td><td>ХЬ</td><td>ХӀ</td><td>ХӀВ</td><td>Ц</td><td>ЦӀ</td><td>Ч</td><td>ЧВ</td><td>ЧӀ</td><td>ЧӀВ</td><td>Ш</td><td>ШВ</td><td>ШӀ</td><td>Щ</td><td>Ъ</td><td>Ы</td><td>Ь</td><td>Э</td><td>Ю</td><td>Я</td><td>Ӏ</td>
+</tr>
+<tr bgcolor=#ffffcc align=center class=unicode>
+<td dir="ltr" width="2%" height="35px">л</td><td>ль</td><td>лӀ</td><td>м</td><td>н</td><td>о</td><td>п</td><td>пӀ</td><td>р</td><td>с</td><td>т</td><td>тл</td><td>тш</td><td>тӀ</td><td>у</td><td>ф</td><td>фӀ</td><td>х</td><td>хв</td><td>хь</td><td>хӀ</td><td>хӀв</td><td>ц</td><td>цӀ</td><td>ч</td><td>чв</td><td>чӀ</td><td>чӀв</td><td>ш</td><td>шв</td><td>шӀ</td><td>щ</td><td>ъ</td><td>ы</td><td>ь</td><td>э</td><td>ю</td><td>я</td><td>Ӏ</td>
+</tr>
+<tr bgcolor=#ffffff align=center class=unicode>
+<td dir="ltr" width="2%" height="35px">l̥</td><td>l</td><td>ḷ</td><td>m</td><td>n</td><td>o</td><td>p</td><td>ṗ</td><td>r</td><td>s</td><td>t</td><td>ł</td><td>č</td><td>ṭ</td><td>u</td><td>f</td><td>f̱</td><td>ẖ</td><td>ẖ°</td><td>ẖ&#39;</td><td>ḥ</td><td>ḥ°</td><td>c</td><td>c̣</td><td>č&#39;</td><td>č°</td><td>č̣&#39;</td><td>č̣°</td><td>š</td><td>š°</td><td>č̣̇</td><td>š&#39;</td><td>&quot;</td><td>ə</td><td>&#39;</td><td>è</td><td>ju</td><td>ja</td><td>-</td>
+</tr>
+<tr bgcolor=#f5f5f5 align=center class=unicode>
+<td dir="ltr" width="2%" height="35px"> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td>
+</tr></table>
+
 
 [[katõgooria:keeleq]]
 
