@@ -58,6 +58,23 @@ Euleri Leonhard (1707-1783) naas' arvoteooria vasta edimäst kõrda huvvi tundma
 * ''[[Pelli võrrand]]''. Tuu nime and' võrrandilõ edimädsenä Euler, kuigi Pell olõ-s edimäne, kiä tuud võrrandit uurõ. Euler näüdäs, kuis ahhiljaoq ommaq köüdedüq Pelli võrrandiga. 
 * ''Edimädseq sammuq [[analüütiline arvoteooria|analüütilidse arvoteooria]] suunan.'' Ummin töien nelä kruudu summadõ, [[tükeldüs (arvoteooria)|tüküarvõ tükeldüisi]], viisnukkarvõ ja lihtside arvõ jaotusõ kotsilõ tarvit' tä sääntsit meetodit, midä või kaiaq ku matõmaatilidsõ analüüsi (muuhulgan rito) rakõndamist arvoteoorian. Kuna tä elli inne kompleksanalüüsi vällätüütämist, oll' timä tüü piirat astmõritoga formaalsõ manipuliirmisega. Timä töien oll' asjo, midä või kaiaq ku edimädsi sammõ Riemanni funkts'ooni suunan. * ''Kruutvormiq.''  Fermat' iinkujo perrä uurõ Euler edesi, määntsit lihtsit arvõ saa andaq kujol <math>\scriptstyle x^2 + N y^2</math>.  * ''Diofantilidsõq võrrandiq.'' Euler tüüt mõndsi diofantiliidsi võrrandidõ kallal, mink liik om 0 vai 1. Muuhulgan uurõ tä Diophantosõ tüüd ja püüd' tuud süstematisiiri. Tä pand' tähele, et om olõman köüdüs diofantiliidsi võrrandidõ ja elliptiliidsi integraalõ vaihõl. Noidõ perämäidsi uurmist oll' alostanuq timä esiq.
 
+====Lagrange, Legendre ja Gauss====
+[[Image:Disqvisitiones-800.jpg|upright|150px|thumb|[[Gauss]]i raamadu "[[Disquisitiones Arithmeticae]]" edimäne trükk]]
+
+[[Lagrange]] (1736–1813) oll' edimäne, kiä and' tävvelidseq tõõstusõq mõnõlõ Fermat ja Euleri tulõmusõlõ, näütüses nelä kruudu teoremile ja Pelli võrrandi lahendamisõ algoritmilõ. Tä uurõ ka kruutvormõ üldkujol (mitte õnnõ kujol <math>\scriptstyle m X^2 + n Y^2</math>): tõi sisse näide ekvivalentsusõ mõistõ, näüdäs, kuis näid kanoonilisõlõ kujolõ viiäq jne. 
+
+[[Adrien-Marie Legendre|Legendre]] (1752–1833) was the first to state the law of quadratic reciprocity. He also
+conjectured what amounts to the [[prime number theorem]] and [[Dirichlet's theorem on arithmetic progressions]]. He gave a full treatment of the equation <math>\scriptstyle a x^2 + b y^2 + c z^2 = 0</math><ref>Weil, op. cit., pp. 327–328.</ref> and worked on quadratic forms along the lines later developed fully by Gauss.<ref>Weil, op. cit., pp. 332–334.</ref> In his old age, he was the first to prove "Fermat's last theorem" for <math>n=5</math>
+(completing work by [[Dirichlet]], and crediting both him and [[Sophie Germain]]).<ref>Weil, op. cit., pp. 337–338.</ref>
+
+[[File:10 DM Serie4 Vorderseite.jpg|thumb|left|Carl Friedrich Gauss]]
+
+In [[Disquisitiones Arithmeticae]] (1798), [[Gauss]] (1777–1855) proved the law of [[quadratic reciprocity]] and developed the theory of quadratic forms (in particular, defining their composition). He also introduced some basic notation ([[congruences]]) and devoted a section to computational matters, including primality tests.<ref>C. Goldstein and N. Schappacher, "A book in search of a discipline", in: C. Goldstein, N. Schappacher and J. Schwermer (eds.), The Shaping of Arithmetic, Springer, 2007, p. 14.</ref> The last section of the ''Disquisitiones'' established a link between [[roots of unity]] and number theory:
+<blockquote>The theory of the division of the circle...which is treated in sec. 7 does not belong
+by itself to arithmetic, but its principles can only be drawn from higher arithmetic.<ref>From the preface of ''Disquisitiones Arithmeticae''; the translation is taken from Goldstein and Schappacher, op. cit., p. 16.</ref></blockquote>
+
+In this way, Gauss arguably made a first foray towards both [[Galois]]'s work and [[algebraic number theory]].
+
 ===S'ooilma-aignõ arvoteooria===
 
 == Haroq ==
