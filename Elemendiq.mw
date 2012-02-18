@@ -5,6 +5,30 @@ Raamatin ommaq mõistidõ [[välläseleltüs]]eq, postulaadiq (aksioomiq), laus�
 
 Eukleidese "Elemente" om peet ütes kõgõ tähtsämbäs ja mõokambas opiraamadus, miä kunagi kirotõt om. Edimäst kõrda trükiti tä Veneetsiän 1482. a. - nii oll' tä üts kõgõ edimäne matõmaatigaraamat, miä trükün ilmu pääle trükipressi luumist. "Elemente" om ilmunu üle 1000 trükü, arvatas, et õnnõ [[piibli]]st om ilmunuq inämb trükke. Sato aastit, ku kõigilõ ülikoolin opjilõ oll' kohustuslik kvadrivium, pidiq nääq opma vähämbält ossa "Elemendest". Nii oll' tä tarvitusõl 20. aastagasaa alostusõni. 
  
+==Siso==
+
+Raamaduq 1-4 tegeleseq tasapinna geomeetriäga.
+
+*'''1. raamatun''' ommaq Eukleidese 10 aks'uumi (noist viit kuts tä postulaadõs ja viit aks'oomõs) ja mõnõq geomeetriä põhiteoremiq: teorem tuu kotsilõ, et [[paarkolmnukk|paarkolmnuka]] alosnukaq ommaq ütesuurõq (lausõq 5), Pythagorasõ teorem (lausõq 47), lausõq kolmnuka pindala, sisenukkõ summa ja võrdsusõ kotsilõ.
+*'''2. raamadtut''' kutsutas mõnikõrd "geomeetrilidsõ algõbra raamatus". Suurt jako tuu raamadu lausist või kaiaq ku algõbraliidsi samasuisi (nt. ''a''(''b''&nbsp;+&nbsp;''c''&nbsp;+&nbsp;...)&nbsp;=&nbsp;''ab''&nbsp;+&nbsp;''ac''&nbsp;+&nbsp;... vai (2''a''&nbsp;+&nbsp;''b'')<sup>2</sup>&nbsp;+&nbsp;''b''<sup>2</sup>&nbsp;=&nbsp;2(''a''<sup>2</sup>&nbsp;+&nbsp;(''a''&nbsp;+&nbsp;''b'')<sup>2</sup>)) geomeetrilist tõlgõndust. Sääl raamatun om ka etteannõt arvost kruutjuurõ löüdmise meetod. 
+*'''3. raamat''' tegeles tsõõrõ ja näide umahuisiga: kolmnukaq tsõõri sisen, pututajaq, Thalese teorem.
+*'''4. raamatun''' konstrueeritäs kolmnukalõ sisetsõõr ja ümbretsõõr nink konstrueeritäs 4, 5, 6, ja 15 külega kõrraperätseq hulknukaq.
+
+Raamaduq 5-10 tegeleseq jagodõ ja proports'uunõga.
+<!--
+Book 5 is a treatise on proportions of magnitudes. Proposition 25 has as a special case the inequality of arithmetic and geometric means.
+Book 6 applies proportions to geometry: Similar figures.
+Book 7 deals strictly with elementary number theory: divisibility, prime numbers, Euclid's algorithm for finding the greatest common divisor, least common multiple. Propositions 30 and 32 together are essentially equivalent to the fundamental theorem of arithmetic stating that every positive integer can be written as a product of primes in an essentially unique way, though Euclid would have had trouble stating it in this modern form as he did not use the product of more than 3 numbers.
+Book 8 deals with proportions in number theory and geometric sequences.
+Book 9 applies the results of the preceding two books and gives the infinitude of prime numbers (proposition 20), the sum of a geometric series (proposition 35), and the construction of even perfect numbers (proposition 36).
+Book 10 attempts to classify incommensurable (in modern language, irrational) magnitudes by using the method of exhaustion, a precursor to integration.
+-->
+Raamaduq 11-13 tegeleseq ruumi geomeetriäga.
+<!--
+Book 11 generalizes the results of Books 1–6 to space: perpendicularity, parallelism, volumes of parallelepipeds.
+Book 12 studies volumes of cones, pyramids, and cylinders in detail, and shows for example that the volume of a cone is a third of the volume of the corresponding cylinder. It concludes by showing the volume of a sphere is proportional to the cube of its radius by approximating it by a union of many pyramids.
+Book 13 constructs the five regular Platonic solids inscribed in a sphere, calculates the ratio of their edges to the radius of the sphere, and proves that there are no further regular solids.
+-->
 
 [[Katõgooria:Eukleisese raamaduq]]
 [[Katõgooria:Matõmaatiga]]
