@@ -15,14 +15,14 @@ Raamaduq 1-4 tegeleseq tasapinna geomeetriäga.
 *'''4. raamatun''' konstrueeritäs kolmnukalõ sisetsõõrjuun ja ümbretsõõrjuun nink konstrueeritäs 4, 5, 6, ja 15 külega kõrraperätseq hulknukaq.
 
 Raamaduq 5-10 tegeleseq jagodõ ja proports'uunõga.
-<!--
-Book 5 is a treatise on proportions of magnitudes. Proposition 25 has as a special case the inequality of arithmetic and geometric means.
-Book 6 applies proportions to geometry: Similar figures.
-Book 7 deals strictly with elementary number theory: divisibility, prime numbers, Euclid's algorithm for finding the greatest common divisor, least common multiple. Propositions 30 and 32 together are essentially equivalent to the fundamental theorem of arithmetic stating that every positive integer can be written as a product of primes in an essentially unique way, though Euclid would have had trouble stating it in this modern form as he did not use the product of more than 3 numbers.
-Book 8 deals with proportions in number theory and geometric sequences.
-Book 9 applies the results of the preceding two books and gives the infinitude of prime numbers (proposition 20), the sum of a geometric series (proposition 35), and the construction of even perfect numbers (proposition 36).
-Book 10 attempts to classify incommensurable (in modern language, irrational) magnitudes by using the method of exhaustion, a precursor to integration.
--->
+
+*'''5. raamatun''' om juttu suuruisi proports'oonõst. Lausõst 25 tulõ vällä, et häie arvõ aritmeetiline keskmäne olõ-iq vähämb, ku sammo arvõ geomeetriline keskmäne.
+*'''6. raamatun''' tegeldäs ütekujoliidsi kujondidõga. 
+*'''7. raamat''' tegeles puhtalt elementaarsõ [[arvoteooria]]ga: jagonõmisõ, lihtside arvõ, Eukleidese algoritmi, kõgõ suurõmba ütidse jagaja ja kõgõ vähämbä ütidse kõrdsõga. Lausõq 30 ja 32 kuun ommaq sisolidsõlt samaväärseq aritmeetiga põhiteoremiga. 
+*'''8. raamatun''' tegeldäs proports'uunõga arvoteoorian ja geomeetriliidsin jadadõn.
+*'''9. raamatun''' rakõndõdas 7. ja 8. raamadu tulõmuisi tuu jaos, et tõõstada, et lihtsit arvõ om lõpmalda pall'o (lausõq 20), et löüdäq geomeetrilidse jada summa (lausõq 35) ja et konstruiiri paarinarvolidsõq tävvelidseq arvoq (lausõq 36).
+*'''10. raamatun''' püüdäs klassifitsiiri ütismõõdulda (täämbädse päävä keelen: irratsionaalsit) suuruisi.
+
 Raamaduq 11-13 tegeleseq ruumi geomeetriäga.
 <!--
 Book 11 generalizes the results of Books 1–6 to space: perpendicularity, parallelism, volumes of parallelepipeds.
