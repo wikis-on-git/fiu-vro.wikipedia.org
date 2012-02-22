@@ -21,6 +21,294 @@ Internetitunnus=[[.us]], [[.gov]], [[.mil]], [[.edu]]
 
 == Valitsõmisjaotus ==
 
+[[Pilt:Map of USA with state names-et.svg|thumb|280px|Ameerika Ütisriike osariigiq]]
+
+Ameeriga Ütisriigiq jagonõsõq 50 osariigis ja ütes ringkunnas ([[Columbia ringkund]]).
+<div style="float:left; margin-right:1em">
+{| class="wikitable"
+|Osariik (ringkund)
+! [[USA postiteenistüse kuud|Kuud]]
+! Suurus<br /><small>(km<sup>2</sup>)</small>
+! Pääliin
+|-
+| [[Alabama]]
+| AL
+| style="text-align:right;" | 133 950
+| [[Montgomery]]
+|-
+| [[Alaska]]
+| AK
+| style="text-align:right;" | 1 522 595
+| [[Juneau]]
+|-
+| [[Arizona]]
+| AZ
+| style="text-align:right;" | 295 275
+| [[Phoenix]]
+|-
+| [[Arkansas]]
+| AR
+| style="text-align:right;" | 137 741
+| [[Little Rock]]
+|-
+| [[California]]
+| CA
+| style="text-align:right;" | 410 895
+| [[Sacramento]]
+|-
+| [[Colorado]]
+| CO
+| style="text-align:right;" | 269 837
+| [[Denver]]
+|-
+| [[Columbia ringkond]]
+| DC
+| style="text-align:right;" | 159
+| [[Washington]]
+|-
+| [[Connecticut]]
+| CT
+| style="text-align:right;" | 14 371
+| [[Hartford]]
+|-
+| [[Delaware]]
+| DE
+| style="text-align:right;" | 6452
+| [[Dover (Delaware)|Dover]]
+|-
+| [[Florida]]
+| FL
+| style="text-align:right;" | 170 451
+| [[Tallahassee]]
+|-
+| [[Georgia]]
+| GA
+| style="text-align:right;" | 154 077
+| [[Atlanta]]
+|-
+| [[Hawaii osariik|Hawaii]]
+| HI
+| style="text-align:right;" | 28 377
+| [[Honolulu]]
+|-
+| [[Idaho]]
+| ID
+| style="text-align:right;" | 216 632
+| [[Boise]]
+|-
+| [[Illinois]]
+| IL
+| style="text-align:right;" | 149 998
+| [[Springfield]]
+|-
+| [[Indiana]]
+| IN
+| style="text-align:right;" | 94 321
+| [[Indianapolis]]
+|-
+| [[Iowa]]
+| IA
+| style="text-align:right;" | 145 743
+| [[Des Moines]]
+|-
+| [[Kansas]]
+| KS
+| style="text-align:right;" | 82 277
+| [[Topeka]]
+|}
+</div>
+
+<!--
+<div style="float:left">
+{| class="wikitable"
+|Osariik
+! [[USA postiteenistuse kood|Kood]]
+! Pindala<br /><small>(km<sup>2</sup>)</small>
+! Pealinn
+|-
+| {{PisiLipp|Kentucky}}
+| KY
+| style="text-align:right;" | 104 749
+| [[Frankfort]]
+|-
+| {{PisiLipp|Louisiana}}
+| LA
+| style="text-align:right;" | 134 382
+| [[Baton Rouge]]
+|-
+| {{PisiLipp|Lõuna-Carolina}}
+| SC
+| style="text-align:right;" | 82 965
+| [[Columbia (Lõuna-Carolina)|Columbia]]
+|-
+| {{PisiLipp|Lõuna-Dakota}}
+| SD
+| style="text-align:right;" | 199 905
+| [[Pierre]]
+|-
+| {{PisiLipp|Lääne-Virginia}}
+| WV
+| style="text-align:right;" | 62 809
+| [[Charleston (Lääne-Virginia)|Charleston]]
+|-
+| {{PisiLipp|Maine}}
+| ME
+| style="text-align:right;" | 86 542
+| [[Augusta (Maine)|Augusta]]
+|-
+| {{PisiLipp|Maryland}} 
+| MD
+| style="text-align:right;" | 32 160
+| [[Annapolis]]
+|-
+| {{PisiLipp|Massachusetts}}
+| MA
+| style="text-align:right;" | 27 360
+| [[Boston]]
+|-
+| {{PisiLipp|Michigan}}
+| MI
+| style="text-align:right;" | 250 941
+| [[Lansing]]
+|-
+| {{PisiLipp|Minnesota}}
+| MN
+| style="text-align:right;" | 225 365
+| [[Saint Paul (Minnesota)|Saint Paul]]
+|-
+| {{PLipp|Mississippi osariik|Mississippi}}
+| MS
+| style="text-align:right;" | 125 546
+| [[Jackson]]
+|-
+| {{PLipp|Missouri osariik|Missouri}}
+| MO
+| style="text-align:right;" | 69 709
+| [[Jefferson City]]
+|-
+| {{PisiLipp|Montana}}
+| MT
+| style="text-align:right;" | 381 156
+| [[Helena (Montana)|Helena]]
+|-
+| {{PisiLipp|Nebraska}}
+| NE
+| style="text-align:right;" | 200 520
+| [[Lincoln (Nebraska)|Lincoln]]
+|-
+| {{PisiLipp|Nevada}}
+| NV
+| style="text-align:right;" | 286 367
+| [[Carson City]]
+|-
+| {{PisiLipp|New Hampshire}}
+| NH
+| style="text-align:right;" | 24 239
+| [[Concord]]
+|-
+| {{PisiLipp|New Jersey}}
+| NJ
+| style="text-align:right;" | 22 608
+| [[Trenton]]
+|}
+</div>
+
+{| class="wikitable"
+|Osariik
+! [[USA postiteenistuse kood|Kood]]
+! Pindala<br /><small>(km<sup>2</sup>)</small>
+! Pealinn
+|-
+| {{PisiLipp|New Mexico}}
+| NM
+| style="text-align:right;" | 315 194
+| [[Santa Fe (New Mexico)|Santa Fe]]
+|-
+| {{PLipp|New Yorgi osariik|New York}}
+| NY
+| style="text-align:right;" | 141 205
+| [[Albany]]
+|-
+| {{PisiLipp|Ohio}}
+| OH
+| style="text-align:right;" | 116 096
+| [[Columbus]]
+|-
+| {{PisiLipp|Oklahoma}}
+| OK
+| style="text-align:right;" | 181 196
+| [[Oklahoma City]]
+|-
+| {{PisiLipp|Oregon}}
+| OR
+| style="text-align:right;" | 255 026
+| [[Salem]]
+|-
+| {{PisiLipp|Pennsylvania}}
+| PA
+| style="text-align:right;" | 119 283
+| [[Harrisburg]]
+|-
+| {{PisiLipp|Põhja-Carolina}}
+| NC
+| style="text-align:right;" | 139 509
+| [[Raleigh]]
+|-
+| {{PisiLipp|Põhja-Dakota}}
+| ND
+| style="text-align:right;" | 183 272
+| [[Bismarck]]
+|-
+| {{PisiLipp|Rhode Island}}
+| RI
+| style="text-align:right;" | 4005
+| [[Providence]]
+|-
+| {{PisiLipp|Tennessee}}
+| TN
+| style="text-align:right;" | 109 247
+| [[Nashville]]
+|-
+| {{PisiLipp|Texas}}
+| TX
+| style="text-align:right;" | 696 241
+| [[Austin]]
+|-
+| {{PisiLipp|Utah}}
+| UT
+| style="text-align:right;" | 219 887
+| [[Salt Lake City]]
+|-
+| {{PisiLipp|Vermont}}
+| VT
+| style="text-align:right;" | 24 923
+| [[Montpelier]]
+|-
+| {{PisiLipp|Virginia}}
+| VA
+| style="text-align:right;" | 110 862
+| [[Richmond (Virginia)|Richmond]]
+|-
+| {{PLipp|Washingtoni osariik|Washington}}
+| WA
+| style="text-align:right;" | 184 824
+| [[Olympia]]
+|-
+| {{PisiLipp|Wisconsin}}
+| WI
+| style="text-align:right;" | 169 790
+| [[Madison]]
+|-
+| {{PisiLipp|Wyoming}}
+| WY
+| style="text-align:right;" | 253 554
+| [[Cheyenne]]
+|}
+-->
+
+Ameeriga Ütisriigel om viis suurõmbat ülemereterritooriumi: [[Puerto Rico]], [[USA Neitsüsaarõq]], [[Ameeriga Samoa]], [[Guam]] ja [[Põhja-Mariaaniq]].
+
+
 == Majandus ==
 
 == Rahvastik ==
