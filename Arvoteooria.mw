@@ -13,7 +13,7 @@ Ei [[Vana-Egüptüs]]e egaq [[Vana-India]] tekstest olõq teedäq puhtalt arvote
 ====Vana-Kreeka arvoteooria====
 [[Vana-Kreeka]] 4.-5. aastagasaa (i.m.a.) matõmaatikast tiiämiq päämädselt teno toonatsilõ mitte-matõmaatikilõ ja illatsõmbilõ matõmaatikilõ. Arvoteooria puhul tähendäs tuu päämädselt [[Platon]]it ja [[Eukleides]]t, vastavalt. Platon oll' väega huvitõt matõmaatikast ja tä tekk' selget vaiht arvoteoorial ja rehkendämisel. Üten Platoni dialoogõst (nimelt dialoogin [[Theaetetos]]õga) om kirän, et [[Theodoros]] ollõv tõõstanuq, et <math>\scriptstyle \sqrt{3}, \sqrt{5}, \dots, \sqrt{17}</math> ommaq irratsionaalsõq. Theaetetus, niguq Platongi, oll' Theodorusõ opilanõ. Tä uurõ mitmõsugutsit ütismõõdolda olõki tüüpe ja nii või tedä pitäq ütes [[arvosüstem]]ide uurjas. [[Pappos]]õ perrä põhinõs Eukleidese "Elemente" X raamat suurõn jaon Theaetetosõ tüül.
 
-Eukleides pühend' uma "[[Elemendiq|Elemente]]" raamaduq VII-IX [[lihtne arv|lihtsile arvõlõ]] ja [[jagonõminõ|jagonõmisõlõ]] - nuuq teemaq ommaq arvoteooria üteq alostalaq. Muuhulgan and' tä [[algoritm]]i katõ arvo [[kõgõ suurõmb ütine jagaja|kõgõ suurõmba ütidse jagaja]] löüdmises (nn. [[Eukleidese algoritm]]i) ja edimädse teedäqolõva tõõstusõ tollõ, et lihtsit arvõ om lõpmalda pall'o.
+Eukleides pühend' uma "[[Elemendiq|Elemente]]" raamaduq VII-IX [[algarv]]õlõ ja [[jagonõminõ|jagonõmisõlõ]] - nuuq teemaq ommaq arvoteooria üteq alostalaq. Muuhulgan and' tä [[algoritm]]i katõ arvo [[kõgõ suurõmb ütine jagaja|kõgõ suurõmba ütidse jagaja]] löüdmises (nn. [[Eukleidese algoritm]]i) ja edimädse teedäqolõva tõõstusõ tollõ, et algarvõ om lõpmalda pall'o.
 
 ====Diophantos====
 [[Pilt:Diophantus-cover.jpg|200px|thumb|[[Diophantos]]õ "Aritmeetika" 1621. a. vällä annõt ladinakeelitse tõlkõ tiitlileht]]
@@ -44,9 +44,9 @@ Ku vällä arvata [[Fibonacci]] (kiä elli ja oppõ ka Põh'a-[[Afrikan]] ja [[K
 Üteq edimädseq as'aq, miä Fermat'd huvitiq, olliq [[tävveline arv|tävvelidseq arvoq]] (noist oll' juttu joba Eukleidese "Elemente" IX raamatun) ja [[sõbralikuq arvoq]]. Tuu mant joud' tä tervide arvõ jagonõmisõ uurmisõ mano, ja tuust oll' juttu ka timä kirävaihtusõn tuu ao matõmaatikidõga alatõn 1636. aastagast. Tä uurõ hoolõga Bachet tõlgit Diophantosõ "Aritmeetikat". 1643. aastagas olliq tedä huvitama naanuq diofantilidsõq probleemiq ja kruutõ summaq (midä Diophantos oll' kah joba kaenuq).
 
 Fermat' tähtsämbäq tulõmusõq arvoteoorian olliq sääntseq. 
-* [[Fermat' väikene teorem]] (1640), miä ütles, et ku lihtne arv ''p'' ei jagaq terveht arvo ''a'', sõs <math>\scriptstyle a^{p-1}
+* [[Fermat' väikene teorem]] (1640), miä ütles, et ku algarv ''p'' ei jagaq terveht arvo ''a'', sõs <math>\scriptstyle a^{p-1}
 \equiv 1 \pmod p.</math> 
-* Kui ''a'' ja ''b'' kõgõ suurõmb ütine jagaja om 1, sõs <math>\scriptstyle a^2 + b^2</math> ei jagonõq ütegi lihtsä arvoga, miä om kongruentne arvoga &minus;1 mooduli 4 perrä. Ega lihtsä arvo, miä om kongruentne arvoga &minus;1 mooduli 4 perrä saa kirjä pandaq kujol   <math>\scriptstyle a^2 + b^2</math>. Naaq väiteq ommaq perit aastagast 1640; 1659. aastagal Fermat kirot' [[Huygens]]ile, et om perämädse tulõmusõ laskumismeetodiga ärq tõõstanuq. Fermat'l ja Frenicle'il om töid (mõnõq noist vigatsüq vai mittetävvelidseq) tõisi [[kruutvorm]]õ kotsilõ. 
+* Kui ''a'' ja ''b'' kõgõ suurõmb ütine jagaja om 1, sõs <math>\scriptstyle a^2 + b^2</math> ei jagonõq ütegi algarvoga, miä om kongruentne arvoga &minus;1 mooduli 4 perrä. Ega algarvo, miä om kongruentne arvoga &minus;1 mooduli 4 perrä saa kirjä pandaq kujol   <math>\scriptstyle a^2 + b^2</math>. Naaq väiteq ommaq perit aastagast 1640; 1659. aastagal Fermat kirot' [[Huygens]]ile, et om perämädse tulõmusõ laskumismeetodiga ärq tõõstanuq. Fermat'l ja Frenicle'il om töid (mõnõq noist vigatsüq vai mittetävvelidseq) tõisi [[kruutvorm]]õ kotsilõ. 
 * Fermat saat' 1657. a. inglüse matõmaatikilõ välläkutsõ: lahendadaq ärq võrrand <math>\scriptstyle x^2 - N y^2 = 1</math>. Mõnõ kuu joosul lahendiq probleemi ärq Wallis ja Brouncker. Fermat lugi näide lahendusõ õigõs, a märke ärq, et nääq ommaq andnuq algoritmi ilma tõõstusõlda (samma olliq tennüq tegelikult joba Jayadeva ja Bhaskara, kuigi Fermat näide töiest midägi es tiiäq). Fermat kuulut', et tõõstusõ saa andaq laskumismeetodiga.
 * Fermat arõnd' vällä meetodiq, mink abil sai (täämpädse päävä terminiden) löüdäq punktõ kõvõridõ pääl, mink liik om 0 vai 1. 
 * Fermat tõõst' uman kirävaihtusõn, et võrrandil <math>\scriptstyle x^{4} + y^{4} = z^{4}</math> olõ-iq mittetriviaalsit lahendit tervidearvõ hulgan. Tä kirot' ummilõ kiräsõprolõ ka tuud, et võrrandil <math>\scriptstyle x^3 + y^3 = z^3</math> olõ-iq mittetriviaalsit lahendit ja et tuud saa tõõstadaq laskumismeetodiga. Eedimäne teedäqollõv tõõstus tollõ om Euleri uma (aastagast 1753; tõõpoolõst laskumismeetodiga). Fermat' hüpoteesi ("[[Fermat' suur teorem|Fermat' suurt teoremmi]]"), et võrrandil <math>\scriptstyle x^n + y^n = z^n</math> olõ-iq ütegi tüküarvo <math>\scriptstyle n\geq 3</math> kõrral mittetriviaalsit lahendit tervidearvõ hulgan, proomõq mitmõ aastagasaa joosul tõõstadaq pall'oq matõmaatikuq. Tuu tüü käügin tõõstõdiq pall'o tõisi tulõmuisi ja luudi vahtsit meetodit.
@@ -56,8 +56,8 @@ Fermat' tähtsämbäq tulõmusõq arvoteoorian olliq sääntseq.
 [[Euleri Leonhard]] (1707-1783) naas' arvoteooria vasta edimäst kõrda huvvi tundma aastagal 1729, ku timä sõbõr [[Goldbach]] soovit' täl kaiaq, midä Fermat tennüq om. Tuud om kutsut s'ooilma-aigsõ arvoteooria vahtsõstsündümises: Fermat'l lää-es lääq kuigi häste kõrda hindäaigsit matõmaatikit arvoteooria vasta huvvi tundma pandaq. Euler tekk' arvoteoorian muuhulgan sääntsit asjo.
 *''Fermat' väitide tõõstusõq.'' Muuhulgan [[Fermat' väikene teorem]], minka Euler tõõst' ületsembäl juhul (kon moodul om suvalinõ tüküarv); fakt, et <math>\scriptstyle p = x^2 + y^2</math> sõs ja õnnõ sõs, ku <math>\scriptstyle p\equiv 1\; mod\; 4</math>; edimädseq sammoq tollõn suunan, et näüdätä, et ega [[tüküarv]] om nelä kruudu summa (tävvelidse tõõstusõ and' edimädsenä [[Lagrange]] 1770. a., pia pääle tuud and' Euler esiq parõmba tõõstusõ); fakt, et võrrandil <math>\scriptstyle x^4 + y^4 = z^2</math> olõ-iq mittetriviaalsit lahendit tervidearvõ hulgan (tuust tulõ vällä Fermat' suur teoreem ''n=4'' kõrral, juhu ''n=3'' jaos and' Euler kah tõõstusõ).
 * ''[[Pelli võrrand]]''. Tuu nime and' võrrandilõ edimädsenä Euler, kuigi Pell olõ-s edimäne, kiä tuud võrrandit uurõ. Euler näüdäs, kuis [[ahhiljago|ahhiljaoq]] ommaq köüdedüq Pelli võrrandiga. 
-* ''Edimädseq sammuq [[analüütiline arvoteooria|analüütilidse arvoteooria]] suunan.'' Ummin töien nelä kruudu summadõ, [[tükeldüs (arvoteooria)|tüküarvõ tükeldüisi]], viisnukkarvõ ja lihtside arvõ jaotusõ kotsilõ tarvit' tä sääntsit meetodit, midä või kaiaq ku matõmaatilidsõ analüüsi (muuhulgan rito) rakõndamist arvoteoorian. Kuna tä elli inne [[kompleksanalüüs]]i vällätüütämist, oll' timä tüü piirat [[astmõrida|astmõritoga]] formaalsõ manipuliirmisega. Timä töien oll' asjo, midä või kaiaq ku edimädsi sammõ [[Riemanni funkts'uun|Riemanni funkts'ooni]] suunan. 
-* ''[[Kruutvormiq]].''  Fermat' iinkujo perrä uurõ Euler edesi, määntsit lihtsit arvõ saa andaq kujol <math>\scriptstyle x^2 + N y^2</math>.  
+* ''Edimädseq sammuq [[analüütiline arvoteooria|analüütilidse arvoteooria]] suunan.'' Ummin töien nelä kruudu summadõ, [[tükeldüs (arvoteooria)|tüküarvõ tükeldüisi]], viisnukkarvõ ja algarvõ jaotusõ kotsilõ tarvit' tä sääntsit meetodit, midä või kaiaq ku matõmaatilidsõ analüüsi (muuhulgan rito) rakõndamist arvoteoorian. Kuna tä elli inne [[kompleksanalüüs]]i vällätüütämist, oll' timä tüü piirat [[astmõrida|astmõritoga]] formaalsõ manipuliirmisega. Timä töien oll' asjo, midä või kaiaq ku edimädsi sammõ [[Riemanni funkts'uun|Riemanni funkts'ooni]] suunan. 
+* ''[[Kruutvormiq]].''  Fermat' iinkujo perrä uurõ Euler edesi, määntsit algarvõ saa andaq kujol <math>\scriptstyle x^2 + N y^2</math>.  
 * ''Diofantilidsõq võrrandiq.'' Euler tüüt mõndsi diofantiliidsi võrrandidõ kallal, mink liik om 0 vai 1. Muuhulgan uurõ tä Diophantosõ tüüd ja püüd' tuud süstematisiiri. Tä pand' tähele, et om olõman köüdüs diofantiliidsi võrrandidõ ja [[elliptiline integraal|elliptiliidsi integraalõ]] vaihõl. Noidõ perämäidsi uurmist oll' alostanuq timä esiq.
 
 ====Lagrange, Legendre ja Gauss====
@@ -69,7 +69,7 @@ Fermat' tähtsämbäq tulõmusõq arvoteoorian olliq sääntseq.
 
 [[Legendre'i Adrien-Marie|Legendre]] (1752–1833) oll' edimäne, kiä sõnast' kruutvastavusõ säädüse. Tä sõnast' ka hüpoteesiq, midä tundas täämbädsel pääväl ku [[algarvoteorem]]mi ja Diriclet' teoremmi aritmeetiliidsi jadadõ kotsilõ. Tä and' võrrandi <math>\scriptstyle a x^2 + b y^2 + c z^2 = 0</math> tävvelidse lahendamisõ meetodi ja uurõ kruutvormõ. Vanan iän tõõst' tä edimädsenä ärq Fermat' suurõ teoremi  <math>n=5</math> kõrral (viien lõpolõ [[Dirichlet]]' tüü tuu probleemi kallal).
 
-Raamatun "[[Disquisitiones Arithmeticae]]" (1798), tõõst' [[Gauss]] (1777–1855) ärq [[kruutvastavussäädüs]]e ja arõnd' vällä kruutvormõ teooria (muuhulgan tõi tä sisse kruutvormõ komposits'ooni). Tä võtt' tarvitusõlõ sümboolika [[kongruents]]e jaos ja pühend' üte osa rehkendüsprobleemele, muuhulgan tüküarvõ lihtsüse kontrollmisõlõ. Raamadu perämädsen osan om ärq näüdät köüdüs [[ütejuur]]i ja arvoteooria vaihõl.
+Raamatun "[[Disquisitiones Arithmeticae]]" (1798), tõõst' [[Gauss]] (1777–1855) ärq [[kruutvastavussäädüs]]e ja arõnd' vällä kruutvormõ teooria (muuhulgan tõi tä sisse kruutvormõ komposits'ooni). Tä võtt' tarvitusõlõ sümboolika [[kongruents]]e jaos ja pühend' üte osa rehkendüsprobleemele, muuhulgan tüküarvõ algarvolidsusõ kontrollmisõlõ. Raamadu perämädsen osan om ärq näüdät köüdüs [[ütejuur]]i ja arvoteooria vaihõl.
 
 ===S'ooilma-aignõ arvoteooria===
 19. aastagasaa alostusõst pääle ommaq aopikku juhtunuq sääntseq as'aq. 
@@ -80,25 +80,25 @@ Raamatun "[[Disquisitiones Arithmeticae]]" (1798), tõõst' [[Gauss]] (1777–18
 == Haroq ==
 === Arvoteooria alostus ===
 
-'''Arvoteooria alostusõn''' uuritas tervitarvõ ilma tõisi matõmaatiga harrõ teknikat tarvitamalda. Tahtõ kuulusõq näütüses tervidearvõ [[jagonõminõ]], [[Eukleidese algoritm]] [[kõgõ suurõmb ütine jagaja|kõgõ suurõmba ütidse jagaja]] löüdmises, [[lihtarvoq]], [[tävvelidseq arvoq]] ja [[kongruents|kongruendsiq]]. Sjoo haro tähtsämbide vällälöüdüisi hulgan ommaq [[Fermat' väikene teorem]], [[Euleri teorem]], [[Hiina jäägiteorem]], ja [[ruutvastavussäädüs]]. Viil uuritas arvoteooria alostusõn [[Möbiusõ säädäng]]u, [[Euleri fii-säädäng]]u, [[tervidearvõ rong]]õ, [[faktoriaal]]õ ja [[Fibonacci arv]]õ umahuisi.
+'''Arvoteooria alostusõn''' uuritas tervitarvõ ilma tõisi matõmaatiga harrõ teknikat tarvitamalda. Tahtõ kuulusõq näütüses tervidearvõ [[jagonõminõ]], [[Eukleidese algoritm]] [[kõgõ suurõmb ütine jagaja|kõgõ suurõmba ütidse jagaja]] löüdmises, [[algarvoq]], [[tävvelidseq arvoq]] ja [[kongruents|kongruendsiq]]. Sjoo haro tähtsämbide vällälöüdüisi hulgan ommaq [[Fermat' väikene teorem]], [[Euleri teorem]], [[Hiina jäägiteorem]], ja [[ruutvastavussäädüs]]. Viil uuritas arvoteooria alostusõn [[Möbiusõ säädäng]]u, [[Euleri fii-säädäng]]u, [[tervidearvõ rong]]õ, [[faktoriaal]]õ ja [[Fibonacci arv]]õ umahuisi.
 
 Mitmõq arvoteooria küsümüseq või sõnastaq arvoteooria alostusõ terminiin, a näile vastamisõs või vaia minnäq tulõmuisi ja teknikat välästpuult arvoteooria alostust. Sääntseq ommaq näütüses: 
 
-* [[Goldbachi umbarvaminõ]] tuu kotsilõ, et paarinarvoq ommaq katõ lihtarvo kogoq.
+* [[Goldbachi umbarvaminõ]] tuu kotsilõ, et paarinarvoq ommaq katõ algarvo kogoq.
 * [[Catalani umbarvaminõ]].
-* [[Lihtarvõkatsikidõ umbarvaminõ]] tuu kotsilõ, et lihtarvõ paarõ om lõpmada pall'o.
+* [[Algarvokatsikidõ umbarvaminõ]] tuu kotsilõ, et algarvokatsikidõ paarõ om lõpmada pall'o.
 * [[Collatzi umbarvaminõ]].
 * [[Fermat' suur teorem]] võrrandi <math>x^n + y^n = z^n</math> lahendidõ kotsilõ.
 
 === Analüütiline arvoteooria ===
 
-'''Analüütilidsen arvoteoorian''' tarvitõdas tervidearvõ uur'misõs [[matõmaatilinõ analüüs|matõmaatilidsõ]] ja [[kompleksmuutuja analüüs]]i massinavärki. Tuu näütüses ommaq [[lihtarvoteorem]] ja [[Rieanni hüpotees]]. Niisamatõ om analüütiliidsi meetodidõga pääle mint [[Waringi probleem]]ile, [[Lihtarvõkatsikidõ umbarvamisõlõ]] ja [[Goldbachi umbarvamisõlõ]]. Konstantõ <math>\pi</math> ja ''e'' transtsendentsusõ tõõstusõq käüväq kah analüütilidse arvoteooria ala. 
+'''Analüütilidsen arvoteoorian''' tarvitõdas tervidearvõ uur'misõs [[matõmaatilinõ analüüs|matõmaatilidsõ]] ja [[kompleksmuutuja analüüs]]i massinavärki. Tuu näütüses ommaq [[algarvoteorem]] ja [[Rieanni hüpotees]]. Niisamatõ om analüütiliidsi meetodidõga pääle mint [[Waringi probleem]]ile, [[algarvokatsikidõ umbarvamisõlõ]] ja [[Goldbachi umbarvamisõlõ]]. Konstantõ <math>\pi</math> ja ''e'' transtsendentsusõ tõõstusõq käüväq kah analüütilidse arvoteooria ala. 
 
 === Algõbralinõ arvoteooria ===
 
-'''Algõbralidsõn arvoteoorian''' üldistedäs arvo mõistõt [[algõbralinõ arv|algõbraliidsi arvõ]] pääle, miä ommaq [[murdarv]]oliidsi kõrdajidõga [[hulkliigõq|hulkliikmidõ]] [[juur]]õq. Sääntsin arvovallon ommaq eloniguq, miä ommaq tervidearvõ muudu ja midä kutsutas [[algõbralinõ terveharv|algõbraliidsis tervisarvõs]]. Umõhtõ ei pruugiq noidõ jaos tervidearvõ umahusõq (nt. ütene lihtlahotus) paika pitäq. Kuis tuust hädäst üle saiaq, uuritas sääntside teoorijidõ abil niguq [[Galois' teooria]], [[rühmi kohomoloogia]], [[klassikorpuisi teooria]], [[rühmi esitüisi teooria]] ja [[L-säädängide teooria]]. 
+'''Algõbralidsõn arvoteoorian''' üldistedäs arvo mõistõt [[algõbralinõ arv|algõbraliidsi arvõ]] pääle, miä ommaq [[murdarv]]oliidsi kõrdajidõga [[hulkliigõq|hulkliikmidõ]] [[juur]]õq. Sääntsin arvovallon ommaq eloniguq, miä ommaq tervidearvõ muudu ja midä kutsutas [[algõbralinõ terveharv|algõbraliidsis tervisarvõs]]. Umõhtõ ei pruugiq noidõ jaos tervidearvõ umahusõq (nt. ütene alglahotus) paika pitäq. Kuis tuust hädäst üle saiaq, uuritas sääntside teoorijidõ abil niguq [[Galois' teooria]], [[rühmi kohomoloogia]], [[klassikorpuisi teooria]], [[rühmi esitüisi teooria]] ja [[L-säädängide teooria]]. 
 
-Mitmit arvoteooria küsümüisi om kõgõ parõmb uuriq nii, et kaiaq näid edimält [[moodul]]i ''p'' perrä ega lihtarvo ''p'' kõrral. Tuud kutsutas lokalisiirmises ja tuu veese [[p-aadilinõ arv|p-aadiliidsi arvõ]] konstruiir'miseniq. Säänest uur'misharro kutsutas [[lokaalanalüüs]]is ja tuu kasus vällä algõbralidsõst arvoteooriast. 
+Mitmit arvoteooria küsümüisi om kõgõ parõmb uuriq nii, et kaiaq näid edimält [[moodul]]i ''p'' perrä ega algarvo ''p'' kõrral. Tuud kutsutas lokalisiirmises ja tuu veese [[p-aadilinõ arv|p-aadiliidsi arvõ]] konstruiir'miseniq. Säänest uur'misharro kutsutas [[lokaalanalüüs]]is ja tuu kasus vällä algõbralidsõst arvoteooriast. 
 
 === Geomeetriline arvoteooria ===
 
@@ -110,7 +110,7 @@ Mitmit arvoteooria küsümüisi om kõgõ parõmb uuriq nii, et kaiaq näid edim
 
 === Algoritmilinõ arvoteooria ===
 
-'''Algoritmilidsõn arvoteoorian''' uuritas arvõgaq köüdetüid algoritmõ. Kipõq algoritmiq arvo lihtsüse kontrollis ja kõrdlahotamisõs ommaq tähtsäq krüptograafia jaos.
+'''Algoritmilidsõn arvoteoorian''' uuritas arvõgaq köüdetüid algoritmõ. Kipõq algoritmiq tuu kontrollmisõs, kas arv om algarv ja kõrdlahotamisõs ommaq tähtsäq krüptograafia jaos.
 
 == Ütlemiisi ==
 
