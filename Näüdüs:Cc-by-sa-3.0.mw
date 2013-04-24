@@ -1,0 +1,18 @@
+{| align="center" style="width:100%; background-color:#f8f8f8; border:2px solid #e0e0e0; padding:10px 0px; margin:1px auto"
+|-
+| colspan="2" align="center" | {{int:wm-license-cc-by-sa-3.0-text}}
+|-
+| align="center" | [[Pilt:CC some rights reserved.svg|90px|link=|Creative Commonsi litsents]]<br/>[[Pilt:Cc-by new white.svg|24px|link=|Creative Commons Attribution]] [[Pilt:Cc-sa white.svg|24px|link=|Creative Commons Share Alike]] 
+|<br />
+:{{int:wm-license-cc-free}}
+:*'''{{int:wm-license-cc-free-to-share-header}}''' – {{int:wm-license-cc-free-to-share-text}}
+:*'''{{int:wm-license-cc-free-to-remix-header}}''' – {{int:wm-license-cc-free-to-remix-text}}
+:{{int:wm-license-cc-conditions}}
+:*'''{{int:wm-license-cc-conditions-attribution-header}}''' – {{int:wm-license-cc-conditions-attribution-text}}
+:*'''{{int:wm-license-cc-conditions-share_alike-header}}''' – {{int:wm-license-cc-conditions-share_alike-text}}
+
+|}{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Katõgooria:CC BY-SA 3.0|{{PAGENAME}}]]}}<noinclude>
+
+[[Katõgooria:Näüdüseq]]
+
+</noinclude>
