@@ -1,0 +1,884 @@
+'''Seo om võrokeelidse Vikipeediä arotuskülg'''.<br>
+(''This is the discussion page of the Võro Wikipedia''.)
+
+'''Olõq hää ja kirodaq taaha umaq võro Vikipeediät pututavaq küsümüseq, arvamisõq ja ettepanõgiq!'''<br>
+(''Please write here your questions, considerations and suggestions about the Võro Wikipedia!'')
+
+== Botflag request for [[User:mastiBot|mastiBot]] ==
+I would like to request a bot flag for [[User:mastiBot|mastiBot]].
+*'''Operator''': [[:pl:User:masti|masti (pl)]], SUL account [[:pl:User:masti]]
+*'''Automatic or Manually Assisted''': automatic mode
+*'''Programming Language(s)''': [[:m:Using the python wikipediabot|pywikipedia]] ([https://sourceforge.net/users/xqt Python Wikipedia Robot Framework])
+*'''Function Summary''': maintain [[m:interwiki.py|interwiki]] links with [[m:cosmetic changes.py|cosmetic changes]] enabled, fixing [[m:redirect.py|double redirects]]
+*'''Already has a bot flag on''': '''global''', pl, ss, als, es, szl, cs, ast, ca, da, en, sk, de, hr, ba, fr, fi, la, nn, it, ba, el, simple, nl, eo, sv, myv, dv, be, crh, fo, ga, uk, ksh, lt, mt, tr, wuu, sq, sr, eu, mr, bs, zh-yue, vo, sl, bn, vi, ro, ar, vec, id, pl.wikt, pl.news, pl.books, pl.source, 700.000 edits ([http://toolserver.org/~vvv/sulutil.php?user=MastiBot edits and flags])
+Thanks. [[Pruukja:Masti|Masti]] 28. radokuu 2010, kell 20:53 (UTC)
+
+===Bot flag in meta for [[User:Superzerocool|Superzerocool]]===
+I request bot status an this wiki in order to update interwikis.
+*Bot User: [[User:Superzerocool]]
+*The bot uses pywikipedia software and is constantly updated with CVS.
+====Approval====
+#
+
+* '''Puult''' ''/support/''. A pallõsi pandaq vikidevaihõlidsõq lingiq keele nime perrä (nigu et ja fi vikih), mitte koodi perrä, ku võimalik. 
+''You are welcome. But please add interwiki links ordered by name of language (like in fi and et wikis) not by language code, if possible. (just follow the rules of: http://et.wikipedia.org/wiki/Vikipeedia:Saatkond#Interwiki_guidelines)'' --[[User:Võrok|Võrok]] 09:13, 29 March 2006 (UTC)
+
+====Reject====
+#
+
+----
+Kulge te olete ju kõik eestlased!
+:Wikipedias are divided after languages, not after countries.
+::Olõ-i iks peris kyik' iistläseq. Inemiisi hulgah, kiä ummaq hindä Võro Viki pruukjis kirjä pandnuq, um inemiisi väega mitmõlt maalt, a aktiivsõmbaq kirotajaq ommaq siiäni külh olnuq üts' võrokõsõst iistläne ja üts' võrohuvilinõ Romaaniast. --[[User:Võrok|Võrok]] 17:06, 20 September 2005 (UTC)
+
+Ma ei tea, kuhu siin Vikis lähevad tahetud artiklid... aga kindlasti oli ka Võrumaal peremärkide traditsioon, selle kohta artiklit aga ei leidnud. Avjoska.
+:Noq midägi olõmah, kaeq [[perremärk]].--[[User:Võrok|Võrok]] 13:40, 22 märtekuu 2006 (UTC)
+
+==Dead interwiki links==
+I recently ran a run-through of all pages on ceb:, and got a very large fiu-vro warning file. I've placed it at [[User:ST47/Interwikis]]. It should comtain, mostly, links to deleted pages. [[User:ST47|ST47]] 12:26, 1 vahtsõaastakuu 2007 (UTC)
+
+:These warnings have form
+
+:WARNING: wikipedia: does not link to [[:vls:13 ogustus]] 
+
+:Indeed, the first page (which is about August 13) does not have a link to the last, but is it relly a serious problem? And if I should add this link, how could I check whether the problem is solved? --[[User:Valdis|Valdis]] 11:56, 3 vahtsõaastakuu 2007 (UTC)
+
+
+==Ümbresaatmisartikliq==
+Võinuq märkiq säänest asja, et ku aig ja joud lupa, sis kunagi võinuq kaiaq kõik artikliq üle sääntse pilguga, et määntse nime vai kirotuskujoga naid Vikipeediä vai Google'i otśmisõst otsiq võidas. Noilõ nimile vai kujõlõ võinuq sis tetäq tarvidusõ perrä ümbresaatmisartikliid, miä saatvaq säält edesi pääartikli manoq. Noid nimmi vai kujjõ või ollaq mitund sorti, tähtsüse järekõrrah, määntsile rohkõmb ümbresaatmisartiklit vaia olnuq:
+*Kirotusvariandiq, nt '''kiil'''' > '''kiil''', '''mõtõ''' > '''mõtõh''' > '''mõtõq''', '''Madis Kõiv''' > '''Kõivo Madis''';
+*Välläütlemisvariandiq, nt '''Võru''' > '''Võro''', '''motor''' > '''moodor''', '''kibluk''' > '''kipluk''', '''Kõo Madis''' > '''Kõivu Madis''' > '''Kõivo Madis''';
+*Sünonüümiq, nt '''kipluk''' > '''tsisnak''', '''lõhmus''' > '''pähn''', '''märts''' > '''paastukuu''' > '''urbõkuu'''. 
+Kirotusvariantõ es olnuq vaest vaia pääartikli alostusõh ärq tuvvaq, välläütlemisvariantõ mõnikõrd esiki võinuq ja sünonüüme võinuq viil sagõhõmpa, nt '''Pähn''' vai '''lõhmus''' om lajalehine puu... 
+*Peris umaette küsümüs um, kas pidänüq äkki tegemä ümbresaatmisartikliq ka eestikeelitside sõnnoga, nt '''küüslauk''' > '''kipluk''', '''pärn''' > '''pähn''', '''mootor''' > '''moodor'''. Pruukjalõ, kiä, arvadaq või ollaq sagõhõhe (ku mitte inämbüisi) eestikeeline vai suurõmbalt jaolt eestikeeline inemine, olnuq tuu muidoki väega hää ja mukav, nii tüütänüq entsüklopeediä otsing ka sõnaraamadu iist. Mõnõ sõna man, nigu nt '''moodor''', või ollaq küländ kimmäs, et ku taad kiäki pidänüq otsma, sis ots eestikeelidse sõnamoodu perrä ('''mootor''').
+--[[User:Võrok|Võrok]] 11:12, 5 vahtsõaastakuu 2007 (UTC)
+
+:Kõgõ muuga olõ nõuh, vällä arvat eestikeelitside sõnno vikipeediähe pandminõ. Tuu asõmõl võinuq vaiva nätäq ja uuri, kas saanuq võrokeelist vikisõnaraamatot luvvaq. Võiollaq tuu olõki-iq nii rassõ. Sõs pruukja, kiä taht lukõq võrokeelist artiklit pini kotsilõ, agaq tiiä-iq kuis ''koer'' võro keeleh om, saa minnäq vikisõnaraamatohe, löüdäq säält, et ''koer'' om ''pini'' ja joba sääl vikisõnaraamato ''pini'' lehe pääl võisiq ollaq link vikipeediä pini-artikli pääle. --[[User:Valdis|Valdis]] 11:55, 5 vahtsõaastakuu 2007 (UTC)
+
+==Võro viki meedias==
+* Kadri Pulk, [http://www.hiiumaa.ee/index.php?idc=1011128100039461000&q=1 "Võrokesed tulevad Hiiumaale"], Hiiu Leht.
+
+== Bot request for [[Pruukja:Byrialbot]] ==
+Hello! I ask for permission to run my interwiki bot [[Pruukja:Byrialbot|Byrialbot]] here at the Võro Wikipedia, and to get a bot flag for it.
+* Bot account: [[Pruukja:Byrialbot]] ([[Special:Contributions/Byrialbot|contributions]])
+* Botmaster: [[Pruukja:Byrial]]
+* Botmaster's home project: [[:da:User:Byrial]]
+* List of botflags on other wikipedias: als:, ar:, bat-smg:, be:, bn:, bs:, bpy:, ca:, ceb:, cs:, da:, de:, el:, en:, eo:, es:, et:, fo:, fr:, fy:, gl:, he:, hu:, id:, io:, is:, it:, ka:, ksh:, lb:, li:, lt:, lv:, mk:, ml:, mr:, ms:, nds:, nds-nl:, nl:, nn:, no:, pms:, pt:, ro:, ru:, sco:, simple:, sk:, sl:, sr:, sv:, ta:, tl:, th:, uk:, vo:, zh-min-nan:
+* Purpose: Interwiki
+* Technical details: Interwiki using Pywikipediabot (constantly updated  with CVS) starting from da:, nn:, no: and sv:. It mostly runs manually assisted and I try to solve found interwiki conflicts when I can.
+It will soon begin to do test edits. Thank you! [[Pruukja:Byrial|Byrial]] 29. piimäkuu 2007, kell 17:07 (UTC)
+====Approval====
+#
+
+* '''Puult''' ''/support/''. A pallõsi pandaq vikidevaihõlidsõq lingiq keele nime perrä (nigu et ja fi vikih), mitte koodi perrä, ku võimalik. 
+''You are welcome. But please add interwiki links ordered by name of language (like in fi and et wikis) not by language code, if possible. (just follow the rules of: http://et.wikipedia.org/wiki/Vikipeedia:Saatkond#Interwiki_guidelines)'' --[[Pruukja:Võrok|Võrok]] 29. piimäkuu 2007, kell 21:10 (UTC)
+: I have been waiting while the sorting was fixed in the pywikipedia program. It is done now, so all updated bots will now order by language name - and I will resume operating the bot here. [[Pruukja:Byrial|Byrial]] 7. hainakuu 2007, kell 10:28 (UTC)
+
+== Bot request for [[User:PipepBot|PipepBot]] ==
+Hello! I ask for permission to run my interwiki bot [[User:PipepBot|PipepBot]] here at the Võro Wikipedia, and to get a bot flag for it.
+* Operator: [[:it:User:Pipep]]
+* Purpose: Interwiki
+* Software: Pywikipedia
+* Have bot flag at: bat-smg, be-x-old, et
+* Details: Interwiki using Pywikipediabot starting from it:. It mostly runs manually assisted and I try to solve found interwiki conflicts when I can.
+It will soon begin to do test edits. Thank you!
+-- [[:it:User:Pipep]] [[Pruukja:195.190.171.69|195.190.171.69]] 30. hainakuu 2007, kell 21:08 (UTC)
+
+====Approval====
+#
+
+* '''Puult''' ''/support/''. A pallõsi pandaq vikidevaihõlidsõq lingiq keele nime perrä (nigu et ja fi vikih), mitte koodi perrä, ku võimalik. 
+''You are welcome. But please add interwiki links ordered by name of language (like in fi and et wikis) not by language code, if possible. (just follow the rules of: http://et.wikipedia.org/wiki/Vikipeedia:Saatkond#Interwiki_guidelines)'' --[[Pruukja:Võrok|Võrok]] 1. põimukuu 2007, kell 17:32 (UTC)
+
+:PipepBot has now bot flag. Thank you! [[:it:User:Pipep]] 22. joulukuu 2007, kell 19:11 (UTC)
+
+== Bot bit request [[User:SieBot|SieBot]] ==
+Please give a bot bit to [[User:SieBot|SieBot]], so it will not flood your RC as it adds interwiki links using pywikipedia's interwiki.py. [[User:SieBot|SieBot]] is active on 180 Wikipedias. See the [[User:SieBot|user page]] of the bot for more details, or check a complete overview of its activities [[:nl:Gebruiker:SieBot/Overview|here]]. Cheers! [[User:Siebrand|Siebrand]] ([[:nl:User talk:Siebrand|talk]]) 17. põimukuu 2007, kell 23:23 (UTC)
+
+====Approval====
+#
+
+* '''Puult''' ''/support/''. A pallõsi pandaq vikidevaihõlidsõq lingiq keele nime perrä (nigu et ja fi vikih), mitte koodi perrä, ku võimalik. 
+''You are welcome. But please add interwiki links ordered by name of language (like in fi and et wikis) not by language code, if possible. (just follow the rules of: http://et.wikipedia.org/wiki/Vikipeedia:Saatkond#Interwiki_guidelines)'' --[[Pruukja:Võrok|Võrok]] 5. süküskuu 2007, kell 21:43 (UTC)
+:As far as I can see in the code, the current version of interwiki.py uses the same sorting order as fi (as defined in families/wikipedia_family.py, line 606). Please the the bot flag... Cheers! [[Pruukja:Siebrand|Siebrand]] 9. süküskuu 2007, kell 22:07 (UTC)
+
+== [[User:BotMultichill|BotMultichill]] ==
+Hi, i request a bot bit for [[User:BotMultichill|BotMultichill]].
+* Botmaster : [[User:Multichill|Multichill]]
+* Bot's name : [[User:BotMultichill|BotMultichill]]
+* List of botflags on others wikipedias: about 100+ atm (see [[meta:User:Multichill]] for the current list)
+* Purpose: Interwiki (pywikipedia)
+* Technical details : [[User:BotMultichill|BotMultichill]] is an interwiki bot starting at the [[:nl:Gebruiker:BotMultichill|Dutch wikipedia]]. The bot uses the pywikipedia framework and runs day and night in autonomous mode. Sometimes the bot will run in manual assisted mode to solve interwiki conflicts. [[Pruukja:Multichill|Multichill]] 5. süküskuu 2007, kell 08:50 (UTC)
+
+====Approval====
+#
+
+* '''Puult''' ''/support/''. A pallõsi pandaq vikidevaihõlidsõq lingiq keele nime perrä (nigu et ja fi vikih), mitte koodi perrä, ku võimalik. 
+''You are welcome. But please add interwiki links ordered by name of language (like in fi and et wikis) not by language code, if possible. (just follow the rules of: http://et.wikipedia.org/wiki/Vikipeedia:Saatkond#Interwiki_guidelines)'' --[[Pruukja:Võrok|Võrok]] 5. süküskuu 2007, kell 21:44 (UTC)
+
+==Betawiki: better support for your language in MediaWiki ==
+Dear community. I am writing to you to promote a special wiki called [http://nike.users.idler.fi/betawiki Betawiki]. This wiki facilitates the localisation (l10n) of the MediaWiki interface. You may have changed many messages here to use your language in the interface, but if you would log in to for example the English language Wiktionary, you would not be able to use the interface as well translated as here. Infact, of the 1797 messages in the core of MediaWiki, 1583 messages have been translated. Betawiki also supports the translation of messages of about 80 extensions, with almost 1000 messages.
+
+If you wish to contribute to better support of your language in MediaWiki, as well as for many MediaWiki extensions, please visit [http://nike.users.idler.fi/betawiki/Translating:Intro Betawiki], [http://nike.users.idler.fi/dev/?title=Special:Userlogin&type=signup&uselang=en create an account] and [http://nike.users.idler.fi/betawiki/Betawiki:Rights request translator priviledges]. You can see the current status of localisation of your language on [[meta:Localization_statistics|meta]] and do not forget to get in touch with others that may already be [http://nike.users.idler.fi/betawiki/Translating:Languages working on your language on Betawiki].
+
+If you have any further questions, [http://nike.users.idler.fi/betawiki/User_talk:Siebrand please let me know on my talk page on Betawiki]. We will try and assist you as much as possible, for example by importing all messages from a local wiki for you to start with, if you so desire.
+
+You can also find us on the Freenode [[w:en:Internet Relay Chat|IRC]] network in the channel #mediawiki-i18n where we would be happy to help you get started.
+
+Thank you very much for your attention and I do hope to see some of you on [http://nike.users.idler.fi/betawiki/Etusivu Betawiki] soon! Cheers! [http://nike.users.idler.fi/betawiki/User:Siebrand Siebrand@Betawiki] 25. süküskuu 2007, kell 08:34 (UTC)
+
+== [[User:AlleborgoBot|AlleborgoBot]] ==
+Hi, i request a bot flag for [[User:AlleborgoBot|AlleborgoBot]]
+*'''Operator''': [[:it:Utente:Alleborgo|Alleborgo]]
+*'''Automatic or Manually Assisted''': Automatic, in "-autonomous" mode. Sometimes the bot will run in manual assisted mode to solve interwiki conflicts.
+*'''Programming Language(s)''': Pywikipedia framework daily updated to the last SVN version
+*'''Function Summary''': interwiki
+*'''Already has a bot flag in''': ar, am, an, az, bar, bg, br, bn, bpy, bs, ca, ceb, cs, cv, da, de, el, en, eo, es, et, eu, fa, fi, fr, frp, gl, he, hr, ht, hu, hy, id, is, it, ja, jv, ka, ksh, ku, lb, li, lmo, ln, lt, mk, mi, ml, ms, nap, nds, nds-nl, nl, nn, no, pl, pt, ro, roa-tara, ru, sco, sh, sk, simple, sl, sq, sr, su, sv, ta, th, tr, tt, uk, ur, vec, vi, vo, zh, zh-yue. On it.wiki has done more than 65000 edit.
+Thanks  --[[Pruukja:AlleborgoBot|AlleborgoBot]] 13. rehekuu 2007, kell 14:27 (UTC)
+
+====Approval====
+#
+
+* '''Puult''' ''/support/''. A pallõsi pandaq vikidevaihõlidsõq lingiq keele nime perrä (nigu et ja fi vikih), mitte koodi perrä, ku võimalik. 
+''You are welcome. But please add interwiki links ordered by name of language (like in fi and et wikis) not by language code, if possible. (just follow the rules of: http://et.wikipedia.org/wiki/Vikipeedia:Saatkond#Interwiki_guidelines)'' --[[Pruukja:Võrok|Võrok]] 21. rehekuu 2007, kell 11:17 (UTC)
+
+== [[User:Idioma-bot|Idioma-bot]] ==
+Hi, I request a bot flag for [[User:Idioma-bot|Idioma-bot]]
+*'''Operator''': [[:lt:User:Hugo.arg]]
+*'''Automatic or Manually Assisted''': Automatic and manually
+*'''Programming Language(s)''': Pywikipedia framework daily updated to the last SVN version
+*'''Function Summary''': interwiki
+*'''Already has a bot flag in''': more than 60 wikipedias (en, es, et, fr, de, lt, pl, ru, ja, zh, lv, pt, hr, sr...)
+[[:lt:User:Hugo.arg]] 31. vahtsõaastakuu 2008, kell 21:53 (UTC)
+::Approved.--[[Pruukja:Võrok|Võrok]] 16. radokuu 2008, kell 14:32 (UTC)
+
+== [[:User:Purbo_T|Purbo_T]] ==
+Hi, I'd like to request a bot flag for [[:User:Purbo_T|Purbo_T]] <small>([[:Special:Contributions/Purbo T|contributions]])</small>
+*'''Operator:''' [[:User:Purodha]] = [[:ksh:User:Purodha]] (b'crat @ [[:ksh:|ksh]])
+*'''Function:''' interwiki link maintenance
+*'''Operation:'''  manually-assisted, occasionally in automatic or autonomous mode, starting mostly from the [[:ksh:|Wikipedia of Ripuarian languages]]
+*'''Software:''' [[:meta:pywikipedia|pywikipediabot]] framework updated daily from [http://svn.wikimedia.org/svnroot/pywikipedia/trunk/pywikipedia/ svn] to latest version
+*'''Already has bot flag on:''' <span class="plainlinks"> [{{fullurl:aa:Special:Userlist|limit=1&username=Purbo_T}} aa], [{{fullurl:am:Special:Userlist|limit=1&username=Purbo_T}} am], [{{fullurl:ar:Special:Userlist|limit=1&username=Purbo_T}} ar], [{{fullurl:be-x-old:Special:Userlist|limit=1&username=Purbo_T}} be-x-old], [{{fullurl:bn:Special:Userlist|limit=1&username=Purbo_T}} bn], [{{fullurl:bo:Special:Userlist|limit=1&username=Purbo_T}} bo], [{{fullurl:bug:Special:Userlist|limit=1&username=Purbo_T}} bug], [{{fullurl:bxr:Special:Userlist|limit=1&username=Purbo_T}} bxr], [{{fullurl:cdo:Special:Userlist|limit=1&username=Purbo_T}} cdo], [{{fullurl:co:Special:Userlist|limit=1&username=Purbo_T}} co], [{{fullurl:crh:Special:Userlist|limit=1&username=Purbo_T}} crh], [{{fullurl:de:Special:Userlist|limit=1&username=Purbo_T}} de], [{{fullurl:dsb:Special:Userlist|limit=1&username=Purbo_T}} dsb], [{{fullurl:dz:Special:Userlist|limit=1&username=Purbo_T}} dz], [{{fullurl:ee:Special:Userlist|limit=1&username=Purbo_T}} ee], [{{fullurl:eo:Special:Userlist|limit=1&username=Purbo_T}} eo], [{{fullurl:fa:Special:Userlist|limit=1&username=Purbo_T}} fa], [{{fullurl:fi:Special:Userlist|limit=1&username=Purbo_T}} fi], [{{fullurl:fj:Special:Userlist|limit=1&username=Purbo_T}} fj], [{{fullurl:fr:Special:Userlist|limit=1&username=Purbo_T}} fr], [{{fullurl:gv:Special:Userlist|limit=1&username=Purbo_T}} gv], [{{fullurl:hr:Special:Userlist|limit=1&username=Purbo_T}} hr], [{{fullurl:hsb:Special:Userlist|limit=1&username=Purbo_T}} hsb], [{{fullurl:ht:Special:Userlist|limit=1&username=Purbo_T}} ht], [{{fullurl:ig:Special:Userlist|limit=1&username=Purbo_T}} ig], [{{fullurl:is:Special:Userlist|limit=1&username=Purbo_T}} is], [{{fullurl:ja:Special:Userlist|limit=1&username=Purbo_T}} ja], [{{fullurl:job:Special:Userlist|limit=1&username=Purbo_T}} jbo], [{{fullurl:ksh:Special:Userlist|limit=1&username=Purbo_T}} ksh], [{{fullurl:ku:Special:Userlist|limit=1&username=Purbo_T}} ku], [{{fullurl:kv:Special:Userlist|limit=1&username=Purbo_T}} kv], [{{fullurl:lbe:Special:Userlist|limit=1&username=Purbo_T}} lbe], [{{fullurl:lg:Special:Userlist|limit=1&username=Purbo_T}} lg], [{{fullurl:lmo:Special:Userlist|limit=1&username=Purbo_T}} lmo], [{{fullurl:lo:Special:Userlist|limit=1&username=Purbo_T}} lo],[{{fullurl:lt:Special:Userlist|limit=1&username=Purbo_T}} lt], [{{fullurl:ml:Special:Userlist|limit=1&username=Purbo_T}} ml], [{{fullurl:mr:Special:Userlist|limit=1&username=Purbo_T}} mr], [{{fullurl:nds:Special:Userlist|limit=1&username=Purbo_T}} nds], [{{fullurl:new:Special:Userlist|limit=1&username=Purbo_T}} new], [{{fullurl:nl:Special:Userlist|limit=1&username=Purbo_T}} nl], [{{fullurl:nn:Special:Userlist|limit=1&username=Purbo_T}} nn], [{{fullurl:nov:Special:Userlist|limit=1&username=Purbo_T}} nov], [{{fullurl:or:Special:Userlist|limit=1&username=Purbo_T}} or], [{{fullurl:os:Special:Userlist|limit=1&username=Purbo_T}} os], [{{fullurl:pms:Special:Userlist|limit=1&username=Purbo_T}} pms], [{{fullurl:simple:Special:Userlist|limit=1&username=Purbo_T}} simple], [{{fullurl:stq:Special:Userlist|limit=1&username=Purbo_T}} stq], [{{fullurl:sv:Special:Userlist|limit=1&username=Purbo_T}} sv], [{{fullurl:tg:Special:Userlist|limit=1&username=Purbo_T}} tg], [{{fullurl:to:Special:Userlist|limit=1&username=Purbo_T}} to], [{{fullurl:ts:Special:Userlist|limit=1&username=Purbo_T}} ts], [{{fullurl:ty:Special:Userlist|limit=1&username=Purbo_T}} ty], [{{fullurl:vec:Special:Userlist|limit=1&username=Purbo_T}} vec], [{{fullurl:vi:Special:Userlist|limit=1&username=Purbo_T}} vi], [{{fullurl:vls:Special:Userlist|limit=1&username=Purbo_T}} vls], [{{fullurl:vo:Special:Userlist|limit=1&username=Purbo_T}} vo],  [{{fullurl:yi:Special:Userlist|limit=1&username=Purbo_T}} yi], [{{fullurl:za:Special:Userlist|limit=1&username=Purbo_T}} za], [{{fullurl:zea:Special:Userlist|limit=1&username=Purbo_T}} zea], [{{fullurl:zh-classical:Special:Userlist|limit=1&username=Purbo_T}} zh-classical], </span> more pending.
+* Generally, there is [http://tools.wikimedia.de/~purodha/sample/dbswithuser.php?usr=Purbo_T cumulated&nbsp;data] on the bot (sorry, due to current technical problems at the [[:m:toolserver|toolserver]], the data is partially not up to date, and may be inaccessible for short periods of time)
+Thank you! --[[Pruukja:Purodha|Purodha Blissenbach]] 13. radokuu 2008, kell 14:11 (UTC)
+::Approved.--[[Pruukja:Võrok|Võrok]] 16. radokuu 2008, kell 14:33 (UTC)
+:::* Thank you very much. --[[Pruukja:Purodha|Purodha Blissenbach]] 17. radokuu 2008, kell 03:40 (UTC)
+
+== [[Pruukja:SilvonenBot|SilvonenBot]] ==
+
+Hello! I would like to request a bot flag for [[Pruukja:SilvonenBot|SilvonenBot]].
+
+*'''Operator''': [[:fi:Käyttäjä:Silvonen|Silvonen]]
+*'''Automatic or Manually Assisted''': Automatic (<tt>-autonomous</tt>), sometimes in manually assisted mode to solve interwiki conflicts.
+*'''Programming Language(s)''': Pywikipedia framework updated daily from svn
+*'''Function Summary''': Interwiki, usually starting from fi
+*'''Already has a bot flag in''': da, et, fi, is, nn, sv
+
+Thank you! PS. Are there still any issues with interwiki link ordering? We should submit a change request to the maintainers of Pywikipedia if its behaviour needs to be changed. --[[Pruukja:SilvonenBot|SilvonenBot]] 15. radokuu 2008, kell 03:39 (UTC)
+::Approved.--[[Pruukja:Võrok|Võrok]] 16. radokuu 2008, kell 14:34 (UTC)
+
+== [[Pruukja:CarsracBot|CarsracBot]] ==
+
+Hello! I would like to request a bot flag for [[Pruukja:CarsracBot|my bot]].
+
+*'''Operator''': [[:nl:user:Carsrac|Carsrac]]
+*'''Automatic or Manually Assisted''': Automatic (<tt>-autonomous</tt>), sometimes in manually assisted mode to solve interwiki conflicts.
+*'''Programming Language(s)''': Pywikipedia framework updated from svn
+*'''Function Summary''': Interwiki, usually starting from small wiki like yo, fy, zea, nds-nl, ext, gan, kaa
+*'''Already has a bot flag in''': nl, fy, zea, en, tr, ru and many small wiki see for details [[:nl:user:CarsracBot|here]]
+Thanks for the time aspecially for [[Pruukja:Võrok|Võrok]], but I hope that other user will react also [[Pruukja:CarsracBot|CarsracBot]] 27. lehekuu 2008, kell 18:55 (UTC)
+::Approved.--[[Pruukja:Võrok|Võrok]] 28. lehekuu 2008, kell 21:27 (UTC)
+
+== Bot command translations ==
+
+Hi. Could anybody translate me these interwiki bot commands to Võro (they will be displayed in all interwiki bot summaries instead English)?
+*robot -
+*Adding -
+*Removing -
+*Modifying -
+
+Thank you. [[:lt:User:Hugo.arg]] 16. radokuu 2008, kell 08:40 (UTC)
+
+:*robot - robot
+:*Adding - manopandminõ
+:*Removing - ärqvõtminõ
+:*Modifying - tävvendämine
+:Regards, [[Pruukja:Võrok|Võrok]] 16. radokuu 2008, kell 14:35 (UTC)
+
+==Betawiki update==
+* Currently 80.78% of the MediaWiki messages and 0.88% of the messages of the extensions used by the Wikimedia Foundation projects have been localised. Please help us help your language by localising at [http://translatewiki.net Betawiki]. This is the [http://translatewiki.net/w/i.php?title=Special:RecentChanges&namespace=8&trailer=%2Ffiu-vro recent localisation activity] for your language. Thanks, [[Pruukja:GerardM|GerardM]] 2. põimukuu 2008, kell 13:19 (UTC)
+* Currently 72.65% of the MediaWiki messages and 0.78% of the messages of the extensions used by the Wikimedia Foundation projects have been localised. Please help us help your language by localising at [http://translatewiki.net Betawiki]. This is the [http://translatewiki.net/w/i.php?title=Special:RecentChanges&namespace=8&trailer=%2Ffiu-vro recent localisation activity] for your language. Thanks, [[Pruukja:GerardM|GerardM]] 12. rehekuu 2008, kell 11:31 (UTC)
+* Currently 71.62% of the MediaWiki messages and 0.56% of the messages of the extensions used by the Wikimedia Foundation projects have been localised. Please help us help your language by localising and proof reading at [[betawiki:Special:LanguageStats/{{CONTENTLANGUAGE}}|Betawiki]]. This is the [[betawiki:Special:Special:RecentChanges&namespace=8&trailer=%2F{{CONTENTLANGUAGE}}|recent localisation activity]] for your language. Thanks, [[Pruukja:GerardM|GerardM]] 14. joulukuu 2008, kell 11:28 (UTC)
+* Currently 73.41% of the MediaWiki messages and 0.56% of the messages of the extensions used by the Wikimedia Foundation projects have been localised. Please help us help your language by localising and proof reading at [[betawiki:Special:LanguageStats/{{CONTENTLANGUAGE}}|Betawiki]]. This is the [http://translatewiki.net/w/i.php?title=Special:RecentChanges&translations=only&trailer=/{{CONTENTLANGUAGE}} recent localisation activity] for your language. Thanks, [[Pruukja:GerardM|GerardM]] 10. vahtsõaastakuu 2009, kell 11:28 (UTC)
+:PS Please help us complete [http://translatewiki.net/w/i.php?title=Special%3ATranslate&task=untranslated&group=core-mostused&language={{CONTENTLANGUAGE}}&limit=100 the most wanted messages]..
+
+==Taarka==
+Tegin eestikeelses Vikipeedias artikli seto lauluemast. Kui Võro Vikipeediäs ka temast artikkel tuleb, saab need ühendada keelelinkide abil. [[Pruukja:Avjoska|Avjoska]] 3. põimukuu 2008, kell 11:40 (UTC)
+
+==Wikimania==
+Wikimanial kuulasin Teemu Leinoneni loengut haridusest globaliseeruvas maailmas. Paljud kuulajad avaldasid muret oma keele ja kultuuri hääbumise osas globaliseerumise läbi. tõusin ja rääkisin meie võrokeelsest vikipeediäst, mis sai aplausi osaliseks. see on lihtsalt teadmiseks võrokeelse Viki kogukonnale. [[Pruukja:Avjoska|Avjoska]] 3. põimukuu 2008, kell 11:40 (UTC)
+
+:Kuhu [http://www.sakala.ajaleht.ee/120808/esileht/5035744.php see link] peaks Vikipeediäs minema? [[Pruukja:Avjoska|Avjoska]] 22. põimukuu 2008, kell 05:57 (UTC)
+
+::S'oo lingi võisiq pandaq külh kohegi. [[Pruukja:Võrok|Sullõv]] tiid vast parõmpihe, kohe tä sobis. --[[Pruukja:Valdis|Valdis]] 25. põimukuu 2008, kell 12:21 (UTC)
+
+:::Hüä miil kuuldaq, et Sa muulõ ilmalõ ka mi võrokeelitsest vikipeediäst kõnõlit, aiteh, Avjoska! Tuu Sakala jutu lingi ma panõ sis lehe pääle [[Wikipedia:Miä sünnüs|Miä sünnüs]].--[[Pruukja:Võrok|Võrok]] 25. põimukuu 2008, kell 13:14 (UTC)
+
+== [[User:Synthebot|Synthebot]] ==
+Dear all, this is to request a bot flag for [[User:Synthebot|Synthebot]]. Its technical information is summarized below.
+*'''Operator''': [[:en:User:Julian Mendez|Julian Mendez]]
+*'''Automatic or Manually Assisted''': mostly automatic in autonomous mode; sometimes manually assisted to solve interwiki conflicts
+*'''Programming Language(s)''': [[:m:Using the python wikipediabot|pywikipedia]]
+*'''Function Summary''': interwiki links
+*'''Already has a bot flag on''': more than 80 wikipedias, see [http://toolserver.org/~vvv/sulutil.php?user=Synthebot SUL table]
+Further technical information is available on its [[:ia:User:Synthebot|main page]]. Thank you in advance. Regards, --[[Pruukja:Julian Mendez|Julian]] 19. süküskuu 2008, kell 11:31 (UTC)
+:Approved. --[[Pruukja:Võrok|Võrok]] 19. süküskuu 2008, kell 22:31 (UTC)
+
+==Päälehe kujondus==
+
+Kas kiäki mõistnuq päälehe pääl tähti perrä artiklilingiq (A B C jne) tetäq hariligõs vikisisetsis linges? Parhillaq ummaq naaq välislingiq, miä olõ-i väega illos kaiaq.--[[Pruukja:Võrok|Võrok]] 1. rehekuu 2008, kell 07:18 (UTC)
+
+== The most often used MediaWiki messages ==
+Hoi, the most often used MediaWiki messages (less than 25% of all MediaWiki messages) are the most visible messages. They help our readers and editors the most. We are aiming to get these messages localised for as many languages as possible by the end of the year. Please help us and yourself and localise [http://translatewiki.net/w/i.php?title=Special:Translate&task=untranslated&group=core-mostused&language={{CONTENTLANGUAGE}}&limit=100 these messages]. Thanks, [[Pruukja:GerardM|GerardM]] 17. märtekuu 2008, kell 13:07 (UTC)
+:Done. They all are in Võro now. Actually there were only three unlocalised messages, so the task wasn't hard at all :) Greetings from Võro! --[[Pruukja:Võrok|Võrok]] 17. märtekuu 2008, kell 14:43 (UTC)
+
+== [[User:Luckas-bot|Luckas-bot]] ==
+Dear all, this is to request a bot flag for [[User:Luckas-bot|Luckas-bot]]. Its technical information is summarized below.
+*'''Operator''': [[:pt:User:Luckas Blade|Luckas Blade]]
+*'''Automatic or Manually Assisted''': mostly automatic
+*'''Programming Language(s)''': [[:m:Using the python wikipediabot|pywikipedia]]
+*'''Function Summary''': interwiki links
+*'''Already has a bot flag on''': [http://toolserver.org/~vvv/sulutil.php?user=Luckas-bot List]
+Thanks. --[[Pruukja:Luckas Blade|Luckas Blade]] 19. märtekuu 2008, kell 16:08 (UTC)
+:Approved.--[[Pruukja:Võrok|Võrok]] 4. radokuu 2009, kell 13:24 (UTC)
+
+== Botflag request for Almabot ==
+Hello, I request a bot flag for [[User:Almabot|Almabot]].
+* Botmaster : [[:fr:User:Nakor|Nakor]]
+* Bot's name : [[User:Almabot|Almabot]]
+* List of botflags on others wikipedias: [[:fr:Utilisateur:Almabot/Flags/wikipedia#Local|83 wikis]] + global flag
+* Purpose: Interwiki (pywikipedia)
+* Technical details : maintain interwiki links
+Thanks in advance. [[Pruukja:Nakor|Nakor]] 24. hainakuu 2009, kell 08:41 (UTC)
+
+===Approval===
+Approved.--[[Pruukja:Võrok|Võrok]] 27. hainakuu 2009, kell 23:11 (UTC)
+:Thanks. [[Pruukja:Nakor|Nakor]] 28. hainakuu 2009, kell 07:57 (UTC)
+
+==Viki kogukond Vikil==
+Eestikeelse Vikipeedia kogukond koguneb 6.-7. augustil Viki külas. Ka võru Vikist võiks keegi ehk osa võtta. Täpsem info eestikeelses Vikis või minult. [[Pruukja:Avjoska|Avjoska]] 2. põimukuu 2009, kell 21:53 (UTC)
+== [[User:HerculeBot|HerculeBot]] ==
+Dear all, this is to request a bot flag for [[User:HerculeBot|HerculeBot]]. Its technical information is summarized below.
+*'''Operator''': [[:fr:User:Hercule|Hercule]]
+*'''Automatic or Manually Assisted''': mostly manual
+*'''Programming Language(s)''': [[:m:Using the python wikipediabot|pywikipedia]]
+*'''Function Summary''': interwiki links, and fixing double redirects when needed
+*'''Already has a bot flag on''': 57 wikipedias and global bot ([http://toolserver.org/~vvv/sulutil.php?userHerculeBot List])
+Thanks. --[[Pruukja:Hercule|Hercule]] 1. süküskuu 2009, kell 10:27 (UTC)
+:Approved.--[[Pruukja:Võrok|Võrok]] 2. süküskuu 2009, kell 22:11 (UTC)
+
+== Botflag request for [[User:Xqbot|Xqbot]] ==
+I would like to request a bot flag for [[User:Xqbot|Xqbot]].
+*'''Operator''': [[Pruukja:Xqt|Xqt]], SUL account [[:de:User:Xqt]]
+*'''Automatic or Manually Assisted''': mostly automatic mode
+*'''Programming Language(s)''': [[:m:Using the python wikipediabot|pywikipedia]] ([https://sourceforge.net/users/xqt Python Wikipedia Robot Framework])
+*'''Function Summary''': maintain [[m:interwiki.py|interwiki]] links with [[m:cosmetic changes.py|cosmetic changes]] enabled, fixing [[m:redirect.py|double redirects]]
+*'''Already has a bot flag on''': 58 wikipedias and global bot, 1.5 mio edits ([http://toolserver.org/~vvv/sulutil.php?user=Xqbot edits and flags])
+Thanks. --[[Pruukja:Xqt|Xqt]] 4. süküskuu 2009, kell 08:16 (UTC)
+::Approved.--[[Pruukja:Võrok|Võrok]] 4. süküskuu 2009, kell 10:16 (UTC)
+
+== Botflag request for [[User:SassoBot|SassoBot]] ==
+I would like to request a bot flag for [[User:SassoBot|SassoBot]].
+*'''Operator''': [[Pruukja:Djsasso|DJSasso]], SUL account [[:en:User:DJSasso]]
+*'''Automatic or Manually Assisted''': mostly automatic mode
+*'''Programming Language(s)''': [[:m:Using the python wikipediabot|pywikipedia]]
+*'''Function Summary''': maintain [[m:interwiki.py|interwiki]]
+*'''Already has a bot flag on''': Global Bot and many others. ([http://toolserver.org/~vvv/sulutil.php?user=SassoBot edits and flags])
+
+Thanks! -[[Pruukja:SassoBot|SassoBot]] 22. süküskuu 2009, kell 18:24 (UTC)
+:Approved.--[[Pruukja:Võrok|Võrok]] 7. joulukuu 2009, kell 20:46 (UTC)
+
+== Small request ==
+Hello! I am a Polish wikipedian and I would like to ask you for your help - writing a new article about former Polish President who won the Nobel Peace Prize in 1983 – '''Lech Wałęsa'''. I have looked for his biography in your Wikipedia but without success. Polish Wikipedians will be grateful for your help. Thank you so much in advance! PS you can find the English version of the article '''[[w:en:Lech Wałęsa|here]]'''. Best wishes from Poland, [[Pruukja:Wpedzich|Wpedzich]] 3. rehekuu 2009, kell 21:13 (UTC)
+
+==Wikimedia Eesti==
+Plaanitakse MTÜ Wikimedia Eesti asutamist. täpsem info [[:et:Vikipeedia:MTÜ Wikimedia Eesti|siin]]. [[Pruukja:Avjoska|Avjoska]] 1. joulukuu 2009, kell 11:21 (UTC)
+:Aiteh teedäq andmast, Avjoska! Kaemi tuu info üle.--[[Pruukja:Võrok|Võrok]] 3. joulukuu 2009, kell 10:43 (UTC)
+
+==Wikimania Scholarships==
+The call for applications for Wikimania Scholarships to attend Wikimania 2010 in Gdansk, Poland (July 9-11) is now open. The Wikimedia Foundation offers Scholarships to pay for selected individuals' round trip travel, accommodations, and registration at the conference.
+To apply, visit the [[wm2010:Main Page|Wikimania 2010]] [[wm2010:Scholarships|scholarships information page]], click the secure link available there, and fill out the form to apply.
+For additional information, please visit the Scholarships information and FAQ pages:
+* [[wm2010:Scholarships|Scholarships]]
+* [[wm2010:Scholarships/FAQ|Scholarships FAQ]]
+Yours very truly,
+[[m:User:Cary Bass|Cary Bass]]</br>
+Volunteer Coordinator</br>
+Wikimedia Foundation
+
+== [[User:EmausBot|EmausBot]] ==
+Hello! I would like to get a bot flag for [[User:EmausBot|EmausBot]]. Some info:
+*'''Operator''': [[:ru:User:Emaus|Emaus]]
+*'''Automatic or Manually Assisted''': autonomous mode
+*'''Programming Language(s)''': [[:m:Using the python wikipediabot|pywikipedia]]
+*'''Function Summary''': interwiki
+*'''Already has a bot flag on''': [http://toolserver.org/~vvv/sulutil.php?user=EmausBot '''global''' and 70+ local bot flags, including '''et''', '''fi''', '''en''' and '''ru''']
+Thanks! --[[Pruukja:Emaus|Emaus]] 23. piimäkuu 2010, kell 09:34 (UTC)
+
+== pildikogumiskampaania ==
+Kõik võrokesed, kes pilti mõistavad teha, on oodatud osalema kuni 3. oktoobrini toimuvas Vikipeedia ja "Eesti Looduse" pildikogumiskampaanias Head Eesti Looduse Pildid: http://et.wikipedia.org/wiki/Vikipeedia:HELP. --[[Pruukja:WikedKentaur|WikedKentaur]] 4. hainakuu 2010, kell 04:03 (UTC)
+
+== [[User:WikitanvirBot|WikitanvirBot]] ==
+* Operator                       : [[User:Wikitanvir|Wikitanvir]]
+* Automatic or Manually Assisted : Automatic
+* Programming Language(s)        : Python (pywikipedia)
+* Function Summary               : Interwiki
+* Edit period(s)                 : Daily
+* Edit rate requested            : 2/3 edits per minute at most
+* Already has a bot flag (Y/N)   : Yes, [http://toolserver.org/~vvv/sulutil.php?user=WikitanvirBot see here]
+* Function Details               : Bot will patrol recent changes and new pages, and add, remove, or modify interwiki links in autonomous mode.
+
+Currently doing some test edits. Notify me if there is a problem. &mdash;&nbsp;[[User:Wikitanvir|Tanvir]]&nbsp;&bull; 1. rehekuu 2010, kell 14:03 (UTC)
+
+== 2010 Fundraising Is Almost Here ==
+
+[[File:Wikimedia_Foundation_RGB_logo_with_text.svg|80px|left]] Hello Wikipedians, I am Theo and I am working for the Wikimedia Foundation during the 2010 Fundraiser. My job is to be the liaison between your community and the Foundation. This year's fundraiser is intended to be a collaborative and global effort; we recognize that banner messages which may perform well in the United States don't necessarily translate well, or appeal to international audiences. <Br>
+
+I'm contacting you as I am currently looking for translators who are willing to contribute to this project by helping translate and localize messages into different languages and suggesting messages that would appeal to your readers on the Fundraising Meta Page. We've started the setup on [http://meta.wikimedia.org/wiki/Fundraising_2010 meta] for both [http://meta.wikimedia.org/wiki/Fundraising_2010/Messages banner submission], [http://meta.wikimedia.org/wiki/Fundraising_2010/Banner_testing statistical analysis], and [http://meta.wikimedia.org/wiki/Fundraising_2010/Committee grouping volunteers together].<br>Use the talk pages on meta, talk to your local communities, talk to others, talk to us, and add your feedback to the proposed messages as well! I look forward to working with you during this year's fundraiser. If someone could translate this message I would really appreciate it so that everyone is able to understand our goals and contribute to this year's campaign.<br> [[user:Theo (WMF)|Theo (WMF)]] 20. rehekuu 2010, kell 19:50 (UTC)
+<!-- EdwardsBot 0017 -->
+
+== [[User:MerlIwBot|MerlIwBot]] ==
+Hello! I would like to get a bot flag for [[User:MerlIwBot|MerlIwBot]].
+*'''Operator''': [[:w:de:User:Merlissimo]]
+*'''Automatic or Manually Assisted''': automatic
+*'''Programming Language(s)''': Java
+*'''Function Summary''': interwiki
+*'''Already has a bot flag on''': Yes, including all major wikis [[sulutil:MerlIwBot]]
+Thanks! [[Pruukja:Merlissimo|Merlissimo]] 9. mahlakuu 2011, kell 10:43 (UTC)
+:I found some inconsistency on help pages for the interwiki sorting order. According to [[meta:Interwiki_sorting_order]] there is no special sorting order for fiu-vro. But the pywikipediabots or sorting interwiki based on local language (by first word). So which one is correct? [[Pruukja:Merlissimo|Merlissimo]] 20. mahlakuu 2011, kell 03:49 (UTC)
+::Hi Merlissimo! MerlIwBot has now bot rights. Thanks for noticing inconsistency of the sorting order. The right order for Võro Wikipedia should base on local language (by first word). --[[Pruukja:Võrok|Võrok]] 20. mahlakuu 2011, kell 06:32 (UTC)
+
+== Fotovõistlus "Kultuurimälestised Vikipeediasse" ==
+
+[[Pilt:Kultuurimälestised Vikipeediasse logo.png|thumb|100px]]
+[http://wikilovesmonuments.eu/ Wiki Loves Monuments] on üle-euroopaline fotovõistlus, mille käigus kogutakse fotosid kultuurimälestistest rohkem kui kümnes riigis Portugalist Eestini. Eestis kannab võistlus nime "Kultuurimälestised Vikipeediasse".
+
+Võistlus ise kestab 1.–30. septembrini, paljudes riikides on selles ajavahemikus ka Euroopa Muinsuskaitsenädal. Reeglid on lihtsad. Sul tuleb ainult teha foto muinsuskaitse all olevast objektist, laadida see septembris Wikimedia Commonsisse ja võid võita auhinna. Iga maa kümme paremat pilti saadetakse ka edasi rahvusvahelisele žüriile.
+
+Projekti toetavad nüüdseks mitmed Euroopa organisatsioonid, näiteks [[Euroopa Nõukogu]], aga ka kohalikud institutsioonid ja [[:meta:Wikimedia chapters|Wikimedia chapterid]]. Siiski otsime veel koostööpartnereid – kui Sul on mõni idee, siis palun jaga seda meiega! Ja kõik vikipedistid: levitage infot fotovõistlusest oma perele ja sõpradele, pidage võistlust meeles, kui puhkusele lähete, otsige internetist välja sobivad mälestised ja ärge unustage fotoaparaati kaasa võtmast!
+
+Kogu info fotovõistluse kohta Eestis on leitav kodulehelt http://www.wikilovesmonuments.ee.
+
+--[[Pruukja:WikedKentaur|WikedKentaur]] 19. lehekuu 2011, kell 16:14 (UTC)
+
+== [[User:CocuBot|CocuBot]] ==
+Hi! I would like to request a lokal bot flag for my bot. See details below.
+* Operator                       : [[User:Cocu|Cocu]]
+* Automatic or Manually Assisted : Automatic
+* Programming Language(s)        : [[:m:Pywikipediabot|Pywikipedia framework]]
+* Function Summary               : Interwiki
+* Edit period(s)                 : Daily
+* Edit rate requested            : 2/3 edits per minute at most
+* Already has a bot flag (Y/N)   : Yes, [[:Sulutil:CocuBot|51 flags + global bot]]
+* Function Details               : Bot runs daily updated Pywikipedia framework, and modify interwiki links in the main and category namespace.
+Thanks in advance! Regards [[Pruukja:Cocu|Cocu]] 12. piimäkuu 2011, kell 12:01 (UTC)
+
+== Call for image filter referendum ==
+
+The Wikimedia Foundation, at the direction of the Board of Trustees, will be holding a vote to determine whether members of the community support the creation and usage of an opt-in personal image filter, which would allow readers to voluntarily screen particular types of images strictly for their own account.
+
+Further details and educational materials will be available shortly.  The referendum is scheduled for 12-27 August, 2011, and will be conducted on servers hosted by a neutral third party.  Referendum details, officials, voting requirements, and supporting materials will be posted at [[Meta:Image filter referendum]] shortly.
+
+Sorry for delivering you a message in English. Please help translate the pages on the referendum on Meta and join the [[mail:translators-l|translators mailing list]].
+
+For the coordinating committee,<br />
+[[m:User:Philippe (WMF)|Philippe (WMF)]]<br />
+[[m:User:Cbrown1023|Cbrown1023]]<br/>
+[[m:User:Risker|Risker]]</br>
+[[m:User:Mardetanha|Mardetanha]]<br/>
+[[m:User:PeterSymonds|PeterSymonds]]<br/>
+[[m:User:Robertmharris|Robert Harris]]
+<!-- EdwardsBot 0089 -->
+
+==[[User:PixelBot|PixelBot]]==
+Hi, I request Bot-Flag for PixelBot
+*'''Bot name :'''                 [[User:PixelBot|PixelBot]]
+*'''Operator :'''                 [[:de:User:Pixelfire|Pixelfire]] (de.wikipedia)
+*'''Programming Language :'''     [[:m:Pywikipediabot|pywikipediabot]]
+*'''Function :'''                 interwikis
+*'''Botstatus on other wiki :'''  [[:Sulutil:PixelBot|56 flags and > 300000 global edits]]
+*'''Function Details :'''         Global working interwiki-Bot, starting from de:wiki. --[[Pruukja:Pixelfire|Pixelfire]] 19. hainakuu 2011, kell 16:15 (UTC)
+
+
+==[[User:AvicBot|AvicBot]]==
+*'''Bot name :'''                 [[User:AvicBot|AvicBot]]
+*'''Operator :'''                 [[:en:User talk:Avicennasis|Avicennasis]]
+*'''Programming Language :'''     [[:m:Pywikipediabot|pywikipediabot]]
+*'''Function :'''                 Maintain interwiki links/fixing double redirects
+*'''Botstatus on other wiki :'''  [[:Sulutil:AvicBot|75+ wikis]]
+*'''Function Details :'''         
+Thanks! -[[User:Avicennasis|Avicennasis]] [[meta:User:Avicennasis/SWMT|(SWMT)]] 22. hainakuu 2011, kell 18:10 (UTC)
+
+== BRFA [[User:HiW-Bot|HiW-Bot]] ==
+* Operator                       : [[:de:Benutzer:Hedwig in Washington|Hedwig in Washington]]
+* Automatic or Manually Assisted : automatic
+* Programming Language(s)        : Python (pywikipedia), daily update
+* Function Summary               : Interwiki, Internationalization by removing chaos in Babel-Category so it can be used properly and easy. Double redirects will be added shortly
+* Already has a bot flag (Y/N)   : Yes: DE, EN, FR, SL, AR, NL, TH, UDM, TT, NN, KA, DA, BE-X-OLD, BAT-SMG, ARZ and LB, others pending. [http://toolserver.org/~vvv/sulutil.php?user=HiW-Bot see here]
+* Function Details               : just using the standard interwiki.py; parameters: -auto -all - log -catr 
+
+I humbly request bot status on this wiki in order to update Interwiki, and improve Internationalization by removing chaos in Babel so it can be used properly and easy by everyone.
+
+Thank you for consideration! --[[Pruukja:Hedwig in Washington|Hedwig in Washington]] 6. süküskuu 2011, kell 04:39 (UTC)
+
+Approved. -[[Pruukja:Võrok|Võrok]] 6. süküskuu 2011, kell 14:21 (UTC)
+
+== Bot flag for GedawyBot ==
+
+* '''Bot                               : [[User:GedawyBot|GedawyBot]]
+* '''Operator'''                       : [[w:ar:مستخدم:محمد الجداوي|محمد الجداوي]]
+* '''Programming Language(s)'''        : Python (pywikipedia)
+* '''Function Summary'''               : Interwiki (Works only on articles and categories)
+* '''Contributions'''                  : [[Special:Contributions/GedawyBot|see here]]
+* '''Already has bot flag on'''        : [http://toolserver.org/~vvv/sulutil.php?user=GedawyBot +65 wikis]
+Thank you.--[[Pruukja:محمد الجداوي|محمد الجداوي]] 26. rehekuu 2011, kell 04:53 (UTC)
+
+:Approved.--[[Pruukja:Võrok|Võrok]] 4. märtekuu 2011, kell 17:20 (UTC)
+
+== Bot flag for Vagobot ==
+
+* '''Bot                               : [[User:Vagobot|Vagobot]]
+* '''Operator'''                       : [[w:az:User:Vago|Vago]
+* '''Programming Language(s)'''        : Python (pywikipedia)
+* '''Function Summary'''               : Interwiki, redirect, link GA, link FA
+* '''Contributions'''                  : [[Special:Contributions/Vagobot|see here]]
+* '''Already has bot flag on'''        : [http://toolserver.org/~vvv/sulutil.php?user=Vagobot +130 wikis]
+
+Thanks![[Pruukja:Vago|Vago]] 3. märtekuu 2011, kell 13:08 (UTC)
+:Approved. --[[Pruukja:Võrok|Võrok]] 4. märtekuu 2011, kell 17:19 (UTC)
+
+== Terms of Use update ==
+
+''I apologize that you are receiving this message in English. Please help translate it.''
+ 
+Hello,
+ 
+The Wikimedia Foundation is discussing changes to its Terms of Use.  The discussion can be found at [[m:Talk:Terms of use|Talk:Terms of use]]. Everyone is invited to join in. Because the new version of [[m:Terms of use|Terms of use]] is not in final form, we are not able to present official translations of it. Volunteers are welcome to translate it, as German volunteers have done at [[:m:Terms of use/de]], but we ask that you note at the top that the translation is unofficial and may become outdated as the English version is changed. The translation request can be found at [[m:Translation requests/WMF/Terms of Use 2]] -- [[m:User:Mdennis (WMF)|Maggie Dennis, Community Liaison]] 27. rehekuu 2011, kell 00:45 (UTC)
+<!-- EdwardsBot 0119 -->
+
+== Open Call for 2012 Wikimedia Fellowship Applicants ==
+
+[[File:Wikimedia_Foundation_RGB_logo_with_text.svg|80px|right]]
+''I apologize that you are receiving this message in English. Please
+help translate it.''
+*Do you want to help attract new contributors to Wikimedia projects?
+*Do you want to improve retention of our existing editors?
+*Do you want to strengthen our community by diversifying its base and increasing the overall number of excellent participants around the world?
+The Wikimedia Foundation is seeking Community Fellows and project ideas for the Community Fellowship Program. A Fellowship is a temporary position at the Wikimedia Foundation in order to work on a specific project or set of projects. Submissions for 2012 are encouraged to focus on the theme of improving editor retention and increasing participation in Wikimedia projects. If interested, please submit a project idea or apply to be a fellow by January 15, 2012. Please visit https://meta.wikimedia.org/wiki/Wikimedia_Fellowships for more information.
+
+Thanks!
+
+--[[m:User:Sbouterse (WMF)|Siko Bouterse, Head of Community Fellowships,
+Wikimedia Foundation]] 21. joulukuu 2011, kell 12:59 (UTC)
+
+<small>Distributed via [[m:Global message delivery|Global message delivery]]. (Wrong page? [[m:Distribution list/Global message delivery|Fix here]].)</small>
+<!-- EdwardsBot 0139 -->
+
+== Announcing Wikipedia 1.19 beta ==
+
+Wikimedia Foundation is getting ready to push out 1.19 to all the WMF-hosted wikis.  As we finish wrapping up our code review, you can test the new version ''right now'' on [http://beta.wmflabs.org/ beta.wmflabs.org].  For more information, please read the [https://svn.wikimedia.org/viewvc/mediawiki/trunk/phase3/RELEASE-NOTES-1.19?view=markup release notes] or the [[mw:MediaWiki_1.19|start of the final announcement]].
+
+The following are the areas that you will probably be most interested in:
+* [https://bugzilla.wikimedia.org/show_bug.cgi?id=33711#c2 Faster loading of javascript files makes dependency tracking more important.]
+* New common*.css files usable by skins instead of having to copy piles of generic styles from MonoBook or Vector's css.
+* The default user signature now contains a talk link in addition to the user link.
+* Searching blocked usernames in block log is now clearer.
+* Better timezone recognition in user preferences.
+* Improved diff readability for colorblind people.
+* The interwiki links table can now be accessed also when the interwiki cache is used (used in the API and the Interwiki extension).
+* More gender support (for instance in logs and user lists).
+* Language converter improved, e.g. it now works depending on the page content language.
+* Time and number-formatting magic words also now depend on the page content language.
+* Bidirectional support further improved after 1.18.
+
+Report any [http://labs.wikimedia.beta.wmflabs.org/wiki/Problem_reports problems] on the labs beta wiki and we'll work to address them before they software is released to the production wikis.
+
+'''Note''' that this cluster does have SUL but it is not integrated with SUL in production, so you'll need to create another account.  You should avoid using the same password as you use here.  — [[m:Global message delivery|Global message delivery]] 15. vahtsõaastakuu 2012, kell 00:08 (UTC)
+<!-- EdwardsBot 0145 -->
+
+== MediaWiki 1.19 ==
+
+(Apologies if this message isn't in your language.) The Wikimedia Foundation is planning to upgrade MediaWiki (the software powering this wiki) to its latest version this month. You can help to test it before it is enabled, to avoid disruption and breakage. More information is available [[:mw:MediaWiki 1.19/Deployment announcement|in the full announcement]]. Thank you for your understanding.
+
+[[:m:user:guillom|Guillaume Paumier]], via the [[:m:Global message delivery|Global message delivery system]] <small>([[:m:Distribution list/Global message delivery|wrong page? You can fix it.]])</small>. 12. radokuu 2012, kell 14:59 (UTC)
+<!-- EdwardsBot 0154 -->
+
+== Update on IPv6 ==
+
+[[File:Wikimedia_Foundation_RGB_logo_with_text.svg|80px|right]]
+(Apologies if this message isn't in your language. Please consider translating it, as well as '''[[m:Special:MyLanguage/IPv6 initiative/2012 IPv6 Day announcement|the full version of this announcement on Meta]]''') 
+
+The Wikimedia Foundation is planning to do limited testing of IPv6 on June 2-3. If there are not too many problems, we may fully enable IPv6 on [http://www.worldipv6day.org/ World IPv6 day] (June 6), and keep it enabled.
+
+What this means for your project:
+
+*At least on June 2-3, 2012, you may see a small number of edits from IPv6 addresses, which are in the form "<code>2001:0db8:85a3:0000:0000:8a2e:0370:7334</code>". See e.g. [[w:en:IPv6 address]]. These addresses should behave like any other IP address: You can leave messages on their talk pages; you can track their contributions; you can block them. (See [[m:Special:MyLanguage/IPv6 initiative/2012 IPv6 Day announcement|the full version of this announcement]] for notes on range blocks.)
+
+*In the mid term, some user scripts and tools will need to be adapted for IPv6. 
+
+*We suspect that IPv6 usage is going to be very low initially, meaning that abuse should be manageable, and we will assist in the monitoring of the situation.
+
+Read [[m:Special:MyLanguage/IPv6 initiative/2012 IPv6 Day announcement|the full version of this announcement]] on how to test the behavior of IPv6 with various tools and how to leave bug reports, and to find a fuller analysis of the implications of the IPv6 migration.
+
+--[[m:User:Eloquence|Erik Möller, VP of Engineering and Product Development, Wikimedia Foundation]] 2. piimäkuu 2012, kell 00:57 (UTC)
+
+<small>Distributed via [[m:Global message delivery|Global message delivery]]. (Wrong page? [[m:Distribution list/Global message delivery|Fix here]].)</small>
+<!-- EdwardsBot 0201 -->
+
+== 2011 Picture of the Year competition ==
+
+<small>[[:commons:Commons:Picture of the Year/2011/Translations/mk|{{#language:mk}}]] • [[:commons:Commons:Picture of the Year/2011/Translations/no|{{#language:no}}]] • [[:commons:Commons:Picture of the Year/2011/Translations/pl|{{#language:pl}}]]</small> 
+
+Dear Wikimedians,
+
+Wikimedia Commons is happy to announce that the ''2011 Picture of the Year competition'' is now open. We are interested in your opinion as to which images qualify to be the ''Picture of the Year 2011''. Any user registered at Commons or a Wikimedia wiki SUL-related to Commons [//toolserver.org/~pathoschild/accounteligibility/?user=&wiki=&event=24 with more than 75 edits before 1 April 2012 (UTC)] is welcome to vote and, of course everyone is welcome to view!
+
+Detailed information about the contest can be found [[:commons:Commons:Picture of the Year/2011/Introduction|at the introductory page]].
+
+About 600 of the best of Wikimedia Common's photos, animations, movies and graphics were chosen &ndash;by the international Wikimedia Commons community&ndash; out of 12 million files during ''2011'' and are now called ''Featured Pictures''.
+
+From professional animal and plant shots to breathtaking panoramas and skylines, restorations of historically relevant images, images portraying the world's best architecture, maps, emblems, diagrams created with the most modern technology, and impressive human portraits, Commons ''Features Pictures'' of all flavors.  
+
+For your convenience, we have sorted the images [[:commons:Commons:Picture of the Year/2011/Galleries|into topic categories]]. 
+
+We regret that you receive this message in English; we intended to use banners to notify you in your native language but there was both, human and technical resistance.
+
+See you on Commons!
+--[[:commons:Commons:Picture of the Year/2011/Committee|Picture of the Year 2011 Committee]] 5. piimäkuu 2012, kell 18:16 (UTC)
+
+<small>Distributed via [[m:Global message delivery|Global message delivery]]. (Wrong page? [[m:Distribution list/Global message delivery|Fix here]].)</small>
+<!-- EdwardsBot 0205 -->
+
+== Changing wgLanguageCode from fiu-vro to vro ==
+Hello (sorry for writing in English). The language code of this wiki is one of several that are deprecated. This wiki, fiu-vro.wikipedia.org should somewhere in the future be renamed to vro.wikipedia.org (see [[bugzilla:29186|bug 29186]]). This can still take a long time before actually happening, but as a small step I submitted a [https://gerrit.wikimedia.org/r/#/c/10707/ configuration change] to update $wgLanguageCode from "fiu-vro" to "vro". The only visible difference this should make is that this changes the HTML "lang" attribute. This change has already been done on [[w:gsw:|als.wikipedia.org (als -> gsw)]], as an example. If you have any other questions/concerns, please contact me on [[meta:User talk:SPQRobin]]. Regards, [[Pruukja:SPQRobin|SPQRobin]] ([[Pruukja arotus:SPQRobin|arutelu]]) 13. piimäkuu 2012, kell 18:01 (UTC)
+
+== Help decide about more than $10 million of Wikimedia donations in the coming year ==
+
+[[File:Wikimedia_Foundation_RGB_logo_with_text.svg|80px|right]]
+''(Apologies if this message isn't in your language. Please consider translating it)''
+
+Hi,
+
+As many of you are aware, the Wikimedia Board of Trustees recently initiated important changes in the way that money is being distributed within the Wikimedia movement. As part of this, a new community-led "[[m:Funds_Dissemination_Committee/Framework_for_the_Creation_and_Initial_Operation_of_the_FDC|Funds Dissemination Committee]]" (FDC) is currently being set up. Already in 2012-13, its recommendations will guide the decisions about the distribution of over 10 million US dollars among the Foundation, chapters and other [[m:Funds_Dissemination_Committee/Framework_for_the_Creation_and_Initial_Operation_of_the_FDC#Eligible_fund-seeking_entities|eligible entities]].
+
+Now, seven capable, knowledgeable and trustworthy community members are sought to volunteer on the initial Funds Dissemination Committee. It is expected to take up its work in September. In addition, a community member is sought to be the [[m:Funds_Dissemination_Committee/Framework_for_the_Creation_and_Initial_Operation_of_the_FDC#FDC_Ombudsperson|Ombudsperson]] for the FDC process. If you are interested in joining the committee, read the [[m:Funds Dissemination Committee/Call for Volunteers|call for volunteers]]. Nominations are planned to close on August 15.
+
+--[[m:User:ASengupta_(WMF)|Anasuya Sengupta]], Director of Global Learning and Grantmaking, Wikimedia Foundation 19. hainakuu 2012, kell 20:03 (UTC)
+
+<small>Distributed via [[m:Global message delivery|Global message delivery]]. (Wrong page? [[m:Distribution list/Global message delivery|Fix here]].)</small>
+<!-- EdwardsBot 0223 -->
+
+== More opportunities for you to access free research databases ==
+
+The quest to get editors free access to the sources they need is gaining momentum.
+* '''[[w:en:Wikipedia:Credo|Credo Reference]]''' provides full-text online versions of nearly 1200 published reference works from more than 70 publishers in every major subject, including general and subject dictionaries and encyclopedias.  There are '''125''' full Credo 350 accounts available, with access even to 100 more references works than in Credo's original donation.  All you need is a 1-year old account with 1000 edits.  Sign up [[w:en:Wikipedia:Credo#Sign-up sheet|here]].
+* '''[[w:en:Wikipedia:HighBeam|HighBeam Research]]''' has access to over 80 million articles from 6,500 publications including newspapers, magazines, academic journals, newswires, trade magazines and encyclopedias.  Thousands of new articles are added daily, and archives date back over 25 years covering a wide range of subjects and industries.  There are '''250''' full access 1-year accounts available.  All you need is a 1-year old account with 1000 edits.  Sign up [[w:en:Wikipedia:HighBeam/Applications|here]].
+* '''[[w:en:Wikipedia:Questia|Questia]]'''  is an online research library for books and journal articles focusing on the humanities and social sciences. Questia has curated titles from over 300 trusted publishers including 77,000 full-text books and 4 million journal, magazine, and newspaper articles, as well as encyclopedia entries.  There will soon be '''1000''' full access 1-year accounts available.  All you need is a 1-year old account with 1000 edits.  Sign up [[w:en:Wikipedia:Questia#Apply here: Round 1|here]].
+You might also be interested in the idea to create a central '''Wikipedia Library''' where approved editors would have access to ''all'' participating resource donors.  Add your feedback to the [[m:Wikimedia Fellowships/Project Ideas/The Wikipedia Library|Community Fellowship proposal]].  Apologies for the English message ([http://translate.google.com/ translate here]).  Go sign up :)  --[[w:en:User:Ocaasi|Ocaasi]] ([[w:en:User talk:Ocaasi|talk]]) 16. põimukuu 2012, kell 02:14 (UTC)
+<!-- EdwardsBot 0232 -->
+
+== Request for Comment: Legal Fees Assistance Program ==
+
+[[File:Wikimedia_Foundation_RGB_logo_with_text.svg|80px|right]]
+''I apologize for addressing you in English. I would be grateful if you could translate this message into your language.''
+
+The Wikimedia Foundation is conducting a [[:m:Request_for_comment/Legal_Fees_Assistance_Program|request for comment]] on a [[:m:Legal_and_Community_Advocacy/Legal_Fees_Assistance_Program|proposed program]] that could provide legal assistance to users in specific support roles who are named in a legal complaint as a defendant because of those roles. We wanted to be sure that your community was aware of this discussion and would have a chance to participate in [[:m:Request_for_comment/Legal_Fees_Assistance_Program|that discussion]]. 
+
+If this page is not the best place to publicize this request for comment, please help spread the word to those who may be interested in participating. (If you'd like to help translating the "request for comment", program policy or other pages into your language and don't know how the translation system works, please come by my user talk page at [[:m:User talk:Mdennis (WMF)]]. I'll be happy to assist or to connect you with a volunteer who can assist.)
+ 
+Thank you! --[[:m:User:Mdennis (WMF)|Mdennis (WMF)]]6. süküskuu 2012, kell 01:55 (UTC)
+
+<small>Distributed via [[m:Global message delivery|Global message delivery]]. (Wrong page? [[m:Distribution list/Global message delivery|Fix here]].)</small>
+<!-- EdwardsBot 0245 -->
+
+== Wikidata is getting close to a first roll-out ==
+
+[[File:Wikimedia_Foundation_RGB_logo_with_text.svg|80px|right]]
+(Apologies if this message isn't in your language.) 
+
+As some of you might already have heard Wikimedia Deutschland is working on a new Wikimedia project. It is called [[m:Wikidata]]. The goal of Wikidata is to become a central data repository for the Wikipedias, its sister projects and the world. In the future it will hold data like the number of inhabitants of a country, the date of birth of a famous person or the length of a river. These can then be used in all Wikimedia projects and outside of them.
+
+The project is divided into three phases and "we are getting close to roll-out the first phase". The phases are:
+# language links in the Wikipedias (making it possible to store the links between the language editions of an article just once in Wikidata instead of in each linked article)
+# infoboxes (making it possible to store the data that is currently in infoboxes in one central place and share the data)
+# lists (making it possible to create lists and similar things based on queries to Wikidata so they update automatically when new data is added or modified)
+
+It'd be great if you could join us, test the [http://wikidata-test.wikimedia.de demo version], provide feedback and take part in the development of Wikidata. You can find all the relevant information including an [[m:Wikidata/FAQ|FAQ]] and sign-up links for our on-wiki newsletter on [[m:Wikidata|the Wikidata page on Meta]]. 
+
+For further discussions please use [[m:Talk:Wikidata|this talk page]] (if you are uncomfortable writing in English you can also write in your native language there) or point [[m:User_talk:Lydia Pintscher (WMDE)|me]] to the place where your discussion is happening so I can answer there.
+
+--[[m:User:Lydia Pintscher (WMDE)|Lydia Pintscher]] 10. süküskuu 2012, kell 13:17 (UTC)
+
+<small>Distributed via [[m:Global message delivery|Global message delivery]]. (Wrong page? [[m:Distribution list/Global message delivery|Fix here]].)</small>
+<!-- EdwardsBot 0248 -->
+
+== Upcoming software changes - please report any problems ==
+
+[[File:Wikimedia_Foundation_RGB_logo_with_text.svg|80px|right]]
+<div dir=ltr>
+''(Apologies if this message isn't in your language. Please consider translating it)''
+
+All Wikimedia wikis - including this one - will soon be upgraded with new and possibly disruptive code.  This process starts today and finishes on October 24 (see the [[mw:MediaWiki_1.21/Roadmap|upgrade schedule]] & [[mw:MediaWiki 1.21/wmf2|code details]]).
+
+Please watch for problems with:
+* revision diffs
+* templates
+* CSS and JavaScript pages (like user scripts)
+* bots
+* PDF export
+* images, video, and sound, especially scaling sizes
+* the CologneBlue skin
+
+If you notice any problems, please [[mw:How to report a bug|report problems]] at [[mw:Bugzilla|our defect tracker site]].  You can test for possible problems at [https://test2.wikipedia.org test2.wikipedia.org] and [https://mediawiki.org/ mediawiki.org], which have already been updated.
+
+Thanks!  With your help we can find problems fast and get them fixed faster.
+
+[[mw:User:Sharihareswara (WMF)|Sumana Harihareswara, Wikimedia Foundation Engineering Community Manager]] ([[mw:User talk:Sharihareswara (WMF)|talk]]) 16. rehekuu 2012, kell 02:52 (UTC)
+
+P.S.: For the regular, smaller MediaWiki updates every two weeks, please [[mw:MediaWiki_1.21/Roadmap|watch this schedule]].
+
+<small>Distributed via [[m:Global message delivery|Global message delivery]]. (Wrong page? [[m:Distribution list/Global message delivery|Fix here]].)</small>
+</div>
+<!-- EdwardsBot 0278 -->
+
+== Fundraising localization: volunteers from outside the USA needed ==
+
+''Please translate for your local community''
+
+Hello All,
+
+The Wikimedia Foundation's Fundraising team have begun our 'User Experience' project, with the goal of understanding the donation experience in different countries outside the USA and enhancing the localization of our donation pages. I am searching for volunteers to spend 30 minutes on a Skype chat with me, reviewing their own country's donation pages. It will be done on a 'usability' format (I will ask you to read the text and go through the donation flow) and will be asking your feedback in the meanwhile. 
+
+The only pre-requisite is for the volunteer to actually live in the country and to have access to at least one donation method that we offer for that country (mainly credit/debit card, but also real-time banking like IDEAL, E-wallets, etc...) so we can do a live test and see if the donation goes through. ''All volunteers will be reimbursed of the donations that eventually succeed'' (and they will be low amounts, like 1-2 dollars)
+
+By helping us you are actually helping thousands of people to support our mission of free knowledge across the world. Please sing up and help us with our 'User Experience' project! :)
+If you are interested (or know of anyone who could be) please email ppena@wikimedia.org. All countries needed (excepting USA)!
+
+Thanks!<br />
+[[wmf:User:Ppena|Pats Pena]]<br />
+Global Fundraising Operations Manager, Wikimedia Foundation
+
+Sent using [[m:Global message delivery|Global message delivery]], 17. rehekuu 2012, kell 16:58 (UTC)
+<!-- EdwardsBot 0280 -->
+
+[[az:Vikipediya:Kənd meydanı]]
+[[de:Wikipedia:Fragen zur Wikipedia]]
+[[hr:Wikipedija:Kafić]]
+[[ce:Википедийа:Хlорам]]
+
+== Be a Wikimedia fundraising "User Experience" volunteer! ==
+
+Thank you to everyone who volunteered last year on the Wikimedia fundraising 'User Experience' project. We have talked to many different people in different countries and their feedback has helped us immensely in restructuring our pages. If you haven't heard of it yet, the 'User Experience' project has the goal of understanding the donation experience in different countries (outside the USA) and enhancing the localization of our donation pages. 
+
+I am (still) searching for volunteers to spend some time on a Skype chat with me, reviewing their own country's donation pages. It will be done on a 'usability' format (I will ask you to read the text and go through the donation flow) and will be asking your feedback in the meanwhile. 
+
+The only pre-requisite is for the volunteer to actually live in the country and to have access to at least one donation method that we offer for that country (mainly credit/debit card, but also real time banking like IDEAL, E-wallets, etc...) so we can do a live test and see if the donation goes through. **All volunteers will be reimbursed of the donations that eventually succeed (and they will be very low amounts, like 1-2 dollars)**
+
+By helping us you are actually helping thousands of people to support our mission of free knowledge across the world. If you are interested (or know of anyone who could be) please email ppena@wikimedia.org. All countries needed (excepting USA)!!
+
+Thanks!
+
+[[m:User:Ppena (WMF)|Pats Pena]]<br/>
+Global Fundraising Operations Manager, Wikimedia Foundation
+
+: Sent using [[m:Global message delivery|Global message delivery]], 8. vahtsõaastakuu 2013, kell 20:51 (UTC)
+<!-- EdwardsBot 331 -->
+
+== Wikimedia sites to move to primary data center in Ashburn, Virginia. Read-only mode expected. ==
+
+(Apologies if this message isn't in your language.) Next week, the Wikimedia Foundation will transition its main technical operations to a new data center in Ashburn, Virginia, USA. This is intended to improve the technical performance and reliability of all Wikimedia sites, including this wiki. There will be some times when the site will be in read-only mode, and there may be full outages; the current target windows for the migration are January 22nd, 23rd and 24th, 2013, from 17:00 to 01:00 UTC (see [http://www.timeanddate.com/worldclock/fixedtime.html?msg=Wikimedia+data+center+migration&iso=20130122T17&ah=8 other timezones] on timeanddate.com). More information is available [https://blog.wikimedia.org/2013/01/19/wikimedia-sites-move-to-primary-data-center-in-ashburn-virginia/ in the full announcement].
+
+If you would like to stay informed of future technical upgrades, consider [[m:Tech/Ambassadors|becoming a Tech ambassador]] and [https://lists.wikimedia.org/mailman/listinfo/wikitech-ambassadors joining the ambassadors mailing list]. You will be able to help your fellow Wikimedians have a voice in technical discussions and be notified of important decisions.
+
+Thank you for your help and your understanding.
+
+[[:m:user:guillom|Guillaume Paumier]], via the [[:m:Global message delivery|Global message delivery system]] <small>([[:m:Distribution list/Global message delivery|wrong page? You can fix it.]])</small>. 19. vahtsõaastakuu 2013, kell 15:15 (UTC)
+<!-- EdwardsBot 0338 -->
+
+== Help turn ideas into grants in the new IdeaLab ==
+
+<div class="mw-content-ltr">
+[[File:Wikimedia_Foundation_RGB_logo_with_text.svg|80px|right]]
+''I apologize if this message is not in your language. Please help translate it.''
+
+*Do you have an idea for a project to improve this community or website?
+*Do you think you could complete your idea if only you had some funding?
+*Do you want to help other people turn their ideas into project plans or grant proposals?
+
+Please join us in the [[m:Grants:IdeaLab|IdeaLab]], an incubator for project ideas and Individual Engagement Grant proposals.
+
+The Wikimedia Foundation is seeking new ideas and proposals for Individual Engagement Grants. These grants fund individuals or small groups to complete projects that help improve this community. If interested, please submit a completed proposal by February 15, 2013. Please visit https://meta.wikimedia.org/wiki/Grants:IEG for more information.
+
+Thanks!  --[[m:User:Sbouterse (WMF)|Siko Bouterse, Head of Individual Engagement Grants, Wikimedia Foundation]] 30. vahtsõaastakuu 2013, kell 20:22 (UTC)
+
+<small>Distributed via [[m:Global message delivery|Global message delivery]]. (Wrong page? [[m:Distribution list/Global message delivery|Correct it here]].)</small>
+</div>
+<!-- EdwardsBot 0344 -->
+
+== Wikidata phase 1 (language links) coming to this Wikipedia ==
+
+[[File:Wikidata-logo-en.svg|150px|right]]
+Sorry for writing in English. I hope someone can translate this locally.
+
+[[d:|Wikidata]] has been in development for a few months now. It is now time for the roll-out of the first part of it on your Wikipedia. Phase 1 is the support for the management of language links. It is already being used on the Hungarian, Hebrew, Italian and English Wikipedias. The next step is to enable the extension on all other Wikipedias. We have currently planned this for March 6.
+
+=== What is Wikidata? ===
+Wikidata is a central place to store data that you can usually find in infoboxes. Think of it as something like Wikimedia Commons but for data (like the number of inhabitants of a country or the length of a river) instead of multimedia. The first part of this project (centralizing language links) is being rolled out now. The more fancy things will follow later.
+
+=== What is going to happen? ===
+Language links in the sidebar are going to come from Wikidata in addition to the ones in the wiki text. To edit them, scroll to the bottom of the language links, and click edit. You no longer need to maintain these links by hand in the wiki text of the article.
+
+=== Where can I find more information and ask questions? ===
+Editors on en:wp have created a [[:en:Wikipedia:Wikidata|great page with all the necessary information for editors]] and there is also an [[meta:Wikidata/Deployment Questions|FAQ for this deployment]]. Please ask questions you might have on [[meta:Wikidata/Deployment Questions|the FAQ’s discussion page]].
+
+=== I want to be kept up to date about Wikidata ===
+To stay up-to-date on everything happening around Wikidata please [[meta:Global message delivery/Targets/Wikidata|subscribe]] to the newsletter that is delivered weekly to subscribed user’s talk pages. You can see previous editions [[meta:Wikidata/Newsletter/Archive|here]].
+
+--[[m:User:Lydia Pintscher (WMDE)|Lydia Pintscher]] 21. radokuu 2013, kell 16:05 (UTC)
+
+<small>Distributed via [[m:Global message delivery|Global message delivery]]. (Wrong page? [[m:Distribution list/Global message delivery|Fix here]].)</small>
+<!-- EdwardsBot 0366 -->
+
+== [[User:Addbot|Addbot]] ==
+* Operator                       : [[User:Addshore]]
+* Automatic or Manually Assisted : Automatic
+* Programming Language(s)        : PHP own code
+* Function Summary               : Removing interwiki links from pages that have links on [[d:|wikidata]] (see below that Wikidata has rolled out)
+* Already has a bot flag (Y/N)   : [http://toolserver.org/~vvv/sulutil.php?user=Addbot Flagged on]: en, he, it, hu, no, nl, sl, is, frr, sv, bn, ca, da ,sr
+* Function Details               : 1,000,000ish edits on other language projects using the same code
+Thanks.[[Pruukja:Addshore|Addshore]] ([[Pruukja arotus:Addshore|arutelu]]) 2. urbõkuu 2013, kell 00:29 (UTC)
+:Done.--[[Pruukja:Võrok|Võrok]] ([[Pruukja arotus:Võrok|arutelu]]) 7. urbõkuu 2013, kell 15:47 (UTC)
+
+== Wikidata phase 1 (language links) live on this Wikipedia ==
+
+[[File:Wikidata-logo-en.svg|150px|right]]
+Sorry for writing in English. I hope someone can translate this locally. If you understand German better than English you can have a look at the announcement on [[:de:Wikipedia:Kurier]].
+
+As I annonced 2 weeks ago, [[d:|Wikidata]] phase 1 (language links) has been deployed here today. Language links in the sidebar are coming from Wikidata in addition to the ones in the wiki text. To edit them, scroll to the bottom of the language links, and click edit. You no longer need to maintain these links by hand in the wiki text of the article.
+
+'''Where can I find more information and ask questions?'''
+Editors on en:wp have created a [[:en:Wikipedia:Wikidata|great page with all the necessary information for editors]] and there is also an [[meta:Wikidata/Deployment Questions|FAQ for this deployment]]. It'd be great if you could bring this to this wiki if that has not already happened. Please ask questions you might have on [[meta:Talk:Wikidata/Deployment Questions|the FAQ’s discussion page]].
+
+'''I want to be kept up to date about Wikidata'''
+To stay up-to-date on everything happening around Wikidata please [[meta:Global message delivery/Targets/Wikidata|subscribe]] to the newsletter that is delivered weekly to subscribed user’s talk pages.
+
+--[[m:User:Lydia Pintscher (WMDE)|Lydia Pintscher]] 6. urbõkuu 2013, kell 22:56 (UTC)
+
+<small>Distributed via [[m:Global message delivery|Global message delivery]]. (Wrong page? [[m:Distribution list/Global message delivery|Fix here]].)</small>
+<!-- EdwardsBot 0373 -->
+
+== Updating the logo for this wiki ==
+
+<div class="mw-content-ltr">
+[[File:Wikipedia-logo-v2-{{CONTENTLANGUAGE}}.png|thumb|New logo]]
+
+Hello! As part of the update of Wikipedias logos to the new (2010) 3D puzzle globe version, we have noticed that your wiki's current logo is missing, outdated or with wrong translation. We are trying to help Wikipedias get a locally-adapted correct logo, by taking the technical difficulties on us, and in about a week from now we'll be replacing the current logo with the new one shown in [//commons.wikimedia.org/w/index.php?title=User:Nemo_bis/Wikipedia&oldid=92391038 this gallery, with explanation].
+If the translation is wrong, or there's another error in the new logo, or the community disagrees with the update, please [[m:User:Cbrown1023/Logos|update the list of logos]] or tell us on its talk.
+Feel free to translate this message and to move/copy/forward it where appropriate. Thanks, [[m:User:Nemo_bis|Nemo]] 11. urbõkuu 2013, kell 13:41 (UTC)
+</div>
+<!-- EdwardsBot 0377 -->
+
+== Convert complex templates to Lua to make them faster and more powerful ==
+
+<small>(Please consider translating this message for the benefit of your fellow Wikimedians)</small>
+
+Greetings. As you might have seen on the [https://blog.wikimedia.org/2013/03/11/lua-templates-faster-more-flexible-pages/ Wikimedia tech blog] or the [http://lists.wikimedia.org/pipermail/wikitech-ambassadors/2013-March/000171.html tech ambassadors list], a new functionality called "Lua" is being enabled on all Wikimedia sites today. [[mw:Lua|Lua]] is a scripting language that enables you to write faster and more powerful MediaWiki templates.
+
+If you have questions about how to convert existing templates to Lua (or how to create new ones), we'll be holding two support sessions on IRC next week: [http://www.timeanddate.com/worldclock/fixedtime.html?hour=02&min=00&sec=0&day=20&month=03&year=2013 one on Wednesday] (for Oceania, Asia & America) and [http://www.timeanddate.com/worldclock/fixedtime.html?hour=18&min=00&sec=0&day=22&month=03&year=2013 one on Friday] (for Europe, Africa & America); see [[m:IRC office hours]] for the details. If you can't make it, you can also get help at [[mw:Talk:Lua scripting]].
+
+If you'd like to learn about this kind of events earlier in advance, consider becoming a [[m:Tech/Ambassadors|Tech ambassador]] by subscribing to the [https://lists.wikimedia.org/mailman/listinfo/wikitech-ambassadors mailing list]. You will also be able to help your fellow Wikimedians have a voice in technical discussions and be notified of important decisions.
+
+[[:m:user:guillom|Guillaume Paumier]], via the [[:m:Global message delivery|Global message delivery system]]. 13. urbõkuu 2013, kell 19:28 (UTC) <small>([[:m:Distribution list/Global message delivery|wrong page? You can fix it.]])</small>
+<!-- EdwardsBot 0379 -->
+
+== Wikidata phase 2 (infoboxes) coming to this Wikipedia ==
+
+[[File:Wikidata-logo-en.svg|150px|right]]
+Sorry for writing in English. I hope someone can translate this. If you understand German better than English you can have a look at the announcement on [[:de:Wikipedia:Kurier]].
+
+A while ago the first phase of [[d:|Wikidata]] was enabled on this Wikipedia. This means you are getting the language links in each article from Wikidata. It is soon time to enable the second phase of Wikidata (infoboxes) here. We have already done this on the [[http://blog.wikimedia.de/2013/03/27/you-can-have-all-the-data/ first 11 Wikipedias]] (it, he, hu, ru, tr, uk, uz, hr, bs, sr, sh) and things are looking good. The next step is English Wikipedia. This is planned for April 8. '''If everything works out fine we will deploy on all remaining Wikipedias on April 10.''' I will update [[m:Wikidata/Deployment Questions#When_will_this_be_deployed_on_my_Wikipedia.3F|this part of the FAQ]] if there are any issues forcing us to change this date. I will also sent another note to this village pump once the deployment is finished.
+
+'''What will happen once we have phase 2 enabled here?'''
+Once it is enabled in a few days you will be able to make use of the structured data that is available on Wikidata in your articles/infoboxes. It includes things like the symbol for a chemical element, the ISBN for a book or the top level domain of a country. (None of this will happen automatically. Someone will have to change the article or infobox template for this to happen!)
+
+'''How will this work?'''
+There are two ways to access the data:
+* Use a parser function like <nowiki>{{#property:p169}}</nowiki> in the wiki text of the article on Yahoo!. This will return “[[d:Q14086|Marissa Mayer]]” as she is the [[d:Property:P169|chief executive officer]] of the [[d:Q37093|company]].
+* For more complicated things you can use Lua. The documentation for this is [[mw:Extension:WikibaseClient/Lua|here]].
+
+We are working on expanding the parser function so you can for example use <nowiki>{{#property:chief executive officer}}</nowiki> instead of <nowiki>{{#property:p169}}</nowiki>. The complete plan for this is [[meta:Wikidata/Notes/Inclusion syntax|here]].
+
+'''Where can I test this?'''
+You can already test it on [http://test2.wikipedia.org test2].
+
+'''Where can I find more information and ask questions?'''
+We have collected the main questions in an [[meta:Wikidata/Deployment Questions|FAQ for this deployment]]. Please ask questions you might have on [[meta:Talk:Wikidata/Deployment Questions|the FAQ’s discussion page]].
+
+'''I want to be kept up to date about Wikidata'''
+To stay up-to-date on everything happening around Wikidata please [[meta:Global message delivery/Targets/Wikidata|subscribe]] to the newsletter that is delivered weekly to subscribed user’s talk pages.
+
+--[[m:User:Lydia Pintscher (WMDE)|Lydia Pintscher]] 5. mahlakuu 2013, kell 16:51 (UTC)
+
+<small>Distributed via [[m:Global message delivery|Global message delivery]]. (Wrong page? [[m:Distribution list/Global message delivery|Fix here]].)</small>
+<!-- EdwardsBot 0399 -->
+
+== [[m:Requests for comment/Activity levels of advanced administrative rights holders|Request for comment on inactive administrators]] ==
+
+<small>(Please consider translating this message for the benefit of your fellow Wikimedians. Please also consider translating [[m:Requests for comment/Activity levels of advanced administrative rights holders/Summary|the proposal]].)</small>
+
+<small>[[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message|Read this message in English]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/ast|Lleer esti mensaxe n'asturianu]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/bn|বাংলায় এই বার্তাটি পড়ুন]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/ca|Llegiu aquest missatge en català]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/da|Læs denne besked på dansk]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/de|Lies diese Nachricht auf Deutsch]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/egl|Leś cal mesag' chè in Emiliàn]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/es|Leer este mensaje en español]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/fi|Lue tämä viesti suomeksi]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/fr|Lire ce message en français]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/gl|Ler esta mensaxe en galego]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/hi|हिन्दी]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/hr|Pročitajte ovu poruku na hrvatskom]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/id|Baca pesan ini dalam Bahasa Indonesia]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/it|Leggi questo messaggio in italiano]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/kn|ಈ ಸಂದೇಶವನ್ನು ಕನ್ನಡದಲ್ಲಿ ಓದಿ]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/mt|Aqra dan il-messaġġ bil-Malti]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/nb|norsk (bokmål)]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/nl|Lees dit bericht in het Nederlands]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/pl|Przeczytaj tę wiadomość po polsku]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/ro|Citiți acest mesaj în română]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/ru|Прочитать это сообщение на русском]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/so|Farriintaan ku aqri Af-Soomaali]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/sr|Pročitaj ovu poruku na srpskom (Прочитај ову поруку на српском)]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/th|อ่านข้อความนี้ในภาษาไทย]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/uk|Прочитати це повідомлення українською мовою]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/vi|Đọc thông báo bằng tiếng Việt]] / [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message/zh|使用中文阅读本信息。]]</small>
+
+Hello!
+
+There is [[m:Requests for comment/Activity levels of advanced administrative rights holders|a new request for comment]] on Meta-Wiki concerning the removal of administrative rights from long-term inactive Wikimedians. Generally, this proposal from stewards would apply to wikis without an administrators' review process.
+
+We are also compiling a [[m:Talk:Requests for comment/Activity levels of advanced administrative rights holders|list of projects]] with procedures for removing inactive administrators on the talk page of the request for comment. Feel free to add your project(s) to the list if you have a policy on administrator inactivity.
+
+All input is appreciated. The discussion may close as soon as 21 May 2013 (2013-05-21), but this will be extended if needed.
+
+Thanks, [[m:User:Billinghurst|Billinghurst]] <small>(thanks to all the [[m:Requests for comment/Activity levels of advanced administrative rights holders/Global message|translators]]!)</small> 24. mahlakuu 2013, kell 04:38 (UTC)
+:<small>Distributed via [[m:Global message delivery|Global message delivery]] (Wrong page? [[m:Distribution list/Global message delivery|You can fix it]].)</small>
+<!-- EdwardsBot 0430 -->
+
+== Wikidata phase 2 (infoboxes) is here ==
+
+[[File:Wikidata-logo-en.svg|150px|right]]
+Sorry for writing in English. I hope someone can translate this. If you understand German better than English you can have a look at the announcement on [[:de:Wikipedia:Kurier]].
+
+A while ago the first phase of [[d:|Wikidata]] was enabled on this Wikipedia. This means you are getting the language links in each article from Wikidata. We have now enabled the second phase of Wikidata (infoboxes) here. We have already done this on the [[http://blog.wikimedia.de/2013/03/27/you-can-have-all-the-data/ first 11 Wikipedias]] (it, he, hu, ru, tr, uk, uz, hr, bs, sr, sh) a month ago and [http://blog.wikimedia.de/2013/04/22/and-that-makes-12/ two days ago on the English Wikipedia]. Today all the remaining Wikipedias followed.
+
+'''What does having phase 2 enabled here mean?'''
+You are now able to make use of the structured data that is available on Wikidata in your articles/infoboxes. It includes things like the symbol for a chemical element, the ISBN for a book or the top level domain of a country. (None of this will happen automatically. Someone will have to change the article or infobox template for this to happen!) The current state is just the beginning though. It will be extended based on feedback we get from you now.
+
+'''How will this work?'''
+There are two ways to access the data:
+* Use a parser function like <nowiki>{{#property:p159}}</nowiki> in the wiki text of the article on Wikimedia Foundation. This will return “[[d:Q62|San Francisco]]” as that is the [[d:Property:P159|headquarter location]] of the [[d:180|non-profit]].
+* For more complicated things you can use Lua. The documentation for this is [[mw:Extension:WikibaseClient/Lua|here]].
+
+We are working on expanding the parser function so you can for example use <nowiki>{{#property:headquarter location}}</nowiki> instead of <nowiki>{{#property:p159}}</nowiki>. The complete plan for this is [[meta:Wikidata/Notes/Inclusion syntax|here]].
+
+'''Where can I test this?'''
+You can test it on [http://test2.wikipedia.org test2] if you don't want to do it in an article here.
+
+'''Where can I find more information and ask questions?'''
+We have collected the main questions in an [[meta:Wikidata/Deployment Questions|FAQ for this deployment]]. Please ask questions you might have on [[meta:Talk:Wikidata/Deployment Questions|the FAQ’s discussion page]].
+
+'''I want to be kept up to date about Wikidata'''
+To stay up-to-date on everything happening around Wikidata please [[meta:Global message delivery/Targets/Wikidata|subscribe]] to the newsletter that is delivered weekly to subscribed user’s talk pages.
+
+
+We are excited about taking yet another step towards allowing all Wikipedias share structured data and collect and curate it together.
+--[[m:User:Lydia Pintscher (WMDE)|Lydia Pintscher]] 24. mahlakuu 2013, kell 19:06 (UTC)
+
+<small>Distributed via [[m:Global message delivery|Global message delivery]]. (Wrong page? [[m:Distribution list/Global message delivery|Fix here]].)</small>
+<!-- EdwardsBot 0431 -->
