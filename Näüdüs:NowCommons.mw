@@ -1,0 +1,8 @@
+{| cellspacing="4" cellpadding="4" style="width: 100%; clear: both; border: solid 2px #c00000; background-color: #f9f9f9;"
+| [[Pilt:Enwiki2com.svg|x40px|NowCommons]]
+| See fail on nüüd [[Commons:File:{{PAGENAME:{{{1|{{PAGENAME}}}}}}}|{{#ifeq:{{localurl:Pilt:{{PAGENAME}}}}|{{localurl:Pilt:{{PAGENAME:{{{1|{{PAGENAME}}}}}}}}}|'''sama nimega'''|nimega '''{{PAGENAME:{{{1}}}}}'''}}]] Wikimedia Commonsis.
+|}{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Katõgooria:NowCommons]]}}<noinclude>
+
+[[Katõgooria:Näüdüseq]]
+
+</noinclude>
