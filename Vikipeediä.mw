@@ -13,7 +13,7 @@ Vikipeediä ts'aukpuutri-serveriq ommaq:
 
 Tarkvaras pruugitas:
 * OS – Linux;
-* Moodor – UseModWiki kirõtõt Perlin;
+* Moodor – UseModWiki kirotõt Perlin;
 * WWW – Apache HTTP Server ja Squid cache serveriq, näide kuurmust jaga Perlbal;
 * DB – MySQL;
 * Skriptiq – PHP.
