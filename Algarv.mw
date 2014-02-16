@@ -2,7 +2,7 @@
 
 Edimädseq algarvoq ommaq 2,3,5,7,11,13,17,19,... . Algarvõ om lõpmalda pall'o.
 
-==Algarvteorem==
+==Algarvoteorem==
 :<math>\lim_{x\to\infty}\frac{\pi(x)}{x/\ln(x)}=1</math>
 
 [[Katõgooria:Arvoteooria]]
