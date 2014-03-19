@@ -1,0 +1,32 @@
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
+|+<big><big>'''{{{Nimi}}}'''</big></big>
+|- 
+| align="center" colspan="2" | 
+{| style="background:#f9f9f9;" border="0" cellpadding="2" cellspacing="0" height="120px" 
+| align="center" width="140px" | [[{{{Lipp}}}|border|125px|{{{Genitiiv}}} lipp]]
+| align="center" width="140px" | [[{{{Vapp}}}|100px|{{{Genitiiv}}} vapp]]
+|- 
+| align="center" width="140px" | [[{{{Genitiiv}}} lipp]]
+| align="center" width="140px" | [[{{{Genitiiv}}} vapp]]
+|}
+|- 
+| align=center colspan=2 | [[{{{Kaart}}}|{{PAGENAME}} kotus kaardi pääl|250px]]
+|- 
+| '''Riigikiil'''
+| {{{Riigikiil}}}
+|- 
+| '''Pääliin'''
+| {{{Pääliin}}}
+|- 
+| '''Suurus'''
+| {{{Suurus}}} km²
+|- 
+| '''Rahvaarv'''
+| {{{Rahvaarv}}}
+|- 
+| '''Raha'''
+| {{{Raha}}}
+|- 
+| '''Internetitunnus'''
+| {{{Internetitunnus}}}
+|}
