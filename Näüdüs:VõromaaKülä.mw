@@ -1,0 +1,12 @@
+<table style="margin-left:10px; width:280px; float:right;" bgcolor="#ffffff"><tr><td style="text-align:center;">
+<hr style="margin:0px auto 6px auto; width:100%;"><div style="font-size:130%; font-weight:bold;">{{{nimi}}}</div> 
+<hr style="width:100%;"></td></tr><tr><td style="text-align:center;">
+{{#if:{{{elänikke|}}}|<div>Elänikke: {{{elänikke}}}</div> {{#if: {{#invoke:WikidataDev|claim|P1082}} }}}}
+<hr style="margin:4px auto; width:75%;">{{#if:{{{lat_sec|}}}|<div style="font-size:90%;">[[Maapäälidseq koordinaadiq|koordinaadiq]]: {{koord|{{{lat_deg|}}}_{{{lat_min|}}}_{{{lat_sec|}}}_N_{{{lon_deg|}}}_{{{lon_min|}}}_{{{lon_sec|}}}_E_type:city|{{{lat_deg|}}}&deg;{{#expr: {{{lat_min|}}}+ {{{lat_sec|}}}/60 round 0}}' N {{{lon_deg|}}}&deg;{{#expr: {{{lon_min|}}}+ {{{lon_sec|}}}/60 round 0}}' E }}  </div></td></tr><tr><td style="background: #FFFFFF; font-size: 85%;"><div style="position: relative;">
+<div style="position:absolute;top:5;left:5;"><div style="position: absolute;display: block; 
+left:{{#expr: ({{{lon_deg}}} + {{{lon_min}}}/60 - 26.0)*150.5}}px;top:{{#expr: (58.40 - ({{{lat_deg}}} + {{{lat_min}}}/60))*320}}px;width:8px;height:8px;padding:0;">
+[[Image:Dot.png|6px|{{{nimi}}}]]</div></div>[[Image:Voromaa_kihlkunnaq.jpg|270px|]]</div>}}
+</td></tr></table>
+<noinclude>
+[[Category:Koordinaatõga näüdüseq|{{PAGENAME}}]]
+</noinclude>
