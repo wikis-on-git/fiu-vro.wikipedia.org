@@ -1,0 +1,14 @@
+[[Matõmaatiga|Matõmaatikan]] Lucasi arvoq ''F<sub>n</sub>'' ommaq arvoq
+:<math>L_n = L_{n-1} + L_{n-2},\!\,</math>
+
+kon
+:<math>L_0 = 2,\; L_1 = 1.</math>
+
+Edimädseq Lucasi arvoq ommaq 
+
+:<math>2,\;1,\;3,\;4,\;7,\;11,\;18,\;29,\;47,\;76,\;123,\; \ldots\;.</math>
+
+==Kaeq viil==
+* [[Fibonacci arv]]
+
+[[Katõgooria:Arvoteooria]]
