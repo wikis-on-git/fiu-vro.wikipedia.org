@@ -21,7 +21,7 @@ Colors =
 DateFormat = yyyy
 Period = from:0 till:11000
 ScaleMajor = unit:year increment:11000 start:0 gridcolor:linegrey
-ScaleMinor = unit:year increment:500 start:0 gridcolor:linegrey2
+ScaleMinor = unit:year increment:1000 start:0 gridcolor:linegrey2
 PlotData =
   color:cobar width:20 align:center
   bar:1680 from:0 till:800
