@@ -1469,3 +1469,24 @@ All proposals are welcome - research projects, technical solutions, community or
 :*[[:m:Grants:IdeaLab/Inspire|Inspire Campaign main page]]
 ''(Sorry for the English - please translate this message!)'' [[Pruukja:MediaWiki message delivery|MediaWiki message delivery]] ([[Pruukja arotus:MediaWiki message delivery|arutelu]]) 4. urbõkuu 2015, kell 20:02 (UTC)
 <!-- Sõnumi saatis Kasutaja:PEarley (WMF)@metawiki loendisse leheküljel "http://meta.wikimedia.org/w/index.php?title=User:PEarley_(WMF)/Inspire_Mass_Message&oldid=11457822". -->
+
+== Feedback request: VisualEditor's special character inserter ==
+
+<div lang="en" dir="ltr" class="mw-content-ltr">
+''I apologize for writing in English.  Please translate this message so that all of your editors can read it.  Thank you!''
+
+Hi everybody, my name is Erica, and I am a Community Liaison at the Wikimedia Foundation. I'm writing to you because the [[:mw:Editing/Team|Editing team at WMF]] wants to know what you think about [[:mw:VisualEditor|VisualEditor]] and its new {{int:visualeditor-specialcharacterinspector-title}} tool.  This change will affect all users on [[:mw:VisualEditor/Rollouts|about 50 Wikipedias]], including your Wikipedia.  Many editors at these Wikipedias need a special character tool to be able to write articles correctly, which is why we are asking you now.  
+
+The new special character inserter tool is available in VisualEditor now.  Admins at your wiki can change the contents by following [[:mw:VisualEditor/Special characters|the directions at mediawiki.org]].
+[[File:VisualEditor special character inserter March 2015.png|alt=Screenshot from VisualEditor that shows the special character inserter|centre|thumb|800x800px|New design for the special character inserter.  The red arrow points to the button for the tool, which is marked with Ω (omega).]]
+'''To test the {{int:visualeditor-specialcharacterinspector-title}}''' tool''', please:'''
+# '''Opt-in to VisualEditor''' by going to [[Special:Preferences#mw-prefsection-betafeatures]] and choosing "{{int:visualeditor}}".  Save your preferences.
+# '''Edit any article or your user page''' in VisualEditor by clicking on the new "{{int:vector-view-edit}}" tab at the top of the page. See the [[:mw:Help:VisualEditor/User guide]] for information on how to use VisualEditor. 
+# '''Please post your comments and the language(s) that you tested''' at [[:mw:VisualEditor/Feedback#Updated_special_character_inserter_tool_54649|the feedback thread on Mediawiki.org]].  The developers would like to know what you think about this new design.  It is important that they hear from as many editors as possible.   You may leave your comments in any language. 
+
+When the special character tool has been refined a little more based on your thoughts, we will offer VisualEditor by default to all editors at ''this'' wiki.  If you want to help prepare, please read [[mw:Help:VisualEditor/VE_as_the_main_editor|the advice on mediawiki.org]].
+
+Thank you, [[User:Elitre (WMF)|Elitre (WMF)]] [[User talk:Elitre (WMF)|(talk)]] 12. urbõkuu 2015, kell 18:33 (UTC)
+
+</div>
+<!-- Sõnumi saatis Kasutaja:Elitre (WMF)@metawiki loendisse leheküljel "http://meta.wikimedia.org/w/index.php?title=VisualEditor/Newsletter/Phase_5_wikis&oldid=11481628". -->
