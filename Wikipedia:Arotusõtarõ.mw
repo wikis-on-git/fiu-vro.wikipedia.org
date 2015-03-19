@@ -1497,3 +1497,25 @@ Thank you, [[User:Elitre (WMF)|Elitre (WMF)]] [[User talk:Elitre (WMF)|(talk)]] 
 Hi all,apologies for writing in English, please read [[m:Single_User_Login_finalisation_announcement/Schema_announcement|this page]] for important information and an update involving [[m:Help:Unified login|SUL finalization]], scheduled to take place in one month. Thanks. [[m:User:Keegan (WMF)|Keegan (WMF)]] ([[m:User talk:Keegan (WMF)|talk]]) 13. urbõkuu 2015, kell 19:45 (UTC)
 </div>
 <!-- Sõnumi saatis Kasutaja:Keegan (WMF)@metawiki loendisse leheküljel "http://meta.wikimedia.org/w/index.php?title=User:Keegan_(WMF)/Everyone_but_meta_and_de&oldid=11538208". -->
+
+== VisualEditor coming to this wiki ==
+
+<div lang="en" dir="ltr" class="mw-content-ltr">
+[[File:VisualEditor-logo.svg|right|frameless]]
+''Hello again. Please excuse the English. I would be grateful if you can translate this message!''
+
+<mark>[[:mw:VisualEditor/Portal|'''VisualEditor''']] is coming to all editors at this Wikipedia on Monday, March 30th.</mark> {{int:visualeditor}} is software that allows people to edit articles without needing to learn wikitext code (like typing <nowiki>[[</nowiki> to start a link). You don't have to wait until the deployment to test it; '''you can test {{int:visualeditor}} right now.''' To turn it on, select [[Special:Preferences#mw-prefsection-betafeatures|"Beta"]] in your preferences. Choose "{{int:visualeditor}}" and click save.
+
+Now, when you press the "{{int:vector-view-edit}}" button to edit an article, you will get the new VisualEditor software. To use the wikitext editor, you can press "{{int:visualeditor-ca-editsource}}". (After the deployment, everyone will automatically have the option to use either VisualEditor or the current wikitext editor.) For more information about how to use VisualEditor, see [[:mw:Help:VisualEditor/User guide]]. 
+
+More information about [[:mw:Help:VisualEditor/VE_as_the_main_editor|preparing for VisualEditor is posted here]].
+* It's easier to add templates if you've added [[:mw:TemplateData|TemplateData]] instructions to them. 
+* Please help translate the pages about VisualEditor here and on MediaWiki.org, and its user interface. See [[:mw:VisualEditor/TranslationCentral|VisualEditor TranslationCentral]] for general information. To translate the user guide, go to [[:mw:Help:VisualEditor/User_guide|the MediaWiki.org page]], and select "{{int:translate-tag-translate-link-desc}}". Your language should be available from the drop-down menu on the right. Once you've done this, you'll see the document in English side by side with any translation work already done in your language. You can add new translations or change old translations.  To translate the user interface, you need to create an account at translatewiki.net. Contact me personally if you need help with that.
+* We need your help to improve the software!  Please let us know if you find any problems. You can report issues in [[:phab:|Phabricator, the new bug tracking system]] or on the [[:mw:VisualEditor/Feedback|central feedback page]] on MediaWiki.org. If you notice major issues affecting your project, please leave a note on my talk page.  If it's an emergency (like an unexpected bug causing widespread problems), reach out to James Forrester, the Product Manager, at jforrester@wikimedia.org or on [[:m:IRC|IRC]] in the #mediawiki-visualeditor channel. 
+
+<div style="float: right;">[[:m:VisualEditor/Newsletter/Phase 5 wikis|''Wrong target page? Fix it here'']]''  •  [[:m:VisualEditor/Newsletter|Sign up for VisualEditor's multilingual newsletter]] </div> 
+
+
+Thank you, and happy editing! --[[User:Elitre (WMF)|Elitre (WMF)]] [[User talk:Elitre (WMF)|(talk)]] 19. urbõkuu 2015, kell 19:38 (UTC)
+</div>
+<!-- Sõnumi saatis Kasutaja:Elitre (WMF)@metawiki loendisse leheküljel "http://meta.wikimedia.org/w/index.php?title=VisualEditor/Newsletter/Phase_5_wikis&oldid=11630509". -->
