@@ -1,0 +1,21 @@
+{| cellspacing="2" cellpadding="3" style="width:100%;border:solid #999 1px; background:#fee; margin:0.5em auto;clear:both;"
+|-
+| style="width:50px; text-align:center; background-color:#fff;" | [[Pilt:Keeptidy ask.png|45px|]]
+|style="text-align:center;"|'''Seo artikli (vai pildi) piäsiq ärq kistutama!'''<br />
+Täpsüstüisi kaeq {{#ifeq:{{NAMESPACE}}
+ |{{TALKSPACE}}
+ |arotusõst
+ |[[{{TALKPAGENAME}}|artikli arotusõst]]
+}}, [[Vikipeediä:Artiklidõ kistutaminõ|artiklidõ kistutamisõ]] leheküle päält.
+|}<!--
+--><includeonly>
+
+<!--Katõgooriaq-->
+[[Katõgooria:Kistutaq]]
+</includeonly><!--
+--><noinclude>
+
+<!--Katõgooriaq-->
+[[Katõgooria:Näüdüseq|Kistutaq]]
+[[Katõgooria:Pilte malliq|Kistutaq]]
+</noinclude>
