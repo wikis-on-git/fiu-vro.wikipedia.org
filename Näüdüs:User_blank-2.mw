@@ -1,0 +1,9 @@
+<div style="float: left; border:1px solid #77e0e8; margin: 1px;">
+{| cellspacing="0" style="width: 238px; background: #d0f8ff;"
+| style="width: 50px; height: 50px; background-color: #77e0e8; text-align: center; font-size: 13pt;" | '''{{{1}}}-2'''
+| style="font-size: 8pt; line-height: 1.25em; text-align:center;" | {{{3}}}<div style="background-color: transparent;border-bottom:1px solid #ccc;margin: 3px auto 3px auto;width:95%;height:1px;font-size:1px;"></div>'''[[:Category:User {{{1}}}|{{{2}}} keelen]]''' '''[[:Category:User {{{1}}}-2|keskmäne]]''' tasõq
+|}</div>
+<includeonly>
+[[Category:User {{{1}}}|{{PAGENAME}}]][[Category:User {{{1}}}-2|{{PAGENAME}}]]
+</includeonly>
+<noinclude>[[Katõgooria:Pruukja:keeleq:näüdüseq|{{PAGENAME}}]]</noinclude>
