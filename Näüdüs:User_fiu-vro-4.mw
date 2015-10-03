@@ -1,2 +1,11 @@
 {{User blank-4|fiu-vro|Võro|Taa pruukja mõist '''võro kiilt''' '''nigu imäkiilt'''.}}<noinclude>
 </noinclude>
+
+<div style="float:left; border:1px solid #99b3ff; margin:1px">
+{| cellspacing="0" style="width: 238px; background-color: #FFFF99"
+| style="width: 50px; height: 50px; background-color: #FFFF00; text-align: center; font-size: 13pt" | '''{{{1}}}-4'''
+| style="font-size: 8pt; line-height: 1.25em; text-align:center;" | {{{3}}}<div style="background-color: transparent;border-bottom:1px solid #ccc;margin: 3px auto 3px auto;width:95%;height:1px;font-size:1px;"></div>Taa pruukja mõist '''[[:Category:User fiu-vro|Võro kiilt]]''' '''[[:Category:User fiu-vro-4|nigu imäkiilt]]'''
+|}</div>
+<includeonly>
+[[Category:User fiu-vro|User fiu-vro]][[Category:User fiu-vro-4|User fiu-vro-4]]
+</includeonly>
