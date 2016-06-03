@@ -1,6 +1,6 @@
 {| style="float: right; clear: both; border-collapse: collapse; border-width: 1px; border-style: solid; border-color: gray; margin: 0 0 0.5em 0.5em; width: 300px;"
 |-
-| colspan="2" style="text-align: center; font-weight: bold; padding: 3px; background-color: #EFEFFF; border: 1px solid gray;" | {{{nimi}}}
+| colspan="2" style="text-align: center; font-weight: bold; padding: 3px; background-color: #EFEFFF; border: 1px solid gray;" | {{{Nimi}}}
 |-
 | style="border: 1px solid gray; padding: 1px 5px; vertical-align: top;" | Säädjä
 | style="border: 1px solid gray; padding: 1px 5px; vertical-align: top;" | {{{kiä om säädjä}}}
@@ -43,7 +43,7 @@
 Kopiq alanollõv tekst artiklihe ja täüdäq kotusõq ütsvõrrasusmärke takan. 
 <pre>
 {{Filmiinfo
-| Nimi = Armini
+| Nimi = 
 | Säädjä =
 | Kõrraldajaq =
 | Kirämeheq =
