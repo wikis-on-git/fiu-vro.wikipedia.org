@@ -4,8 +4,6 @@
 |}
 '''Õ''' ('''õ''') om ladina kirä täht, miä om saad o-tähest  diakriitilidse lainõmärgi (tilde) abil. 
 
-HTML-in märgendedäs Õ-tähte <tt>&#x26;Otilde;</tt> ja õ-tähte <tt>&#x26;otilde;</tt>.  
-
 == Võro, seto ja eesti kiil ==
 Võro, seto ja eesti keelen märk seo täht ''õ''-hellü ehk ümärdämäldä puulkorgõt keskvabahellü. Võro ja seto keelen om tegeligult kolmõ esiq sorti ''õ''-hellü, midä kõiki märgitäs täämbädsel pääväl õ-tähega. Nuuq kolm ''õ''-helü varianti ommaq harilik (keskkorgõ ja tagapuulnõ) ehk eesti ''õ'' (nt ''mõts'', ''kõrd''), korgõ ''õ'' ehk ümärdämäldä korgõ keskvabahelü, nt ''sõna, sõs, kõik ''(om märgit ka ''y''-tähega, nt ''syna, sys'') ja taga-''e'' ehk tagapuulnõ ''e''-helü variant, miä kõlas väega ''õ'' muudu ja ''õ''-ga taad ka kirotõdas nt ''tarõ, panõ, kurõkõnõ''.
 
@@ -13,7 +11,7 @@ Võro, seto ja eesti keelen märk seo täht ''õ''-hellü ehk ümärdämäldä p
 
 Võro ja eesti tähistün om õ-täht w- ja ä-tähe vaihõl. Võro ja seto keelen, a niisama ka vad'a keelen ja eesti keele kihnu pruugin om õ-tähte pall'o inämb ku eesti keelen. Taa põhjusõs om tävveline [[vabahelle kokkokõla]], miä nain keelin om ja midä eesti keelen olõ-õi. Vabahelükokkokõla om külh olõman ka soomõ keelen, a kuna sääl olõ-õi ''õ''-hellügi, sis olõ-õi ka taadsamma ''õ''-kokkokõlla, miä tegegi võro, seto, vad'a ja kihnu keele nii õ-rikkas.
 
-Puutrin vai telefonin pruugitas õ-tähe asõmal tõõnõkõrd märke 6 vai ø.
+Puutrin vai telefonin pruugitas õ-tähe asõmal tõõnõkõrd märke 6 vai ø. HTML-märgendüsen andas Õ-tähte edesi <tt>&#x26;Otilde;</tt> ja õ-tähte <tt>&#x26;otilde;</tt>.  
 
 == Koltasaami keel ==
 [[Koltasaami kiil|Koltasaami keelen]] märk õ eesti õ-lõ lähküt keskvabahellü [ɘ]. Nt: ''kõõččmoš'' 'küsümüs'.
