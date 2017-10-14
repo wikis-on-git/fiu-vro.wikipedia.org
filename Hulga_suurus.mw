@@ -1,0 +1,13 @@
+'''Hulga suurus''' vai '''hulga võim''' om [[Hulgateooria]] hulga elonikõ arvo mõistõt kokko võttõv [[mõistõq]], miä om käuki pandõv ka [[Lõpmatu hulk|lõpmatutõ hulkõ]] kõrral.
+
+[[Lõplik hulk|Lõplikõ hulkõ]] puhul peetäs ütes hulga võimu timä elonikõ arvoga, miä om [[tüküarv]]. Lõpmatutõ hulkõ võime kimmäs määramisõs om tarvis tetä tsipa iiltüüd. Takan tulõvaq ärqseletüsõq ni järeldusõq masvaq ka lõplikõ hulkõ kõrral.
+
+== Võrdvõim ja võim ==
+
+Kõkõpäält seletädäs ärq katõ hulga ''A'' ja ''B'' [[Võrdvõim|võrdvõimu]] ehk [[ekvivalentsus|ekvivalentsuse]] mõistõq:
+
+: hulka ''A'' nimitädäs hulgaga ''B'' '''võrdvõimsas''' ehk ekvivalentseks, ku löüdüs [[ütsütene päälekujotus(bijektsioon)]] <br> ''f'': ''A'' <tt>-></tt> ''B''. Seol johtumisõl kirotadas: |''A''| = |''B''| vai ''A''~''B''.
+
+Ku hulk ''A'' om hulgaga ''B'' võrdvõimas, sõs ka [[Funktsiuun (matõmaatiga)|funktsiooni]] ''f'' [[püürdfunktsiuun]] om [[ütsütene päälekujotus(bijektsioon)]], sõs om ka hulk  ''B'' hulgaga  ''A'' võrdvõimas. Lõpligu hulgaq ommaq umavaihõl võrdvõimsaq [[parajahe sõs, ku]] näil om ütepallo elonikkõ.  
+
+Hulka, miä om võrdvõimas [[Tüküarvõ hulk|tüküarvõ hulgaga]] <math>\mathbb{N}</math> (seo om lõpmatu hulk), nimitädäs [[Loenduv hulk|loenduvas hulgas]].  Hulka, miä om kas loenduv või lõplik, nimitädäs [[kõgõ ülembalt loenduv hulk|kõgõ ülembalt loenduvas hulgas]].
