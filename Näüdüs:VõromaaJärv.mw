@@ -1,0 +1,103 @@
+{| cellspacing="5" style="border: 1px solid #b8c8d8; background:#CEDEFF; margin-left:10px; width:280px; float:right; text-align:center;"  
+|<big class="fn">'''{{{nimi|{{PAGENAME}}}}}'''</big>
+{{!}}-
+{{!}} <hr style="margin:4px auto; width:75%;">
+{{!}}-
+{{!}}-
+{{#if:{{{pilt|<noinclude>-</noinclude>}}} | 
+! style="margin-top:0.8em; font-size: 90%; text-align: center;" {{!}} {{{pilt}}} {{#if:{{{pildiallkiri|<noinclude>-</noinclude>}}} | <br />{{{pildiallkiri}}}}} 
+<hr style="margin:4px auto; width:100%;">
+{{!}}
+}}
+
+{{!}}-
+{{#if:{{{kihlkund|<noinclude>-</noinclude>}}} | 
+! style="text-align: left; font-style: normal;" {{!}} Kihlkund: [[{{{kihlkund}}} kihlkund]] 
+{{!}}-
+}}
+{{!}}-
+{{#if:{{{kihlkunnaq|<noinclude>-</noinclude>}}} |
+! style="text-align: left;" {{!}} Kihlkunnaq: {{{kihlkunnaq}}}
+{{!}}-
+}}
+{{!}}-
+{{#if:{{{suurus|<noinclude>-</noinclude>}}} |
+! style="text-align: left;" {{!}} Suurus: {{{suurus}}} 
+{{!}}-
+}}
+{{!}}-
+{{#if:{{{järve_juuskvaq|<noinclude>-</noinclude>}}} |
+! style="text-align: left;" {{!}} Järve juuskvaq: {{{järve_juuskvaq}}} 
+{{!}}-
+}}
+{{!}}-
+{{#if:{{{järve_juusk|<noinclude>-</noinclude>}}} |
+! style="text-align: left;" {{!}} Järve juusk: {{{järve_juusk}}} 
+{{!}}-
+}}
+{{!}}-
+{{#if:{{{järvest_juuskvaq_vällä|<noinclude>-</noinclude>}}} |
+! style="text-align: left;" {{!}} Järvest juuskvaq vällä: {{{järvest_juuskvaq_vällä}}} 
+{{!}}-
+}}
+{{!}}-
+{{#if:{{{järvest_juusk_vällä|<noinclude>-</noinclude>}}} |
+! style="text-align: left;" {{!}} Järvest juusk vällä: {{{järvest_juusk_vällä}}} 
+{{!}}-
+}}
+{{!}}-
+{{#if:{{{pikkus|<noinclude>-</noinclude>}}} |
+! style="text-align: left;" {{!}} Pikkus: {{{pikkus}}} 
+{{!}}-
+}}
+{{!}}-
+{{#if:{{{lakjus|<noinclude>-</noinclude>}}} |
+! style="text-align: left;" {{!}} Lakjus: {{{lakjus}}} 
+{{!}}-
+}}
+{{!}}-
+{{#if:{{{keskmäne_süvvüs|<noinclude>-</noinclude>}}} |
+! style="text-align: left;" {{!}} Keskmäne süvvüs: {{{keskmäne_süvvüs}}} 
+{{!}}-
+}}
+{{!}}-
+{{#if:{{{kõgõ_suurõmb_süvvüs|<noinclude>-</noinclude>}}} |
+! style="text-align: left;" {{!}} Kõgõ suurõmb süvvüs: {{{kõgõ_suurõmb_süvvüs}}} 
+{{!}}-
+}}
+{{!}}-
+{{#if:{{{korgus_merepinnast|<noinclude>-</noinclude>}}} |
+! style="text-align: left;" {{!}} Korgus merepinnast: {{{korgus_merepinnast}}} 
+{{!}}-
+}}
+{{!}}-
+{{#if:{{{vii_hulk|<noinclude>-</noinclude>}}} |
+! style="text-align: left;" {{!}} Vii hulk: {{{vii_hulk}}} 
+{{!}}-
+}}
+{{!}}-
+{{#if:{{{kihlkund|<noinclude>-</noinclude>}}} |
+{{!}} <hr style="margin:4px auto; width:100%;">
+{{!}}-
+}}
+<!--
+{{#if:{{{lat_deg|<noinclude>-</noinclude>}}} |
+{{!}} <small>[[Maapäälidseq koordinaadiq|koordinaadiq]]: {{koord dm|{{{lat_deg|}}}|{{{lat_min|}}}|{{{lat_ik|}}}|{{{lon_deg|}}}|{{{lon_min|}}}|{{{lon_ik|}}}|type:city}}</small>
+{{!}}
+-->
+{{#if:{{{lat_deg|}}}|
+<!--<div style="font-size:90%;">[[Maapäälidseq koordinaadiq|koordinaadiq]]: {{koord|{{{lat_deg|}}}_{{{lat_min|}}}_{{{lat_sec|}}}_N_{{{lon_deg|}}}_{{{lon_min|}}}_{{{lon_sec|}}}_E_type:city|{{{lat_deg|}}}&deg;{{#expr: {{{lat_min|}}}+ {{{lat_sec|}}}/60 round 0}}' N {{{lon_deg|}}}&deg;{{#expr: {{{lon_min|}}}+ {{{lon_sec|}}}/60 round 0}}' E }}  </div></td></tr>
+-->
+<tr><td style="background: #FFFFFF; font-size: 85%;"><div style="position: relative;">
+<div style="position:absolute;top:5;left:5;"><div style="position: absolute;display: block; 
+left:{{#expr: ({{{lon_deg}}} + {{{lon_min}}}/60 - 26.09)*167.0}}px;top:{{#expr: (58.40 - ({{{lat_deg}}} + {{{lat_min}}}/60))*320}}px;width:8px;height:8px;padding:0;">
+[[Pilt:Dot.png|6px|{{{nimi}}}]]</div></div>
+[[Pilt:Voromaa_kihlkunnaq.jpg|270px|]]</div>
+}}
+{{!}}-
+{{#if:{{{lat_deg|}}}|
+{{!}} Kon {{{nimi}}} [[Võromaa]]l om<!--
+ GeoData -->{{#coordinates:primary|{{{lat_deg|}}}|{{{lat_min|}}}|{{{lat_sec|}}}|N|{{{lon_deg|}}}|{{{lon_min|}}}|{{{lon_sec|}}}|W|type:waterbody}}
+{{!}}-
+}}
+|}
