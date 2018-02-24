@@ -97,7 +97,7 @@ left:{{#expr: ({{{lon_deg}}} + {{{lon_min}}}/60 - 26.09)*167.0}}px;top:{{#expr: 
 {{!}}-
 {{#if:{{{lat_deg|}}}|
 {{!}} Kon {{{nimi}}} [[Võromaa]]l om<!--
- GeoData -->{{#coordinates:primary|{{{lat_deg|}}}|{{{lat_min|}}}|{{{lat_sec|}}}|N|{{{lon_deg|}}}|{{{lon_min|}}}|{{{lon_sec|}}}|W|type:waterbody}}
+ GeoData -->{{#coordinates:primary|{{{lat_deg|}}}|{{{lat_min|}}}|{{{lat_sec|}}}|N|{{{lon_deg|}}}|{{{lon_min|}}}|{{{lon_sec|}}}|E|type:waterbody}}
 {{!}}-
 }}
 |}
