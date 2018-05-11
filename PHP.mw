@@ -1,0 +1,49 @@
+PHP (PHP: Hypertext Preprocessor) om skriptmiskiil, midä pruugitas päämidselt serveripoolitsin lahenduisin jovvuliidsi võrgulehti luumisõl. PHP Tukõ tsihtorienteeritüt programmiirmist, teedüskokõga läbikäümist ni moodulidõ kaudu viil pall’osit protokollõ ja tarvituisi.
+Vaba lättekuud ja võimalus lihtsähe köütäq PHP kuudi HTML-iga om tennüq PHP-st väega populaarsõ riista jovvuliidsi võrgulehti loomisõl. Levinüq om kogohus midä kutsutas tarvituisi esimäidsi kirätähti perrä LAMP (Linus, Apache, MySQL, PHP).
+
+'''KIIL'''
+
+PHP kiil om päämidselt lainat C, Java ja Perl keelist.
+PHP koodin parsitasõq õnnõ eräle märgidüq jupiq failist. Kõik, miä um välänpuul naid märke, saadõtas õkva programmi välläandi.
+
+* Hariligult pruugitas PHP jao alostusmärgis <?php ja lõpumärgis ?>. Võimalik om pruukiq kah märkiq <? ja ?>. PHP 7 pääl ei saaq pruukiq märke <% ja %>, ni <script language”PHP”> ja </script>. 
+
+* Muutujanimeq nakkasõq dollarimärgiga (näütüses: $muutuja) ni ommaq suurõ ja väiku tähe tundliguq. Klassiq ja funktsiooniq ommaq tuuvasta ilma $-märgildä ja olõ-iq suurõ ja väiku tähe tundliguq. 
+
+* Seletüisi ettekandmisõs om kolm võimalust: nakkas /* märgiga ja lõpõs */ märgiga, riaseletüs nakkas kas # vai // märgiga. 
+
+* Egä käsk piät lõpma punktkomaga. 
+'''Koodi näüdüs:'''
+
+* Teksti näütämine 
+
+<?php
+// Näütäs ekraanil teksti Tereq, ilm!
+echo “Tereq, ilm!”;
+?>
+
+* Funktsiooni pruukminõ 
+<?php
+function nimi($nimi) {
+return “Mu nimi om $nimi”;
+}
+echo nimi(“Rauno Avel”); // Näütäs “Mu nimi om Rauno Avel"
+?>
+* Klassi puurkminõ 
+<?php
+class rehkendäq {
+function __construct($a, $b) {
+         $this->a = $a;
+$this->b = $b;
+    }
+public function arvaq_kokko() {
+return $this->a + $this->b;
+}
+public function arvaq_maaha() {
+return $this->a - $this->b;
+}
+}
+$r = new rehkendäq(10,6);
+echo "kokko om  “. $r->arvaq_kokko() . ‘, a maaha arvatõn om ‘ . $r->arvaq_maaha();
+// vastus ekraanil om “Kokko om 16, a maaha arvatõn om 4"
+?>
