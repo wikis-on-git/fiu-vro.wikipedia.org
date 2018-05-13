@@ -32,7 +32,7 @@ PHP koodin parsitasõq õnnõ eräle märgidüq jupiq failist. Kõik, miä um v�
     function nimi($nimi) { 
         return "Mu nimi om $nimi"; 
     } 
-    echo nimi("Rauno Avel"); // Näütäs "Mu nimi om Rauno Avel" 
+    echo nimi("Rauno"); // Näütäs "Mu nimi om Rauno" 
 ?>
 </syntaxhighlight>
 
