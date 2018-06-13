@@ -1,20 +1,22 @@
-Massinopminõ om puutritiidüse haro, miä and puutrilõ opmisõ jovvu ilma näid õkva tuus programmiirmäldäq.
-Arõnõsi välla mustri ärq tundmisõst ni tehismõistusõst. Massinõpminõ uur’ algoritmõ, miä mõistvaq oppiq ni
+[[Massinopminõ]] om puutritiidüse haro, miä and puutriilõ opmisõ jovvu ilma näid õkva tuus programmiirmäldäq.
+Massinopminõ arõsi välla mustri ärq tundmisõst ni kunstmõistusõst. Massinopminõ uur algoritmõ, miä mõistvaq oppiq ni
 tetäq andmidõ perrä ettearvamist.
 
-Massinopminõ jagonõs klassigalidsõlt kolmõs: juhit op’minõ, juht’mäldäq op’minõ ni meelütüsop’minõ.
-Juhit op’minõ om massinopmisõ ülesannõq, kon algoritm tulõtas mudõli tähüstedüide andmidõ perrä. Andmõq
-ommaq jaeduq triin’mise ni testimise andmis. Triin’mise andmõq ommaq mudõli tegemise jaos, hariligult
+Massinopminõ jagonõs klassigalidsõlt kolmõs: juhit opminõ, juhtmaldaq opminõ ni meelütüsopminõ.
+Juhit opminõ om massinopmisõ ülesannõq, kon algoritm tulõtas mudõli tähüstedüide andmidõ perrä. Andmõq
+ommaq jaeduq triinmise ni testimise andmis. Triinmise andmõq ommaq mudõli tegemise jaos, hariligult
 80% andmist. Testimise andmõq (20%) hindasõq mudõli häädust. Näütüses: Palga arvaminõ, kui andmin
-om seen vannus, sugu, elokotus, ettevõtõq, ammet’(N: arhitekt’). Tõsõs - käekirä selges tegemine.
-Juht’maldaq op’minõ om massinopmisõ ülesannõq, kon algoritm ots’ andmist ehitüst vai kõrraperrä. Andmõq
+om seen vannus, sugu, elokotus, ettevõtõq, ammõt (näütüses: arhitekt). Tõsõs - käekirä selges tegemine.
+Juhtmaldaq opminõ om massinopmisõ ülesannõq, kon algoritm ots andmist ehitüst vai kõrraperrä. Andmõq
 olõ-õi tähüstedüq. Näütüses: andmidõ tsähälikku jaotaminõ - poodikorvi perrä hinnadaq, kas kundõl om
-latsi? Kas kundõ om miis’ vai naanõ? Kas kundõ om abielon/paarin? Tuud tiidmist saa pruukiq reklaami
+latsi? Kas kundõ om miis vai naanõ? Kas kundõ om abielon/paarin? Tuud tiidmist saa pruukiq reklaami
 jaos.
 
-Meelütüsop’minõ om massinopmisõ ülesannõq, kon algoritm kõnõlõs elävä keskkunnagaq ni pruuv’ joudaq
+Meelütüsopminõ om massinopmisõ ülesannõq, kon algoritm kõnõlõs elävä keskkunnagaq ni pruuv joudaq
 kimmä tsihiniq. Elläv keskkund and positiivsõt vai negatiivsõt vastamõio algoritmi üllenpidämisele. Näutüses:
-auto juht’minõ vai mängo mäng’mine.
+auto juhtminõ vai mängo mängmine.
 
 Väega hää tutvastegemine om näütüses siin: https://pungas.ee/masinope-mittetehniline-ulevaade (Eesti
 keelen, Luuja: Taivo Pungas).
+
+[[katõgooria:puutritiidüs]]
