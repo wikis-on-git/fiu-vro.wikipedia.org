@@ -152,3 +152,18 @@ Unfortunately, because of some limitations in [[mw:Manual:What is MediaWiki?|Med
 This project may be postponed if necessary.  You can [[wikitech:Switch Datacenter#Schedule for 2018 switch|read the schedule at wikitech.wikimedia.org]]. Any changes will be announced in the schedule.  There will be more notifications about this.  '''Please share this information with your community.''' /<span dir=ltr>[[m:User:Johan (WMF)|User:Johan(WMF)]] ([[m:User talk:Johan (WMF)|talk]])</span>
 </div></div> 6. süküskuu 2018, kell 13:33 (UTC)
 <!-- Sõnumi saatis Kasutaja:Johan (WMF)@metawiki loendisse leheküljel "https://meta.wikimedia.org/w/index.php?title=Distribution_list/Global_message_delivery&oldid=18333489". -->
+
+== The GFDL license on Commons ==
+
+<div class="plainlinks mw-content-ltr" lang="en" dir="ltr"><div class="plainlinks">
+
+This has been posted here because your wiki allows local file uploads. {{int:please-translate}}.
+
+Commons [[c:Commons:Village pump/Proposals/Archive/2018/08#No longer allow GFDL for some new uploads|will no longer allow]] uploads of photos, paintings, drawings, audio and video that use the GFDL [[c:Commons:Licensing|license]] and no other license. This starts after 14 October. Textbooks, manuals and logos, diagrams and screenshots from GFDL software manuals that only use the GFDL license are still allowed. Files licensed with both GFDL and an accepted license like Creative Commons BY-SA are still allowed.
+
+There is no time limit to move files from other projects to Commons. The licensing date is all that counts. It doesn't matter when the file was uploaded or created. Every wiki that allows local uploads should check if bots, scripts and templates that are used to move files to Commons need to be updated. Also update your local policy documentation if needed.
+
+The decision to allow files that only have a GFDL license, or not allow them, is a decision all wikis can make for themselves. Your wiki can decide to continue allowing the files that Commons will no longer allow after 14 October. If your wiki decides to continue to allow files after 14 October that Commons will no longer allow those files should not be moved to Commons. — [[User:Alexis Jazz|Alexis Jazz]], <small>distributed by [[User:Johan (WMF)|Johan]] using [[m:Special:MyLanguage/MassMessage|MassMessage]]</small>
+
+</div></div> 20. süküskuu 2018, kell 18:11 (UTC)
+<!-- Sõnumi saatis Kasutaja:Johan (WMF)@metawiki loendisse leheküljel "https://meta.wikimedia.org/w/index.php?title=User:Alexis_Jazz/GFDL_MassMessage/Distribution&oldid=18392882". -->
