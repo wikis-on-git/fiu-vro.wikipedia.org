@@ -7,6 +7,7 @@ Täpsüstüisi kaeq {{#ifeq:{{NAMESPACE}}
  |arotusõst
  |[[{{TALKPAGENAME}}|artikli arotusõst]]
 }}, [[Vikipeediä:Artiklidõ kistutaminõ|artiklidõ kistutamisõ]] leheküle päält.
+{{#if:{{{1|}}}|Põhjus: '''{{{1}}}'''}} 
 |}<!--
 --><includeonly>
 
