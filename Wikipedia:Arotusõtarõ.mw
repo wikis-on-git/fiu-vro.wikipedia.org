@@ -989,3 +989,22 @@ Unfortunately, because of some limitations in [[mw:Manual:What is MediaWiki?|Med
 
 This project may be postponed if necessary.  You can [[wikitech:Switch_Datacenter#Schedule_for_2020_switch|read the schedule at wikitech.wikimedia.org]]. Any changes will be announced in the schedule.  There will be more notifications about this. A banner will be displayed on all wikis 30 minutes before this operation happens. '''Please share this information with your community.'''</div></div> -- <span dir=ltr>[[m:User:Trizek (WMF)|Trizek (WMF)]] ([[m:User talk:Trizek (WMF)|talk]])</span>  21. rehekuu 2020, kell 17:10 (UTC)
 <!-- Sõnumi saatis Kasutaja:Trizek (WMF)@metawiki loendisse leheküljel "https://meta.wikimedia.org/w/index.php?title=Distribution_list/Global_message_delivery&oldid=20519839". -->
+
+== AbuseFilter notice: rmspecials() will no longer remove whitespace when used in filters ==
+
+<div lang="en" dir="ltr" class="mw-content-ltr">
+{{int:Hello}},
+
+Apologies if you are not reading this message in your native language. {{Int:Please-translate}}.
+
+We are making a change to the [[mw:Extension:AbuseFilter|AbuseFilter extension]], which may impact the behavior of some existing filters. The <code>rmspecials()</code> function currently removes spaces in addition to special characters. We will change it such that it will only remove special characters. The existing <code>rmwhitespace()</code> can be used to remove spaces whenever applicable.
+
+As reported on https://phabricator.wikimedia.org/P12854 we believe at least one filter on your wiki has been identified to use the <code>rmspecials()</code> function. Please consider updating these filters by wrapping <code>rmspecials()</code> inside <code>rmwhitespace()</code> like this: <code>rmwhitespace(rmspecials(....))</code>
+
+We need you to update the relevant filters within 2 weeks of this notice. If one of the community members with proper access is volunteering to take this on, we ask them to please respond below and notify User:Huji in their response or in the edit summary. If we don't hear back from you within 2 weeks, [[:m:User:Huji|Huji]] will edit the relevant filters on your wiki per the global [[:m:Abuse filter maintainer|abuse filter maintainer]] policy, to ensure the filters won't break once the change is implemented. Thank you for your consideration!
+
+Best regards,
+
+--[[User:Huji]] ([[:m:User talk:Huji|{{int:Talkpagelinktext}}]]) 26. rehekuu 2020, kell 23:48 (UTC), sent via [[:m:User:MediaWiki_message_delivery|MediaWiki message delivery]]
+</div>
+<!-- Sõnumi saatis Kasutaja:Martin Urbanec@metawiki loendisse leheküljel "https://meta.wikimedia.org/w/index.php?title=User:Martin_Urbanec/List&oldid=20579648". -->
