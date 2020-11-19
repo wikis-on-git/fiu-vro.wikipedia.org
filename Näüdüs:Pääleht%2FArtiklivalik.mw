@@ -1,0 +1,11 @@
+<includeonly>{{#ifeq:{{BASEPAGENAME}}|Valitud artikkel|<templatestyles src="Pääleht/kujundus.css" /><div class="ovdaboksa" style="grid-template-rows: auto;" /><div id="valitud_artikkel" class="sisdoalluboksa" style="grid-column:1; border:1px dashed red;">}}
+</includeonly>{{#if:{{{pilt|}}}|<div class="pilt {{{hápmi|gierdupilt}}}">
+[[File:{{{pilt|}}}|500px]]
+</div>}}
+<div class="tekst {{#if:{{{pilt|}}}||ii_pilt}}">
+<h2>{{LOCALWEEK}}. nädala artikkel</h2>
+{{{tekst|}}}
+
+* [[{{{artikkel|{{{artikkel|}}}}}}|Loe edasi]]
+* {{#if:{{{katõgooria|}}}|[[:Katõgooria:{{{katõgooria}}}|{{{eanet|Eanet artihkkalat}}}]]}}
+</div><includeonly>{{#ifeq:{{BASEPAGENAME}}|Valitud artikkel|</div></div>}}</includeonly>
