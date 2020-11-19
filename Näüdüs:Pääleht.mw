@@ -1,0 +1,84 @@
+__NOEDITSECTION__ __NOTOC__
+<templatestyles src="Pääleht/kujundus.css" />
+<div class="ovdaboksa">
+<div id="header1">
+<div>
+Bures boahtin<br />
+<span class="stuoris">võrokeeline<br />Vikipeediä!</span><br />
+Friddja diehtosátnegirji!
+</div>
+</div>
+<div class="sisdoallu">
+<div id="valitud_artikkel" class="sisdoalluboksa">
+{{Wikipedia:Valitud artikkel/Valik {{ #expr: {{#time: W }}}}}}
+</div>
+<div id="dihtetgo_ahte" class="sisdoalluboksa">
+{{Pääleht/Kas teadsid}}
+</div>
+<div id="beaivvi_pilt">
+<div class="h2"><h2>Valitud pilt</h2></div>
+[[{{#invoke:Valitud pilt|pildinimi}}|1600px|center]]
+<div class="pildiallkiri">{{#invoke:Valitud pilt|pildiallkiri}}</div>
+</div>
+<div id="eara_gielaide" class="sisdoalluboksa">
+<h2>Vikipeediä tõisin keelin</h2>
+
+{{Soomõ-ugri vikipeediäq}}
+
+* '''Kõik Vikipeediäq lövvät''' [[meta:List of Wikipedias|Vikipeedijide tävveligust nimekiräst]]
+</div>
+</div>
+<div id="header2">
+<div>
+Odne lea [[{{LOCALDAYNAME}}]],<br />[[{{LOCALMONTHNAMEGEN}} {{LOCALDAY}}.]] b. [[{{LOCALYEAR}}]].
+
+Davvisámegielat Wikipedias<br />leat dál '''[[Special:Statistics|{{NUMBEROFARTICLES}} artihkkala]]'''.
+</div>
+</div>
+<div class="meta">
+<div id="wikipedia_birra" class="metaboksa">
+<h2>Vikipeediä tutvustus</h2>
+Seo om [[Vikipeediä]] '''[[võro kiil|võrokeeline]]''' kodolehekülg. Aśa mõtõq om üles ehitäq vaba võrokeeline entsüklopeediä. Vikipeediä om olõman hulgan keelin ja mitmõn keelen om tä sama hää vai parõmb ku trüküentsüklopeediäq. Võro Vikipeediän om parhillaq käsil <font color="#0000FF">'''[[Special:Statistics|{{NUMBEROFARTICLES}}]]'''</font> artiklit. Egäüts või siiäq esiq vahtsit artiklit kirotaq ja olõmanolõvit parandaq. Tuu jaos piä ei nimega sisse minemä. Kaeq [[Vikipeediä tutvustus|Vikipeediä tutvustust]], [[Wikipedia:Lühkü pruukmisoppus|pruukmisoppust]], [[Wikipedia:Vikipeediä säädüseq|säädüisi]], [[Sagõhõmbaq küsümüseq|sagõhõmpi küsümüisi]] ja nakkaq kirotama!
+
+[[Lühkü pruukmisoppus|'''Lühkü pruukmisoppus''']]: olõmanolõvidõ artiklidõ manoq veeväq <b><font color="#0000FF">sinidseq</font></b> lingiq; <b><font color="#FF0000">verevile</font></b> lingele om artikli mõtõld, a tuu tulõ viil kirotaq. Verevät linki klõpsatõn saat leheküle pääle, kohe saat kirotaq vahtsõ artikli.
+
+* [[Wikipedia:Lühkü pruukmisoppus|Loeq edesi]]
+</div>
+<div id="veahkehit" class="metaboksa hlist">
+<h2>Mo sáhtát veahkehit</h2>
+Wikipedia dárbbaša du veahki! Rukses liŋka mearkkaša dan, ahte fáttá birra ii leat vuos álgga&shy;huvvon artihkal.
+
+Maid don, vaikko dus ii livččii geava&shy;headdje&shy;dovddaldat, sáhtát ráhkadit Wikipediai áibbas ođđa artihkkaliid dahje viiddidit muhtin artihkkala. Sáhtát geahčastit Wikipedia bargo&shy;kantuvrra jus dus lea beroštupmi. Das vuolde leat muhtin artihkal&shy;sávaldagat:
+
+* [[Logijahki]]
+* [[Sápmi Pride‏]]
+* [[Girji‏‎]]
+* [[Jikŋon II]]
+* [[Maxida Märak]]
+* [[Suõmmkar]]
+* [[Girjerádju‏‎]]
+* [[NUTS‏‎]]
+* [[Mumenat]]
+* [[Poava‏]]
+* [[Fylkasátnejođiheaddji‏‎]]
+* [[Giemajávrri dálongielda‏‎]]
+</div>
+<div id="wikimedia-proseavttat" class="metaboksa">
+<h2>Wikimedia-prošeavttat</h2>
+<div class="mw-collapsible mw-collapsed">
+<div class="logo commons">[[c:|'''Wikimedia Commons'''<br />Media&shy;fiillat]]</div>
+<div class="logo wikidata">[[d:|'''Wikidata'''<br />Friddja diehto&shy;vuođđu]]</div>
+<div class="logo wiktionary mw-collapsible-content">[//et.wiktionary.org/ '''Vikisõnaraamat'''<br />Friddja sátne&shy;girji]</div>
+<div class="logo wikisource mw-collapsible-content">[//et.wikisource.org/ '''Vikitekstiq'''<br />Friddja gáldo&shy;teavsttat]</div>
+<div class="logo wikibooks mw-collapsible-content">[//et.wikibooks.org/ '''Vikiraamaduq'''<br />Friddja girjjit]</div>
+<div class="logo wikiquote mw-collapsible-content">[//et.wikiquote.org/ '''Vikitsitaadiq'''<br />Friddja sitáhtat]</div>
+<div class="logo wikiversity mw-collapsible-content">[//wikiversity.org/ '''Wiki&shy;versi&shy;tehta'''<br />Friddja oahppo&shy;reaiddut]</div>
+<div class="logo wikivoyage mw-collapsible-content">[//wikivoyage.org/ '''Wiki&shy;voyage'''<br />Friddja mátke&shy;oahpis]</div>
+<div class="logo wikispecies mw-collapsible-content">[[species:|'''Wikispecies'''<br />Šlájat]]</div>
+<div class="logo metawiki mw-collapsible-content">[[m:|'''Meta-Viki'''<br />Wikimedia]]</div>
+<div class="logo incubator mw-collapsible-content">[[incubator:|'''Incubator'''<br />Unna prošeavttažat]]</div>
+<div class="mw-collapsible-toggle" style="text-align:center;"><span class="bajas">Čájet unnit</span><span class="vulos">Buot prošeavttat</span></div>
+</div>
+</div>
+</div>
+</div>
