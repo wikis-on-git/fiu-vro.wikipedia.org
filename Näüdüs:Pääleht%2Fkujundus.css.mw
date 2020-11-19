@@ -1,0 +1,362 @@
+.ovdaboksa {
+	width: 100%;
+	font-family:"Raleway", sans-serif;
+	font-weight: 500;
+	line-height: 2em;
+	color: #535353;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Raleway", sans-serif;
+	font-weight: 600;
+	border: 0;
+}
+#header1, #header2, .sisdoallu, .meta {
+	width: 100%;
+}
+#header1, #header2 {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	background-color: #c2dba8;
+	grid-row: 1;
+}
+#header1 .stuoris {
+	font-size: 200%;
+	font-weight: bold;
+}
+#header2 {
+	position: relative;
+}
+#header2 div {
+	margin: 0 auto;
+	font-size: smaller;
+}
+#header2 div::before {
+	content: "";
+	position: absolute;
+	border-left: 2px solid #fff;
+	height: 40%;
+	top: 30%;
+	left: 0;
+}
+#header2 a {
+	color: #000;
+}
+.meta {
+	background-color: #e9f3de;
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/9/9b/%C3%81rvu-minsttar4b.svg");
+	background-repeat: repeat-x;
+	background-position: bottom center;
+	padding-bottom: 4vw;
+	background-size: 4vw;
+	border-bottom: 1vw solid #e9f3de;
+}
+.sisdoalluboksa, .metaboksa {
+	padding: 4vw 4vw 0 4vw;
+}
+#valitud_artikkel .tekst {
+	padding-left: 4vw;
+}
+#valitud_artikkel .tekst.ii_pilt {
+	padding-left: 0;
+}
+#dihtetgo_ahte .tekst {
+	padding-right: 4vw;
+}
+#dihtetgo_ahte ul, #dihtetgo_ahte ul li {
+	list-style-type: none;
+	list-style-image: none;
+	position: relative;
+}
+#dihtetgo_ahte ul li::before {
+	content: "… ";
+	position: absolute;
+	left: -1em;
+}
+#valitud_artikkel .pilt, #dihtetgo_ahte .pilt {
+	flex-basis: auto;
+	width: 300px;
+}
+.pilt img {
+	max-width: 300px;
+	max-height: 300px;
+	width: 15vw;
+	height: 15vw;
+	object-fit: cover;
+	border: 1px solid #ccc;
+}
+.gierdupilt img {
+	border-radius: 50%;
+}
+.kvadrahtapilt img {
+	border-radius: 1vw;
+}
+.rektangelpilt img, body.skin-minerva .gierdupilt img, body.skin-minerva .kvadrahtapilt img {
+	border-radius: 1vw;
+	width: auto;
+	height: auto;
+}
+#valitud_artikkel, #dihtetgo_ahte {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+#valitud_artikkel {
+	flex-direction: row;	
+}
+#valitud_artikkel ul, #eara_gielaide > ul {
+	list-style-image: url("//upload.wikimedia.org/wikipedia/commons/e/e9/%C3%81rvu-ruon%C3%A1-njuolla-o.svg");
+	margin-left: 16px;
+}
+#valitud_artikkel ul li, #wikipedia_birra ul li, #eara_gielaide > ul li {
+	padding-left: 1vw;
+}
+#dihtetgo_ahte {
+	flex-direction: row-reverse;
+}
+#beaivvi_pilt {
+	margin-top: 4vw;
+	position: relative;
+}
+#beaivvi_pilt .h2 {
+	padding: 0 4vw;
+}
+#beaivvi_pilt img {
+	width: 100%;
+	max-height: 20vw;
+	transition: all 1s ease;
+	object-fit: cover;
+}
+#beaivvi_pilt:hover img {
+	max-height: 32vw;
+}
+#beaivvi_pilt .pilttekst {
+	position: absolute;
+	left: 1vw;
+	bottom: 1vw;
+	padding: 0.5vw;
+	background: rgba(255,255,255,0.8);
+	border-radius: 0.5vw;
+	max-width: 25vw;
+}
+body.skin-minerva #beaivvi_pilt .pilttekst {
+	position: relative;
+	padding: 0 4vw;
+	background: none;
+	border-radius: 0;
+	max-width: none;
+	left: 0;
+	bottom: 0;
+}
+#eara_gielaide div {
+	font-family: sans-serif;
+}
+#wikipedia_birra ul {
+	list-style-image: url("//upload.wikimedia.org/wikipedia/commons/2/24/%C3%81rvu-r%C3%A1nes-njuolla-o.svg");
+	margin-left: 16px;
+}
+#veahkehit ul {
+	font-size: smaller;
+}
+.logo {
+	background-color: transparent;
+	background-image: linear-gradient(90deg, #e9f3de 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 70%, #e9f3de 100%);
+	transition: background-color 200ms;
+	max-width: 25em;
+	margin: 0 auto;
+	padding: 0.5rem 0;
+}
+.logo:hover {
+	background-color: #c2dba8;
+}
+.logo a, .logo a.extiw, .logo a.external {
+	color: #000;
+	display: block;
+	text-decoration: none;
+	padding-left:70px;
+	background-position: left center;
+	background-repeat: no-repeat;
+	background-size: 50px;
+	font-weight: 500;
+}
+.logo a b, .logo a:hover b {
+	text-decoration: none;
+}
+.commons a, .commons a.external {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/7/76/Notification-icon-Commons-logo.svg");
+}
+.wikidata a, .wikidata a.external {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/6/67/Notification-icon-Wikidata-logo.svg");
+}
+.incubator a, .incubator a.external {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/1/1a/Notification-icon-Incubator-logo.svg");
+}
+.metawiki a, .metawiki a.external {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/8/86/Notification-icon-Meta-logo.svg");
+}
+.wikibooks a, .wikibooks a.external {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/e/e0/Notification-icon-Wikibooks-logo.svg");
+}
+.wikinews a, .wikinews a.external {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/5/57/Notification-icon-Wikinews-logo.svg");
+}
+.wikiquote a, .wikiquote a.external {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/5/5a/Notification-icon-Wikiquote.svg");
+}
+.wikisource a, .wikisource a.external {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/5/5a/Notification-icon-Wikisource-logo.svg");
+}
+.wikispecies a, .wikispecies a.external {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/0/08/Notification-icon-Wikispecies-logo.svg");
+}
+.wikiversity a, .wikiversity a.external {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/0/01/Notification-icon-Wikiversity-logo.svg");
+}
+.wikivoyage a, .wikivoyage a.external {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/4/47/Notification-icon-Wikivoyage-logo.svg");
+}
+.wiktionary a, .wiktionary a.external {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/a/ac/Notification-icon-Wiktionary-logo.svg");
+}
+#wikimedia-proseavttat .mw-collapsible-toggle {
+	float: none;
+	text-align: center;
+	color: #000;
+	margin:1vw auto;
+	max-width: 15em;
+	box-shadow: 0 0 1em #ccc;
+	border-radius: 1em;
+}
+#wikimedia-proseavttat .mw-collapsible-toggle:focus {
+	outline: none;
+}
+body.skin-minerva .mw-collapsible-toggle {
+	display: none;
+}
+#wikimedia-proseavttat .mw-collapsible-toggle .vulos,
+#wikimedia-proseavttat .mw-collapsed .mw-collapsible-toggle .bajas {
+	display: none;
+}
+#wikimedia-proseavttat .mw-collapsible-toggle .bajas,
+#wikimedia-proseavttat .mw-collapsed .mw-collapsible-toggle .vulos {
+	display: block;
+	margin-left: 20px;
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 13px;
+}
+.bajas {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/e/eb/%C3%81rvu-r%C3%A1nes-njuolla-b.svg");
+}
+.vulos {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/5/52/%C3%81rvu-r%C3%A1nes-njuolla-v.svg");
+}
+@media (max-width:1200px) {
+	.ovdaboksa {
+		display: flex;
+		flex-direction: column;
+		font-size: 100%;
+	}
+	#header1 {
+		background-image: url("//upload.wikimedia.org/wikipedia/commons/d/d8/%C3%81rvu-minsttar1v.svg");
+		background-repeat: repeat-x;
+		background-position: top center;
+		background-size: 4vw;
+		background-attachment: scroll;
+		padding-top: 4vw;
+		border-top: 0.5vw solid #c2dba8;
+	}
+	#header1 div {
+		margin: 1em auto;
+	}
+	#header2 {
+		display: none;
+	}
+	.meta {
+		background-image: url("//upload.wikimedia.org/wikipedia/commons/a/a5/%C3%81rvu-minsttar4n.svg");
+		background-repeat: repeat-x;
+		background-position: top center;
+		padding-bottom: 0;
+		padding-top: 4vw;
+		background-size: 4vw;
+		border-top: 1vw solid #e9f3de;
+		border-bottom: none;
+	}
+	.sisdoalluboksa, .metaboksa {
+		padding: 2vw 2vw 0 2vw;
+	}
+	#valitud_artikkel .tekst {
+		padding-left: 2vw;
+	}
+	#dihtetgo_ahte .tekst {
+		padding-right: 2vw;
+	}
+	#valitud_artikkel .pilt, #dihtetgo_ahte .pilt {
+		width: 190px;
+	}
+	.gierdupilt img {
+		width: 170px;
+		height: 170px;
+	}
+	.rektangelpilt img {
+		width: 170px;
+		height: auto;
+	}
+	#beaivvi_pilt .pilttekst {
+		position: relative;
+		padding: 0 2vw;
+		background: none;
+		border-radius: 0;
+		max-width: none;
+		left: 0;
+		bottom: 0;
+	}
+}
+@media (min-width:1200px) {
+	.ovdaboksa {
+		display: grid;
+		grid-template-columns: auto 35%;
+		grid-template-rows: 15em auto;
+		flex-direction: column;
+		font-size: 13pt;
+	}
+	#header1 {
+		background-image: url("//upload.wikimedia.org/wikipedia/commons/d/d2/%C3%81rvu-minsttar4o.svg"),
+				url("//upload.wikimedia.org/wikipedia/commons/0/04/%C3%81rvu-minsttar3o.svg"),
+				url("//upload.wikimedia.org/wikipedia/commons/9/92/%C3%81rvu-minsttar2o.svg"),
+				url("//upload.wikimedia.org/wikipedia/commons/8/81/%C3%81rvu-minsttar1o.svg");
+		background-repeat: repeat-y;
+		background-position: 4rem, 6rem, 8.5rem, 10.5rem;
+		background-size: 2rem;
+	}
+	body.skin-vector #header1 {
+		background-position: 14.5rem, 16.5rem, 19.5rem, 22rem;
+		background-attachment: fixed;
+	}
+	#header1 div {
+		margin-left: 17em;
+	}
+	#header1, .sisdoallu {
+		grid-column: 1;
+	}
+	#header2, .meta {
+		grid-column: 2;
+	}
+	#eara_gielaide {
+		display: grid;
+		grid-template-columns: 49% auto 49%;
+	}
+	#eara_gielaide h2 {
+		grid-column: span 3;
+	}
+	#eara_gielaide #samegielat {
+		grid-column: 1;
+	}
+	#eara_gielaide #rannjagielat {
+		grid-column: 3;
+	}
+	#eara_gielaide ul {
+		grid-column: span 3;
+		margin: 0 auto;
+	}
+}
