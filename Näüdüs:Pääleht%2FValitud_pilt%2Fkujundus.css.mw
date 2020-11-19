@@ -1,0 +1,16 @@
+tr .pilt img {
+	width: 15vw;
+	max-height: 5.5vw;
+	transition: all 1s ease;
+	object-fit: cover;
+}
+tr:hover .pilt img {
+	max-height: 8.8vw;
+}
+.pilttekst {
+	background-color: #d2ffd2;
+}
+.pilttekst.empty {
+	background-color: #fdd;
+	font-style: italic;
+}
