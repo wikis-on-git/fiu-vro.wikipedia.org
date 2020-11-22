@@ -69,20 +69,20 @@ break=no
 *[http://translatewiki.net/w/i.php?title=Main_Page&setlang=fiu-vro Vikikeskkunna ümbrepandminõ võro kiilde]
 </div>
 <div id="wikimedia-proseavttat" class="metaboksa">
-<h2>Wikimedia tegemiseq</h2>
+<h2>Wikimedia tegemiisi</h2>
 <div class="mw-collapsible mw-collapsed">
-<div class="logo commons">[[c:|'''Wikimedia Commons'''<br />Failivaramu]]</div>
-<div class="logo wikidata">[[d:|'''Wikidata'''<br />Andmebaas]]</div>
-<div class="logo wiktionary mw-collapsible-content">[//et.wiktionary.org/ '''Vikisõnaraamat'''<br />Vaba sõnastik]</div>
-<div class="logo wikisource mw-collapsible-content">[//et.wikisource.org/ '''Vikitekstiq'''<br />Vabad tekstid]</div>
-<div class="logo wikibooks mw-collapsible-content">[//et.wikibooks.org/ '''Vikiraamaduq'''<br />Vabad õpikud]</div>
-<div class="logo wikiquote mw-collapsible-content">[//et.wikiquote.org/ '''Vikitsitaadiq'''<br />Tsitaadikogu]</div>
-<div class="logo wikiversity mw-collapsible-content">[//wikiversity.org/ '''Wiki&shy;versi&shy;tehta'''<br />Õpikeskkond]</div>
+<div class="logo commons">[[c:|'''Wikimedia Commons'''<br />Failikogo]]</div>
+<div class="logo wikidata">[[d:|'''Wikidata'''<br />Andmõbaas]]</div>
+<div class="logo wiktionary mw-collapsible-content">[//et.wiktionary.org/ '''Vikisõnaraamat'''<br />Vaba sõnaraamat]</div>
+<div class="logo wikisource mw-collapsible-content">[//et.wikisource.org/ '''Vikitekstiq'''<br />Vabaq tekstiq]</div>
+<div class="logo wikibooks mw-collapsible-content">[//et.wikibooks.org/ '''Vikiraamaduq'''<br />Vabaq opiraamaduq]</div>
+<div class="logo wikiquote mw-collapsible-content">[//et.wikiquote.org/ '''Vikitsitaadiq'''<br />Tsitaadikogo]</div>
+<div class="logo wikiversity mw-collapsible-content">[//wikiversity.org/ '''Wiki&shy;versi&shy;tehta'''<br />Opikeskkund]</div>
 <div class="logo wikivoyage mw-collapsible-content">[//wikivoyage.org/ '''Wiki&shy;voyage'''<br />Reisijuht]</div>
-<div class="logo wikispecies mw-collapsible-content">[[species:|'''Wikispecies'''<br />Elusolendite nimistu]]</div>
+<div class="logo wikispecies mw-collapsible-content">[[species:|'''Wikispecies'''<br />Eloliisi nimistü]]</div>
 <div class="logo metawiki mw-collapsible-content">[[m:|'''Meta-Viki'''<br />Wikimedia]]</div>
-<div class="logo incubator mw-collapsible-content">[[incubator:|'''Incubator'''<br />Uute projektide kodu]]</div>
-<div class="mw-collapsible-toggle" style="text-align:center;"><span class="bajas">Čájet unnit</span><span class="vulos">Vaata edasi</span></div>
+<div class="logo incubator mw-collapsible-content">[[incubator:|'''Incubator'''<br />Vahtsidõ ettevõtmiisi kodo]]</div>
+<div class="mw-collapsible-toggle" style="text-align:center;"><span class="bajas">Panõq kokko</span><span class="vulos">Kaeq edesi</span></div>
 </div>
 </div>
 </div>
