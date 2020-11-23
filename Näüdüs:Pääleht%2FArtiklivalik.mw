@@ -6,6 +6,6 @@
 <h2>{{LOCALWEEK}}. nädäli artikli</h2>
 {{{tekst|}}}
 
-* [[{{{artikkel|{{{artikkel|}}}}}}|Loe edasi]]
+* [[{{{artikkel|{{{artikkel|}}}}}}|Loeq edesi]]
 * {{#if:{{{katõgooria|}}}|[[:Katõgooria:{{{katõgooria}}}|{{{eanet|Eanet artihkkalat}}}]]}}
 </div><includeonly>{{#ifeq:{{BASEPAGENAME}}|Valitud artikkel|</div></div>}}</includeonly>
