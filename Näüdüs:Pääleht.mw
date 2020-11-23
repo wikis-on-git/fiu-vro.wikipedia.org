@@ -22,10 +22,10 @@ vappa entsüklopeediähe!<br />
 <div class="pildiallkiri">{{#invoke:Valitud pilt|pildiallkiri}}</div>
 </div>
 <div id="eara_gielaide" class="sisdoalluboksa">
-<h2>Kõik artikliq tähti perrä</h2>
+<h2>Kõik artikliq</h2>
 </div>
 {{Kõik artikliq tähti perrä}}
-
+*[[Wikipedia:Artikliid teemadõ perrä|Kaeq artikliid teemadõ perrä]]
 <div id="eara_gielaide" class="sisdoalluboksa">
 <h2>Soomõ-ugri vikipeediäq</h2>
 </div>
@@ -83,7 +83,6 @@ break=no
 </div>
 <div id="veahkehit" class="metaboksa hlist">
 <h2>Tähtsämpi linke</h2>
-*[[Wikipedia:Artikliid teemadõ perrä|Kaeq artikliid tähti ja teemadõ perrä]]
 *[[Wikipedia:Arotusõtarõ|Arotus]]
 *[[Wikipedia:Eräpoolõlda saisukotus|Eräpoolõlda saisukotus]]
 *[https://synaq.org/ Võro-eesti-võro sõnaraamat Internetin]
