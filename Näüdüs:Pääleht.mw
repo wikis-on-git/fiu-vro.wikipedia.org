@@ -31,7 +31,9 @@ vappa entsüklopeediähe!<br />
 </div>
 <div id="header2">
 <div>
-Täämbä om [[{{LOCALDAY}}. {{LOCALMONTHNAMEGEN}} päiv]] [[{{LOCALYEAR}}]].
+Täämbä om 
+
+[[{{LOCALDAY}}. {{LOCALMONTHNAMEGEN}} päiv]] [[{{LOCALYEAR}}]].
 
 Võro Vikipeediän om parhillaq käsil<br /> '''[[Special:Statistics|{{NUMBEROFARTICLES}} artiklit]]'''.
 </div>
