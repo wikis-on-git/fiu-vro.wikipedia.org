@@ -3,7 +3,7 @@
 [[File:{{{pilt|}}}|500px]]
 </div>}}
 <div class="tekst {{#if:{{{pilt|}}}||ii_pilt}}">
-<h2>{{LOCALWEEK}}. nädala artikkel</h2>
+<h2>{{LOCALWEEK}}. nädäli artikli</h2>
 {{{tekst|}}}
 
 * [[{{{artikkel|{{{artikkel|}}}}}}|Loe edasi]]
