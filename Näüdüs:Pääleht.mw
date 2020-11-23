@@ -22,6 +22,11 @@ vappa entsüklopeediähe!<br />
 <div class="pildiallkiri">{{#invoke:Valitud pilt|pildiallkiri}}</div>
 </div>
 <div id="eara_gielaide" class="sisdoalluboksa">
+<h2>Kõik artikliq tähti perrä</h2>
+</div>
+{{Kõik artikliq tähti perrä}}
+
+<div id="eara_gielaide" class="sisdoalluboksa">
 <h2>Soomõ-ugri vikipeediäq</h2>
 </div>
 {{Nowrap|[[File:KarelianNationalFlag.svg|border|25px|link=:kv:]] [[:olo:|Aunusõkaŕala]] •}}
@@ -43,8 +48,10 @@ vappa entsüklopeediähe!<br />
 
 * '''Kõik Vikipeediäq lövvät''' [[meta:List of Wikipedias|Vikipeedijide tävveligust nimekiräst]]
 
-----
-<small>'''''Information for those who do not understand Võro''': Võro is a Finno-Ugric language spoken by about 75.000 people mainly in Southern Estonia. '''[[:en:Võro language|Read more about Võro]]'''.''</small>
+<div id="eara_gielaide" class="sisdoalluboksa">
+<h2>About this Wikipedia</h2>
+</div>
+<small>Võro is a Finno-Ugric language spoken by about 75.000 people mainly in Southern Estonia. '''[[:en:Võro language|Read more about Võro]]'''.''</small>
 </div>
 <div id="header2">
 <div>
