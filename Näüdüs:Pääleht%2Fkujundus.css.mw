@@ -321,7 +321,8 @@ body.skin-minerva .mw-collapsible-toggle {
 		font-size: 13pt;
 	}
 	#header1 {
-		background-image:	url("//upload.wikimedia.org/wikipedia/commons/3/39/V6ru-muster.svg"),
+		background-image:	url("//upload.wikimedia.org/wikipedia/commons/7/7f/V6ru-muster-punane.svg"),
+				url("//upload.wikimedia.org/wikipedia/commons/a/aa/V6ru-muster-must.svg"),
 				url("//upload.wikimedia.org/wikipedia/commons/3/39/V6ru-muster.svg");
 		background-repeat: repeat-y;
 		background-position: 4rem, 6rem, 8.5rem, 10.5rem;
