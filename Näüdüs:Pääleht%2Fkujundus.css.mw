@@ -258,7 +258,7 @@ body.skin-minerva .mw-collapsible-toggle {
 		font-size: 100%;
 	}
 	#header1 {
-		background-image: url("//upload.wikimedia.org/wikipedia/commons/d/d8/%C3%81rvu-minsttar1v.svg");
+		background-image: url("//upload.wikimedia.org/wikipedia/commons/3/39/V6ru-muster.svg");
 		background-repeat: repeat-x;
 		background-position: top center;
 		background-size: 4vw;
@@ -273,7 +273,7 @@ body.skin-minerva .mw-collapsible-toggle {
 		display: none;
 	}
 	.meta {
-		background-image: url("//upload.wikimedia.org/wikipedia/commons/a/a5/%C3%81rvu-minsttar4n.svg");
+		background-image: url("//upload.wikimedia.org/wikipedia/commons/7/7f/V6ru-muster-punane.svg");
 		background-repeat: repeat-x;
 		background-position: top center;
 		padding-bottom: 0;
