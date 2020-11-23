@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .meta {
 	background-color: #e9f3de;
-	background-image: url("//upload.wikimedia.org/wikipedia/commons/9/9b/%C3%81rvu-minsttar4b.svg");
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/3/39/V6ru-muster.svg");
 	background-repeat: repeat-x;
 	background-position: bottom center;
 	padding-bottom: 4vw;
@@ -322,6 +322,7 @@ body.skin-minerva .mw-collapsible-toggle {
 	}
 	#header1 {
 		background-image: url("//upload.wikimedia.org/wikipedia/commons/d/d2/%C3%81rvu-minsttar4o.svg"),
+				url("//upload.wikimedia.org/wikipedia/commons/3/39/V6ru-muster.svg"),
 				url("//upload.wikimedia.org/wikipedia/commons/3/39/V6ru-muster.svg");
 		background-repeat: repeat-y;
 		background-position: 4rem, 6rem, 8.5rem, 10.5rem;
