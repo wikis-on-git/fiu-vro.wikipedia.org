@@ -17,7 +17,7 @@ vappa entsüklopeediähe!<br />
 {{Pääleht/Kas teadsid}}
 </div>
 <div id="beaivvi_pilt">
-<div class="h2"><h2>Valitud pilt</h2></div>
+<div class="h2"><h2>Valit pilt</h2></div>
 [[{{#invoke:Valitud pilt|pildinimi}}|1600px|center]]
 <div class="pildiallkiri">{{#invoke:Valitud pilt|pildiallkiri}}</div>
 </div>
