@@ -322,9 +322,7 @@ body.skin-minerva .mw-collapsible-toggle {
 	}
 	#header1 {
 		background-image: url("//upload.wikimedia.org/wikipedia/commons/d/d2/%C3%81rvu-minsttar4o.svg"),
-				url("//upload.wikimedia.org/wikipedia/commons/0/04/%C3%81rvu-minsttar3o.svg"),
-				url("//upload.wikimedia.org/wikipedia/commons/9/92/%C3%81rvu-minsttar2o.svg"),
-				url("//upload.wikimedia.org/wikipedia/commons/8/81/%C3%81rvu-minsttar1o.svg");
+				url("//upload.wikimedia.org/wikipedia/commons/3/39/V6ru-muster.svg");
 		background-repeat: repeat-y;
 		background-position: 4rem, 6rem, 8.5rem, 10.5rem;
 		background-size: 2rem;
