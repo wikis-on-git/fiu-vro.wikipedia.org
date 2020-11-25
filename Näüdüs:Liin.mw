@@ -1,0 +1,99 @@
+{| cellspacing="5" style="border: 1px solid #b8c8d8; background:#f5fbff; margin-left:10px; width:280px; float:right; text-align:center;"  
+|<big class="fn">'''{{{nimi|{{PAGENAME}}}}}'''</big>
+{{!}}-
+{{!}} <hr style="margin:4px auto; width:75%;">
+{{!}}-
+{{#if:{{{välläütlemine|<noinclude>-</noinclude>}}} |
+{{!}}style="color:#666;font-size:80%;line-height:1em;padding-bottom:3px;font-family: 'Courier New', Courier, monospace; font-weight:normal;" {{!}}'''[''' {{{välläütlemine}}} ''']'''
+{{!}}-
+}}
+{{#if:{{{umakeeline_nimi_1|<noinclude>-</noinclude>}}} |
+{{!}} style="font-size:90%;" {{!}} {{{umakeeline_nimi_1}}} '''<big>{{{1}}}</big>''' <br />{{{2}}}
+{{!}}-
+}}
+{{!}}-
+{{#if:{{{umakeeline_nimi_2|<noinclude>-</noinclude>}}} |
+{{!}} style="font-size:90%;" {{!}} {{{umakeeline_nimi_2}}} '''<big>{{{3}}}</big>''' <br />{{{4}}}
+{{!}}-
+}}
+{{!}}-
+{{#if:{{{umakeeline_nimi_3|<noinclude>-</noinclude>}}} |
+{{!}} style="font-size:90%;" {{!}} {{{umakeeline_nimi_3}}} '''<big>{{{5}}}</big>''' <br />{{{6}}}
+{{!}}-
+}}
+{{!}}-
+{{#if:{{{umakeeline_nimi_4|<noinclude>-</noinclude>}}} |
+{{!}} style="font-size:90%;" {{!}} {{{umakeeline_nimi_4}}} '''<big>{{{7}}}</big>''' <br />{{{8}}}
+{{!}}-
+}}
+{{!}}-
+{{#if:{{{umakeeline_nimi_5|<noinclude>-</noinclude>}}} |
+{{!}} style="font-size:90%;" {{!}} {{{umakeeline_nimi_5}}} '''<big>{{{9}}}</big>''' <br />{{{10}}}
+{{!}}-
+}}
+{{!}}-
+{{#if:{{{umakeeline_nimi_1|{{{umakeeline_nimi_2|{{{umakeeline_nimi_3|<noinclude>-</noinclude>}}}}}}}}} | 
+{{!}} 
+<hr style="margin:4px auto; width:100%;">
+{{!}}
+}}
+
+{{!}}-
+{{#if:{{{pilt|<noinclude>-</noinclude>}}} | 
+! style="margin-top:0.8em; font-size: 90%; text-align: center;" {{!}} {{{pilt}}} {{#if:{{{pildiallkiri|<noinclude>-</noinclude>}}} | <br />{{{pildiallkiri}}}}} 
+<hr style="margin:4px auto; width:100%;">
+{{!}}
+}}
+
+{{!}}-
+{{#if:{{{vapi_pilt|<noinclude>-</noinclude>}}} | 
+! style="margin-top:0.8em; font-size: 90%; text-align: center;" {{!}} {{{vapi_pilt}}} {{#if:{{{vapi_link|<noinclude>-</noinclude>}}} | <br />{{{vapi_link}}}}}
+}}
+{{!}}-
+{{#if:{{{logo_pilt|<noinclude>-</noinclude>}}} | 
+! style="margin-top:0.8em; font-size: 90%; text-align: center;" {{!}} {{{logo_pilt}}} {{#if:{{{logo_link|<noinclude>-</noinclude>}}} | <br />{{{logo_link}}}}}
+}}
+{{!}}-
+{{#if:{{{lipu_pilt|<noinclude>-</noinclude>}}} | 
+! style="margin-top:0.8em; font-size: 90%; text-align: center;" {{!}} {{{lipu_pilt}}} {{#if:{{{lipu_link|<noinclude>-</noinclude>}}} | <br />{{{lipu_link}}}}}
+}}
+{{!}}-
+{{#if:{{{lipu_pilt|{{{vapi_pilt|{{{logo_pilt|<noinclude>-</noinclude>}}}}}}}}} | {{!}} 
+<hr  style="margin:4px auto; width:75%;"> }}
+{{!}}-
+{{#if:{{{maa|<noinclude>-</noinclude>}}} |
+{{!}} Maa: [[{{{maa}}}]] 
+{{!}}-
+}}
+{{!}}-
+{{#if:{{{riik|<noinclude>-</noinclude>}}} |
+{{!}} Riik: [[{{{riik}}}]] 
+{{!}}-
+}}
+{{!}}-
+{{#if:{{{suurus|<noinclude>-</noinclude>}}} |
+{{!}} Suurus: {{{suurus}}} km²
+{{!}}-
+}}
+{{!}}-
+{{#if:{{{elänikke|<noinclude>-</noinclude>}}} |
+{{!}} Elänikke: {{{elänikke}}}
+{{!}}-
+}}
+{{!}}-
+{{#if:{{{elänikke|<noinclude>-</noinclude>}}} |
+{{!}} <hr style="margin:4px auto; width:100%;">
+{{!}}-
+}}
+{{#if:{{{lat_deg|<noinclude>-</noinclude>}}} |
+{{!}} <small>[[Maapäälidseq koordinaadiq|koordinaadiq]]: {{koord dm|{{{lat_deg|}}}|{{{lat_min|}}}|{{{lat_ik|}}}|{{{lon_deg|}}}|{{{lon_min|}}}|{{{lon_ik|}}}|type:city}}</small>
+{{!}}
+}}
+{{!}}-
+{{#if:{{{kaardi_pilt|<noinclude>-</noinclude>}}} | 
+! style="margin-top:0.8em; font-size: 90%; text-align: center;" {{!}} {{{kaardi_pilt}}} {{#if:{{{kaardiallkiri|<noinclude>-</noinclude>}}} | <br />{{{kaardiallkiri}}}}} 
+}}
+|}
+<noinclude>
+[[Katõgooria:näüdüseq|liin]]
+</noinclude>
