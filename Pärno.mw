@@ -1,8 +1,23 @@
-<table border="0" align="right" width="240px" colspan="1">
-<tr><td align="center">
-[[Image:Flag of et-Parnu.svg|150px|Pärno lipp]]<br>'''[[Pärno lipp]]'''<br><br>[[Image:Et-Parnu coa.svg|150px|Pärno vapp]]<br>'''[[Pärno vapp]]'''</td></tr></table>
+{{EestiLiin	 
+| nimi = pärno
+| pilt = [[Image:Downtown Parnu at night-PDXdj.jpg|250px|Pärno huulits üüse.]]  
+| pildiallkiri = Pärno huulits üüse
+| lipu_pilt = Flag of et-Parnu.svg	 
+| lipu_link = Pärno lipp	 
+| vapi_pilt = Et-Parnu coa.svg	 
+| vapi_link = Pärno vapp	 
+| maakund = Pärnomaa
+| suurus = 33,15<ref name="Statistikaamet">Statistikaamet. 2020. RV0291U: Rahvaarv, pindala ja asustustihedus, 1. jaanuar. haldusjaotus seisuga 01.01.2018. Pruugit 26.11.2020. https://andmed.stat.ee/et/stat/rahvastik__rahvastikunaitajad-ja-koosseis__rahvaarv-ja-rahvastiku-koosseis/RV0291U</ref> 	 
+| elänikke = 38 544<ref name="Statistikaamet"></ref> (01.01.2020) 
+| lat_deg = 58	 
+| lat_min = 28	 
+| lat_ik = N	 
+| lon_deg = 24	 
+| lon_min = 32	 
+| lon_ik = E	 
+}}
 
-'''Pärno''' vai '''Pärnä''' ([[eesti kiil|eesti keelen]] ''Pärnu'') om liin [[Eesti]]n [[Pärno laht|Pärno lahe]] põh'ahummogu veeren [[Pärno jõgi|Pärno jõõ]] suun. Pärno om tähtsä sadamaliin ja kuurort. Liina suurus om 32,2 km².
+'''Pärno''' vai '''Pärnä''' ([[eesti kiil|eesti keelen]] ''Pärnu'') om liin [[Eesti]]n [[Pärno laht|Pärno lahe]] põh'ahummogu veeren [[Pärno jõgi|Pärno jõõ]] suun. Pärno om tähtsä sadamaliin ja kuurort. Liina suurus om 33,15 km².
 
 == Rahvastik ==
 
@@ -13,8 +28,6 @@
 |}
 
 Pärnon elli [[2006]]. aastaga [[vahtsõaastakuu]] 1. pääväl 43788 inemist, kink siäst 55,7% olliq naasõq ja 44,3% meheq.
-
-[[Image:Downtown Parnu at night-PDXdj.jpg|thumb|Pärno huulits üüse.]] 
 
 === Rahvusõq ===
 Saisoga 01.01.2006 olliq Pärno elänikke siäst
@@ -27,6 +40,9 @@ Saisoga 01.01.2006 olliq Pärno elänikke siäst
 
 == Välislink ==
 * [http://www.parnu.ee/ Pärno liina kodoleht] 
+
+== Lätteq ==
+<references />
 
 {{Eesti liinaq}}
 
