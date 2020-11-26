@@ -130,7 +130,7 @@ h1, h2, h3, h4, h5, h6 {
 #beaivvi_pilt:hover img {
 	max-height: 32vw;
 }
-#beaivvi_pilt .pilttekst {
+#beaivvi_pilt .pildiallkiri {
 	position: absolute;
 	left: 1vw;
 	bottom: 1vw;
