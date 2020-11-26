@@ -1,10 +1,24 @@
-{{Liin|nimi=Karksi-Nuia|pilt=[[pilt:Karksi kirik.jpg|300px]]|pildiallkiri=Karksi kerik|suurus=2,96<ref name="EE 12">EE 12. 2013. Karksi-Nuia. Pruugit 18.11.2020. http://entsyklopeedia.ee/artikkel/karksi-nuia</ref>|elänikke=1476<ref name="Statistikaamet">Statistikaamet. 2020. RV0291U: Rahvaarv, pindala ja asustustihedus, 1. jaanuar. haldusjaotus seisuga 01.01.2018. Pruugit 18.11.2020. https://andmed.stat.ee/et/stat/rahvastik__rahvastikunaitajad-ja-koosseis__rahvaarv-ja-rahvastiku-koosseis/RV0291U</ref> (01.01.2020)}}
-
-[[Pilt: Karksi paisjärv.jpg|pisi|273px|Karksi paisjärv]]
-
+{{EestiLiinLipulda	 
+| nimi = Karksi-Nuia
+| pilt = [[pilt:Karksi kirik.jpg|300px]]
+| pildiallkiri = Karksi Peetri kerik
+<!--
+| lipu_pilt = 
+| lipu_link = 	 
+| vapi_pilt = 
+| vapi_link = 
+-->
+| maakund = Viländimaa
+| suurus = 2,96<ref name="EE 12">EE 12. 2013. Karksi-Nuia. Pruugit 18.11.2020. http://entsyklopeedia.ee/artikkel/karksi-nuia</ref>	 
+| elänikke = 1476<ref name="Statistikaamet">Statistikaamet. 2020. RV0291U: Rahvaarv, pindala ja asustustihedus, 1. jaanuar. haldusjaotus seisuga 01.01.2018. Pruugit 18.11.2020. https://andmed.stat.ee/et/stat/rahvastik__rahvastikunaitajad-ja-koosseis__rahvaarv-ja-rahvastiku-koosseis/RV0291U</ref> (01.01.2020)
+| lat_deg = 58
+| lat_min = 11
+| lat_ik = N	 
+| lon_deg = 25
+| lon_min = 58
+| lon_ik = E	 
+}}
 '''Karksi-Nuia''' om vallasisene [[liin]] [[Viländi maakund|Villändi maakunnan]] [[Mulgi vald|Mulgi vallan]]. Karksi-Nuia sai alõviõigusõq 1945. ja liinaõigusõq 1993. aastagul.<ref name="EE 12"></ref>
-
-[[Pilt:Karksi ordulinnuse varemed 2012.jpg|pisi|left|Karksi ordoliina varõmõq]]
 
 Karksi-Nuiast lätt läbi Karksi [[põlinõ org]], mink perve pääl om Karksi ordoliinakands ja naidõ kesken esiqeräline viltudsõ torniga [[Karksi Peetri kerik]].<ref name="EE 12"></ref>
 
@@ -12,6 +26,13 @@ Nuia Elokotus tekkü 19. aastagasaa tõõsõl poolõl Karksi [[mõisa]] Nuia kõ
 
 == Lätteq ==
 <references />
+
+
+
+<gallery widths="250" heights="150">
+Pilt:Karksi paisjärv.jpg|Karksi paisjärv
+Pilt:Karksi ordulinnuse varemed 2012.jpg|Karksi ordoliina varõmõq
+</gallery>
 
 {{Eesti liinaq}}
 
