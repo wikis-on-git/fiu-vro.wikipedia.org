@@ -104,11 +104,11 @@ h1, h2, h3, h4, h5, h6 {
 #valitud_artikkel {
 	flex-direction: row;	
 }
-#valitud_artikkel ul, #eara_gielaide > ul {
+#valitud_artikkel ul, #koik_artikliq ul, #soomo_ugri_vikipeediaq ul {
 	list-style-image: url("//upload.wikimedia.org/wikipedia/commons/e/e9/%C3%81rvu-ruon%C3%A1-njuolla-o.svg");
 	margin-left: 16px;
 }
-#valitud_artikkel ul li, #wikipedia_birra ul li, #eara_gielaide > ul li {
+#valitud_artikkel ul li, #wikipedia_birra ul li, #veahkehit ul li, #koik_artikliq ul li, #soomo_ugri_vikipeediaq ul {
 	padding-left: 1vw;
 }
 #dihtetgo_ahte {
@@ -151,7 +151,7 @@ body.skin-minerva #beaivvi_pilt .pilttekst {
 #eara_gielaide div {
 	font-family: sans-serif;
 }
-#wikipedia_birra ul {
+#wikipedia_birra ul, #veahkehit ul {
 	list-style-image: url("//upload.wikimedia.org/wikipedia/commons/2/24/%C3%81rvu-r%C3%A1nes-njuolla-o.svg");
 	margin-left: 16px;
 }
