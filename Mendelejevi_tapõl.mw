@@ -1,6 +1,6 @@
 '''Mendelejevi tapõl''' vai '''keemiliidsi elemente perioodilisussüstem''' om [[süstem]], miä jaotas [[Keemiline element|keemilidseq elemendiq]] näide [[tuumalaeng]]idõ perrä [[Rühm (keemiä)|rühmihe]] ja [[Periuud (keemia)|periuudõhe]].
 
-<center>
+<div class="center">
 <table style="width: 80%;">
 <tr align="center">
 <td>[[Rühm (keemiä)|'''Rühm'''&nbsp;→]]</td>
@@ -204,8 +204,7 @@
 <td bgcolor="Lightpink">[[Väärtgaasiq]]</td>
 </tr>
 </table>
-
-</center>
+</div>
 
 == Välislingiq ==
 * [http://www.chem.qmul.ac.uk/iupac/ Riikevaihõlinõ Puhta Keemiä ja Rakõnduskeemiä Liit]
