@@ -1,0 +1,26 @@
+<table align="right" width="280" style="margin-left:10px;" bgcolor="#ffffff">
+<tr>
+<td align="center">
+<hr align="center" size="4" width="100%">
+<span style="font-size:large;">{{{1}}} vald</span>
+<hr align="center" size="4" width="100%">
+</td>
+</tr>
+<tr>
+<td align="center">
+{{#if:{{{lipp|}}}|
+{{{lipp}}}<br/>
+'''[[{{{1}}} valla lipp]]'''|''lippu olõ-iq''}}<br/><br/>
+{{#if:{{{vapp|}}}|
+{{{vapp}}}<br/>
+'''[[{{{1}}} valla vapp]]'''|''vappi olõ-iq''}}<br/>
+<hr align="center" size="4" width="75%">
+[[Suurus]]: {{{suurus}}} km&sup2;<br/>
+[[Elänikke arv|Elänikke]]: {{{elänikke}}} <br/>
+Keskus: [[{{{keskus}}}]]
+<hr align="center" size="4" width="75%"> 
+{{{kaart}}}
+</td>
+</tr>
+</table>
+[[Category:Eesti vallaq]]
