@@ -4,13 +4,13 @@
 {{#if:{{{pindala|}}}{{#omadus:P2046}} | Pindala: {{#if:{{{pindala|}}}
 | {{#iferror:{{#expr:{{formatnum:{{{pindala}}}|R}}}}|{{{pindala}}}|{{formatnum:{{formatnum:{{{pindala}}}|R}}}}
 {{#ifeq: {{#invoke:Wikidata|claim|P2046|parameter=unit}} | Q712226 | 
-{{#ifexpr: abs({{#invoke:Wikidata|claim|P2046}}-{{formatnum:{{{pindala}}}|R}})/{{#invoke:Wikidata|claim|P2046}} > 0.08 | [[Kategooria:Pindala erineb Wikidata pindalast]]}}
+{{#ifexpr: abs({{#invoke:Wikidata|claim|P2046}}-{{formatnum:{{{pindala}}}|R}})/{{#invoke:Wikidata|claim|P2046}} > 0.08 | [[Katõgooria:Pindala erineb Wikidata pindalast]]}}
 }}
 }} km²
 |{{#ifeq: {{#invoke:Wikidata|claim|P2046|parameter=unit}} | Q712226 | 
 {{formatnum:{{#expr:{{#invoke:Wikidata|claim|P2046}}
 {{#ifexpr: {{#invoke:Wikidata|claim|P2046}} > 100 | round 0 | round 1}}
-}}}} km² {{#if:{{#invoke:Wikidata|claim|P2046|qualifier=P585}}|<span style="font-size:90%">({{#invoke:Wikidata|claim|P2046|qualifier=P585|parameter=time:Y}})</span>}}{{#invoke:WikidataDev|claim|P2046|references=only}}[[Kategooria:Wikidata pindala kasutavad artiklid]]
+}}}} km² {{#if:{{#invoke:Wikidata|claim|P2046|qualifier=P585}}|<span style="font-size:90%">({{#invoke:Wikidata|claim|P2046|qualifier=P585|parameter=time:Y}})</span>}}{{#invoke:WikidataDev|claim|P2046|references=only}}[[Katõgooria:Wikidata pindala kasutavad artiklid]]
 }}
 }}
 }}<br/>
