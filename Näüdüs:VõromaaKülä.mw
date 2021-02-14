@@ -10,7 +10,7 @@
 |{{#ifeq: {{#invoke:Wikidata|claim|P2046|parameter=unit}} | Q712226 | 
 {{formatnum:{{#expr:{{#invoke:Wikidata|claim|P2046}}
 {{#ifexpr: {{#invoke:Wikidata|claim|P2046}} > 100 | round 0 | round 1}}
-}}}} km² {{#if:{{#invoke:Wikidata|claim|P2046|qualifier=P585}}|<span style="font-size:90%">({{#invoke:Wikidata|claim|P2046|qualifier=P585|parameter=time:Y}})</span>}}{{#invoke:WikidataDev|claim|P2046|references=only}}{{MuudaVikiandmetes|{{{pindala|}}}|pid=P2046}}[[Kategooria:Wikidata pindala kasutavad artiklid]]
+}}}} km² {{#if:{{#invoke:Wikidata|claim|P2046|qualifier=P585}}|<span style="font-size:90%">({{#invoke:Wikidata|claim|P2046|qualifier=P585|parameter=time:Y}})</span>}}{{#invoke:WikidataDev|claim|P2046|references=only}}[[Kategooria:Wikidata pindala kasutavad artiklid]]
 }}
 }}
 }}<br/>
