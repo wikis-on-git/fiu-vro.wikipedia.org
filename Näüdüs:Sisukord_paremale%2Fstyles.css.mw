@@ -1,0 +1,25 @@
+.tocright {
+	float: right;
+	clear: right;
+	width: auto;
+	background: none;
+	padding: .5em 0 .8em 1.4em;
+	margin-bottom: .5em; 
+}
+.tocright-clear-left {
+	clear: left;
+}
+.tocright-clear-both {
+	clear: both;
+}
+.tocright-clear-none {
+	clear: none;
+}
+.toclimit-2 .toclevel-1 ul,
+.toclimit-3 .toclevel-2 ul,
+.toclimit-4 .toclevel-3 ul,
+.toclimit-5 .toclevel-4 ul,
+.toclimit-6 .toclevel-5 ul,
+.toclimit-7 .toclevel-6 ul {
+	display: none;
+}
