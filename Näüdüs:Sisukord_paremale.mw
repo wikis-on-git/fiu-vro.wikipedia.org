@@ -1,0 +1,2 @@
+<templatestyles src="Näüdüs:Sisukord paremale/styles.css" /><!--
+--><div class="tocright {{#if:{{{clear|}}}|tocright-clear-{{{clear|}}}}} {{#if:{{{limit|}}}|toclimit-{{{limit}}}}}" style="{{#if:{{{width|{{{1|}}}}}}|width: {{{width|{{{1}}}}}};}}">__TOC__</div>
