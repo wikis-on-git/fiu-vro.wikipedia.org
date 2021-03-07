@@ -1,0 +1,97 @@
+<onlyinclude>{{#iferror:{{{NS|}}}{{{EW|}}}
+|{{CoordinateMSG|1|{{{NS|}}}|{{{EW|}}}}}
+|<!--
+
+väljund artikli tekstis
+
+-->{{#if:{{{text|}}}|{{#if:{{{sortkey|}}}|{{CoordinateSORT|{{{NS|0}}}|{{{EW|0}}}|key={{{sortkey|}}}}}}}<span id="{{#if:{{{name|}}}|{{anchorencode:{{{name}}}}}|text coordinates}}" class="plainlinks nourlexpansion">{{#iferror:{{{type|}}}|{{{type}}}|{{#ifeq:{{{type|}}}|example|<span style="background: white">''Beispiel'' </span>}}
+}}{{#if:{{{article|}}}{{{name|}}}||{{CoordinateMSG|8}}}}{{CoordinateLINK
+|NS	={{{NS|0}}}
+|EW	={{{EW|0}}}
+|globe	={{{globe|}}}
+|type	={{{type|}}}
+|pop    ={{#iferror: {{{pop|}}} | }}
+|elevation={{#iferror: {{{elevation|}}} | }}
+|dim	={{{dim|}}}
+|region	={{{region|}}}
+|label  ={{urlencode:{{{name|}}}}}
+|name	={{#if:{{{name|}}}|{{{name|}}}|{{FULLPAGENAME}}}}
+|sortkey={{{sortkey|}}}
+|0={{#switch: {{uc:{{#titleparts:{{{text|}}}|1|1}}}}
+	 |<!--leer--> |OSGB36|UTM<!--nicht implementiert--> |DMS|DM|DEC|CH1903= <!--leer-->
+	 |ICON0=⊙
+	 |ICON =⦁
+	 |ICON1=<sup>▼</sup>
+	 |#default= {{{text|}}}
+	 }}
+|1={{#switch: {{uc:{{#titleparts:{{{text|}}}|1|1}}}}
+	 |DMS|= DMS
+	 |DM= DM
+	 |DEC= DEC
+	 }}
+|2	={{#switch: {{uc:{{#titleparts:{{{text|}}}|1|2}}}}
+	 |DMS|= DMS
+	 |DEC= DEC
+	 }}
+}}</span>}}{{#iferror:{{{pop|}}}|{{CoordinateMSG|9|{{{pop|}}}}}
+|}}{{#iferror:{{{elevation|}}}|{{CoordinateMSG|7|{{{elevation|}}}}}
+|}}<!--
+
+väljund artikli päises paremal
+
+-->{{#if:{{{article|}}}
+ |<nowiki /><!-- Silt "nowiki" takistab parseril tühja rea lisamist, kui mall on eraldi lõigus. -->{{#tag:indicator|<div id="coordinates" class="plainlinks nourlexpansion"><span title="WGS84 koordinaadid">koordinaadid: </span>{{#iferror:{{{type|}}}|{{{type}}}|{{#ifeq:{{{type|}}}|example|<span style="background: white"> ''Näide'' </span>}}}}{{CoordinateLINK
+|NS	={{{NS|0}}}
+|EW	={{{EW|0}}}
+|globe	={{{globe|}}}
+|type	={{{type|}}}
+|pop    ={{#iferror: {{{pop|}}} | }}
+|elevation={{#iferror: {{{elevation|}}} | }}
+|dim	={{{dim|}}}
+|region	={{{region|}}}
+|label  ={{urlencode:{{{name|}}}}}
+|name	=coordinates
+|sortkey={{{sortkey|}}}
+|1	=DMS
+|2	={{#switch: {{uc:{{{article|}}}}}
+	 |DMS|DM= <!--leer-->
+	 |#default=DMS
+	 }}
+}}</div>|name=coordinates}}}}
+}}<!--
+
+asendikaart
+
+-->{{#if:{{{kaart|}}}|{{Asendikaart
+|{{{kaart|}}}
+|lat={{{NS|}}}
+|long={{{EW|}}}
+|seletus={{#if:{{{kaardiseletus|}}}|{{{kaardiseletus}}}|Asendikaart}}
+|laius={{{kaardilaius|}}}
+|loodus={{{kaarditüüp|}}}
+}}}}<!--
+
+parserifunktsioon "coordinates"
+
+-->{{#ifeq:{{NAMESPACE}}|{{ns:0}}|
+  {{#if:{{{globe|}}}|<!--nichts-->|
+   {{#coordinates:{{formatnum:{{{NS}}}}}|{{formatnum:{{{EW}}}}}|{{#if:{{{article}}}|primary}}
+    |dim={{{dim}}}
+    |globe={{{globe}}}
+    |name={{{name}}}
+    |region={{{region}}}
+    |type={{{type}}}
+   }}
+  }}
+ }}<!--
+
+kontrolli erinevust Wikidata koordinaatidega
+
+-->{{#ifeq: {{{allikas|}}} | etwiki |
+{{#if:{{{article|}}}|
+{{#if:{{#invoke:Wikidata|claim|P625}}|
+{{#ifexpr:{{#invoke:Koord|getDistance|{{{NS|}}}|{{{EW|}}}|{{#invoke:Wikidata|claim|P625|parameter=latitude}}|{{#invoke:Wikidata|claim|P625|parameter=longitude}}}}>1000|[[Kategooria:Wikidata koordinaadid erinevad enam kui 1 km]]
+}}
+}}
+}}
+}}</onlyinclude>
