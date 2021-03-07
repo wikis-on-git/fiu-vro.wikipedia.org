@@ -1,0 +1,19 @@
+<onlyinclude>{{Coordinate{{#if:{{#invoke:Wikidata|claim|P625}}|MAIN|NOx}}
+|NS={{#invoke:Wikidata|claim|P625|parameter=latitude}}
+|EW={{#invoke:Wikidata|claim|P625|parameter=longitude}}
+|type={{{type|}}}
+|pop={{{pop|}}}
+|elevation={{{elevation|}}}
+|dim={{{dim|}}}
+|region={{{region|}}}
+|text={{{text|}}}
+|article={{#if:{{{article|}}}|{{{article|}}}|{{#if:{{{text|}}}||/}}}}
+|name={{#ifeq:{{{name|}}}|coordinates||{{{name|}}}}}
+|sortkey={{#if:{{{text|}}}|{{{sortkey|}}}}}
+|globe={{{globe|}}}
+|allikas=wikidata
+|kaart={{{kaart|}}}
+|kaardiseletus={{{kaardiseletus|}}}
+|kaardilaius={{{kaardilaius|}}}
+|kaarditüüp={{{kaarditüüp|}}}
+}}{{#if: {{#titleparts:{{#invoke:Wikidata|claim|P625|list=x}}| | 3 }}| [[Kategooria:Topeltkoordinaadid Wikidatas]] }}</onlyinclude>
