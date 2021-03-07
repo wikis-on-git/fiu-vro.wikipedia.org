@@ -1,3 +1,27 @@
-<span class="plainlinksneverexpand">[http://tools.wikimedia.de/~magnus/geo/geohack.php?params={{{1}}} {{{2}}}]</span><noinclude>
-[[Category:Koordinaatõga näüdüseq|{{PAGENAME}}]]
-</noinclude>
+<onlyinclude>{{Coordinate{{#if:{{#switch:{{{NS|}}}||/|//|///|///N|///S=1}}{{#switch:{{{EW|}}}||/|//|///|///E|///W=1}}|WIKIDATA|MAIN}}
+|NS={{#ifeq: {{#titleparts:X{{{NS|}}}|1|-1}} | X{{{NS|}}}
+   | {{{NS|}}} | {{CoordinateLAT|{{{NS|}}}}} }}
+|EW={{#ifeq: {{#titleparts:X{{{EW|}}}|1|-1}} | X{{{EW|}}}
+   | {{{EW|}}} | {{CoordinateLONG|{{{EW|}}}}} }}
+|type={{#switch: {{{type|{{{tüüp|}}}}}}
+	|country|state|adm1st|adm2nd|city|isle|airport|mountain|waterbody|forest|landmark={{{type|{{{tüüp|}}}}}}
+	|riik=country|maa=state|haldus1=adm1st|haldus2=adm2nd|linn=city|saar=isle
+	|mägi=mountain|veekogu=waterbody|maamärk=landmark
+	|#default={{#if:{{{type|{{{tüüp|}}}}}}|{{CoordinateMSG|3|{{{type|{{{tüüp|}}}}}}}}|landmark}}
+}}
+|pop={{{pop|{{{el|}}}}}}
+|elevation={{{elevation|{{{kõrgus|}}}}}}
+|dim={{{dim|{{{mõõt|}}}}}}
+|region={{{region|{{{piirkond|}}}}}}
+|text={{{text|{{{tekst|}}}}}}
+|article={{#if:{{{article|{{{artikkel|}}}}}}|{{{article|{{{artikkel|}}}}}}|{{#if:{{{text|{{{tekst|}}}}}}||/}}}}
+|name={{#ifeq:{{{name|{{{nimi|}}}}}}|coordinates||{{{name|{{{nimi|}}}}}}}}
+|sortkey={{#if:{{{text|{{{tekst|}}}}}}|{{{sortkey|}}}}}
+|globe={{{globe|}}}
+|allikas=etwiki
+|kaart={{{kaart|}}}
+|kaardiseletus={{{kaardiseletus|}}}
+|kaardilaius={{{kaardilaius|}}}
+|kaarditüüp={{{kaarditüüp|}}}
+}}</onlyinclude>
+<noinclude>[[Katõgooria:Koordinaatõga näüdüseq|{{PAGENAME}}]]</noinclude>
