@@ -1,6 +1,6 @@
 <table cellpadding="10" cellspacing="0" align="{{#if:{{{align|}}}|{{{align}}}|right}}" style="margin: 0px 0px 5px 10px; border:2px solid #ddd;">
  <tr>
-   <td style="border-bottom:2px solid #ddd; background:sandybrown; text-align:center;">'''{{#if:{{{nimi|}}}|{{{nimi}}}|{{PAGENAME}}}} [[hieroglüüf]]ega'''</td>
+   <td style="border-bottom:2px solid #ddd; background:sandybrown; text-align:center;">'''{{#if:{{{nimi|}}}|{{{nimi}}}|{{PAGENAME}}}} <br>nimi [[hieroglüüf]]en'''</td>
  </tr>
 {{#if:{{{sünnünimi|}}}|
  <tr>
