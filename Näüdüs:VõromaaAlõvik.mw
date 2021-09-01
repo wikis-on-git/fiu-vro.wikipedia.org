@@ -14,7 +14,9 @@
 }}
 }}
 }}<br/>
-{{#if:{{{elänikke|}}}|<div>Elänikke: {{{elänikke}}}</div> }}
+{{#if:{{{elänikke|}}} | Elänikke: {{{elänikke}}}{{#if: {{#invoke:WikidataDev|claim|P1082}} }} | 
+{{#if: {{#invoke:WikidataDev|claim|P1082}} |  Elänikke: {{formatnum: {{#invoke:WikidataDev|claim|P1082|sortby=P585|order=desc}} |2|,|n}} <small>({{#invoke:WikidataDev|claim|P1082|qualifier=P585|sortby=P585|order=desc}})</small>{{#invoke:WikidataDev|claim|P1082|sortby=P585|order=desc|references=only}} }}
+}}
 {{#if:{{{kihlkund|}}}|<div>Kihlkund: [[{{{kihlkund}}} kihlkund|{{{kihlkund}}}]]</div> }}
 <hr style="margin:4px auto; width:75%;">
 {{#if:{{{lat_sec|}}}|<div style="font-size:90%;">
