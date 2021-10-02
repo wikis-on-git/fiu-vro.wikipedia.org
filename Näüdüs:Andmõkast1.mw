@@ -1,0 +1,13 @@
+{| align="right" cellpadding="4" cellspacing="0"  style="margin: 0 0 1em 1em; border: 1px solid #999; border-right-width: 2px; border-bottom-width: 2px; background-color: #{{{värm2|D7F1CD}}}" width="300"
+! colspan="4" style="background-color: #{{{värm1|669933}}}" |
+{| style="background-color: #{{{värm1|669933}}}" align="center" width="100%"
+{{#if: {{{nimi|}}}|
+{{!}} padding=15px{{!}}
+{{!}} style="background-color: #{{{värm1|669933}}}" align="center" width="100%" {{!}}<span style="color:{{{päisetekst|white}}}; font-size:large;"> '''{{{nimi}}}'''</span>
+{{!}} padding=15px{{!}}}}
+|}
+|-
+{{#if: {{{pildi_nimi|}}}|{{!}} align=center colspan="4" style="background-color: #{{{värm4|B5E19D}}}; line-height: 1.2; border-bottom: 1px solid #{{{värm3|DEFFCE}}};" {{!}} <div style="border: 1px solid #{{{värm3|DEFFCE}}};"> [[Pilt:{{{pildi_nimi|}}}|288px|{{{pildi_allkiri}}}]]</div> {{#if:{{{pildi_allkiri}}}| <div class="center">{{{pildi_allkiri}}}</div>|}}}}
+|-
+{{{siso|}}}
+|}
