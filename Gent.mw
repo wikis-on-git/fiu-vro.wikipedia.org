@@ -1,0 +1,136 @@
+{{liin
+|  nimi = Sint-Truiden
+<!--|  umakeeline_nimi_1 = | |-->
+|  pilt = [[Pilt:Gent.jpg|250px]]
+|  pildiallkiri = Gent
+|  riik = Belgiä
+|  suurus = 157,74
+|  elänikke = 263 703 (2021)
+|  lat_deg = 51
+|  lat_min = 3
+|  lat_ik = N
+|  lon_deg = 3
+|  lon_min = 42
+|  lon_ik = E
+|  kaardi_pilt = [[Pilt:GemGentLocation.png|250px|]]
+|  kaardiallkiri =
+}}
+
+'''Gent''' ({{kiil-fr|Gand}}) om liin [[Belgiä]]n [[Oost-Vlaanderen]] provindsi flaami piirkunnan.
+
+== Rahvastik ==
+
+<timeline>
+Colors=
+ id:a value:gray(0.9)
+ id:b value:gray(0.7)
+ id:c value:rgb(1,1,1)
+ id:d value:rgb(0.7,0.8,0.9)
+ id:e value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:790 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:280000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:b increment:35000 start:0
+ScaleMinor = gridcolor:a increment:7000 start:0
+BackgroundColors = canvas:c
+
+BarData=
+ bar:1806 text:1806
+ bar:1816 text:1816
+ bar:1830 text:1830
+ bar:1846 text:1846
+ bar:1856 text:1856
+ bar:1866 text:1866
+ bar:1876 text:1876
+ bar:1880 text:1880
+ bar:1890 text:1890
+ bar:1900 text:1900
+ bar:1910 text:1910
+ bar:1920 text:1920
+ bar:1930 text:1930
+ bar:1947 text:1947
+ bar:1961 text:1961
+ bar:1970 text:1970
+ bar:1977 text:1977
+ bar:1980 text:1980
+ bar:1990 text:1990
+ bar:2000 text:2000
+ bar:2008 text:2008
+ bar:2010 text:2010
+ bar:2018 text:2018
+
+PlotData=
+ color:d width:20 align:left
+
+ bar:1806 from:0 till: 58199
+ bar:1816 from:0 till: 61147
+ bar:1830 from:0 till: 83783
+ bar:1846 from:0 till: 102977
+ bar:1856 from:0 till: 108925
+ bar:1866 from:0 till: 115354
+ bar:1876 from:0 till: 127653
+ bar:1880 from:0 till: 131431
+ bar:1890 from:0 till: 148729
+ bar:1900 from:0 till: 160133
+ bar:1910 from:0 till: 166445
+ bar:1920 from:0 till: 167042
+ bar:1930 from:0 till: 170358
+ bar:1947 from:0 till: 166096
+ bar:1961 from:0 till: 157811
+ bar:1970 from:0 till: 148860
+ bar:1977 from:0 till: 139812
+ bar:1980 from:0 till: 129488
+ bar:1990 from:0 till: 119245
+ bar:2000 from:0 till: 111158
+ bar:2008 from:0 till: 119880
+ bar:2010 from:0 till: 123465
+
+ color:e width:20 align:left
+ bar:1977 from:139812 till:248657
+ bar:1980 from:129488 till: 241695
+ bar:1990 from:119245 till: 230543
+ bar:2000 from:111158 till: 224180
+ bar:2008 from:119880 till: 237000
+ bar:2010 from:123465 till: 243366
+ bar:2018 from:0 till: 260341
+
+PlotData=
+
+ bar:1806 at: 58199 fontsize:s text: 58.199 shift:(-10,5)
+ bar:1816 at: 65147 fontsize:S text: 61.147 shift:(-10,5)
+ bar:1830 at: 83783 fontsize:S text: 83.783 shift:(-10,5)
+ bar:1846 at: 102977 fontsize:S text: 102.977 shift:(-10,5)
+ bar:1856 at: 108925 fontsize:S text: 108.925 shift:(-10,5)
+ bar:1866 at: 115354 fontsize:S text: 115.354 shift:(-10,5)
+ bar:1876 at: 127653 fontsize:S text: 127.653 shift:(-10,5)
+ bar:1880 at: 135431 fontsize:S text: 131.431 shift:(-10,5)
+ bar:1890 at: 148729 fontsize:S text: 148.729 shift:(-10,5)
+ bar:1900 at: 160133 fontsize:S text: 160.133 shift:(-10,5)
+ bar:1910 at: 166445 fontsize:S text: 166.445 shift:(-10,5)
+ bar:1920 at: 173042 fontsize:S text: 167.042 shift:(-10,5)
+ bar:1930 at: 180358 fontsize:S text: 170.358 shift:(-10,5)
+ bar:1947 at: 166096 fontsize:S text: 166.096 shift:(-10,5)
+ bar:1961 at: 157811 fontsize:S text: 157.811 shift:(-10,5)
+ bar:1970 at: 148860 fontsize:S text: 148.860 shift:(-10,5)
+ bar:1977 at: 139812 fontsize:S text: 139.812 shift:(-10,5)
+ bar:1977 at: 248657 fontsize:S text: 248.657 shift:(-10,5)
+ bar:1980 at: 129488 fontsize:S text: 129.488 shift:(-10,5)
+ bar:1980 at: 241695 fontsize:S text: 241.695 shift:(-10,5)
+ bar:1990 at: 119245 fontsize:S text: 119.245 shift:(-10,5)
+ bar:1990 at: 231543 fontsize:S text: 230.543 shift:(-10,5)
+ bar:2000 at: 111158 fontsize:S text: 111.158 shift:(-10,5)
+ bar:2000 at: 224180 fontsize:S text: 224.180 shift:(-10,5)
+ bar:2008 at: 119880 fontsize:S text: 119.880 shift:(-10,5)
+ bar:2008 at: 237000 fontsize:S text: 237.000 shift:(-10,5)
+ bar:2010 at: 107000 fontsize:S text: 123.465 shift:(-10,5)
+ bar:2010 at: 245000 fontsize:S text: 243.366 shift:(-10,5)
+ bar:2018 at: 260341 fontsize:S text: 260.341 shift:(-10,5)
+
+</timeline>
+
+
+[[Katõgooria:Belgiä liinaq]]
