@@ -63,56 +63,82 @@ Islandil om arõnõnuq uma hobõsõsort, [[Islandi hopõn]]. Islandi hopõn om o
 
 == Valitsõmisjaotus ==
 
-
 Island jagonõs katsas piirkunnas (''landsvæði'').<ref>[http://www.statoids.com/uis.html Islandi piirkunnaq]. Pruugit 31.10.2021. (inglüse keelen)</ref>
-{| class="wikitable"
-|+'''Islandi piiŕkunnaq'''
-!Nr
-!Piiŕkund
-!Pindala 
-(km²)
+{| class="wikitable sortable"
+!Nr.
+!Piirkund
 !Rahva hulk 
 (1.1.2019)
+!Pindala
+(km²)
+!Rahvast/
+km²
+![[ISO 3166-2:IS|ISO 3166]]
+!Piirkunnaq kaardi pääl
 |-
-|1.
+|1
 |[[Höfuðborgarsvæðið]]
-|1 062
 |228 231
+|1 062
+|167,61
+|IS-1*
+| rowspan="9" |[[Pilt:Regions of Iceland.png|pisi]]
 |-
-|2.
-|[[Suðurnes]]
-|829
+|2
+|[[Suðurnes]] (aikaisemmin [[Reykjanes]])
 |27 113
+|829
+|20,18
+|IS-2
 |-
-|3.
+|3
 |[[Vesturland]]
-|9 554
 |16 507
+|9 554
+|1,51
+|IS-3
 |-
-|4.
-|[[Vestfirðir]]
-|9 409
+|4
+|[[Länsivuonot|Vestfirðir]]
 |7 063
+|9 409
+|0,85
+|IS-4
 |-
-|5.
+|5
 |[[Norðurland vestra]]
-|12 737
 |7 227
+|12 737
+|0,73
+|IS-5
 |-
-|6.
+|6
 |[[Norðurland eystra]]
-|21 968
 |30 445
+|21 968
+|1,21
+|IS-6
 |-
-|7.
+|7
 |[[Austurland]]
-|22 721
 |13 059
+|22 721
+|0,52
+|IS-7
 |-
-|8.
+|8
 |[[Suðurland]]
-|24 526
 |27 346
+|24 526
+|0,87
+|IS-8
+|-
+|
+|'''Ísland'''
+|356 991
+|102 928
+|3,1
+|IS
 |}
 
 == Majandus ==
