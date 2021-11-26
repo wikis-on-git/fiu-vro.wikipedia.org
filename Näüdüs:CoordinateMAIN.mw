@@ -40,7 +40,7 @@ väljund artikli tekstis
 väljund artikli päises paremal
 
 -->{{#if:{{{article|}}}
- |<nowiki /><!-- Silt "nowiki" takistab parseril tühja rea lisamist, kui mall on eraldi lõigus. -->{{#tag:indicator|<div id="coordinates" class="plainlinks nourlexpansion"><span title="WGS84 koordinaadid">koordinaadid: </span>{{#iferror:{{{type|}}}|{{{type}}}|{{#ifeq:{{{type|}}}|example|<span style="background: white"> ''Näide'' </span>}}}}{{CoordinateLINK
+ |<nowiki /><!-- Silt "nowiki" takistab parseril tühja rea lisamist, kui mall on eraldi lõigus. -->{{#tag:indicator|<div id="coordinates" class="plainlinks nourlexpansion"><span title="WGS84 koordinaadid">koordinaadiq: </span>{{#iferror:{{{type|}}}|{{{type}}}|{{#ifeq:{{{type|}}}|example|<span style="background: white"> ''Näide'' </span>}}}}{{CoordinateLINK
 |NS	={{{NS|0}}}
 |EW	={{{EW|0}}}
 |globe	={{{globe|}}}
